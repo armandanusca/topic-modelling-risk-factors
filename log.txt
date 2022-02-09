@@ -1,0 +1,385 @@
+Skipping filing detail download for '0000020212-01-000003' due to network error: 404 Client Error: Not Found for url: https://www.sec.gov/Archives/edgar/data/0000020212/000002021201000003/0001.txt.
+The 10K report of CHDN from 2020 is already in the DB
+The 10K report of CHDN from 2019 is already in the DB
+The 10K report of CHDN from 2018 is already in the DB
+The 10K report of CHDN from 2017 is already in the DB
+The 10K report of CHDN from 2016 is already in the DB
+The 10K report of CHDN from 2013 is already in the DB
+The 10K report of CHDN from 2011 is already in the DB
+The 10K report of CHDN from 2010 is already in the DB
+The 10K report of CHDN from 2009 is already in the DB
+The 10K report of CHDN from 2008 is already in the DB
+The 10K report of CHDN from 2007 is already in the DB
+The 10K report of CHDN from 2006 is already in the DB
+The 10K report of CHDN from 2005 is already in the DB
+The 10K report of CHDN from 2003 is already in the DB
+CHDN does not have 10K reports in 01
+SMG does not have 10K reports in 03
+SMG does not have 10K reports in 02
+SMG does not have 10K reports in 01
+CIEN does not have 10K reports in 00
+CMS-PB  does not have 10K reports in the selected timeframe
+Skipping filing detail download for '0000929624-01-000565' due to network error: 404 Client Error: Not Found for url: https://www.sec.gov/Archives/edgar/data/0000039911/000092962401000565/0001.txt.
+GPS does not have 10K reports in 02
+GPS does not have 10K reports in 01
+WMS does not have 10K reports in 02
+WMS does not have 10K reports in 01
+OZON  does not have 10K reports in the selected timeframe
+OUKPY  does not have 10K reports in the selected timeframe
+UGI does not have 10K reports in 05
+UGI does not have 10K reports in 05
+UGI does not have 10K reports in 04
+UGI does not have 10K reports in 04
+UGI does not have 10K reports in 03
+UGI does not have 10K reports in 03
+UGI does not have 10K reports in 02
+UGI does not have 10K reports in 02
+UGI does not have 10K reports in 00
+BRKS does not have 10K reports in 01
+BRKS does not have 10K reports in 00
+AA does not have 10K reports in 05
+KSS does not have 10K reports in 02
+FLEX does not have 10K reports in 01
+Skipping filing detail download for '0001036050-01-000535' due to network error: 404 Client Error: Not Found for url: https://www.sec.gov/Archives/edgar/data/0000350894/000103605001000535/0001.txt.
+SEIC does not have 10K reports in 03
+SEIC does not have 10K reports in 02
+SEIC does not have 10K reports in 01
+GRPTY  does not have 10K reports in the selected timeframe
+PTBRY  does not have 10K reports in the selected timeframe
+BCH  does not have 10K reports in the selected timeframe
+PLAN does not have 10K reports in 09
+PLAN does not have 10K reports in 08
+PLAN does not have 10K reports in 02
+PLAN does not have 10K reports in 01
+PLAN does not have 10K reports in 01
+PLAN does not have 10K reports in 01
+MRWSY  does not have 10K reports in the selected timeframe
+SLAB does not have 10K reports in 03
+SLAB does not have 10K reports in 01
+ROHCY  does not have 10K reports in the selected timeframe
+ITT does not have 10K reports in 06
+ITT does not have 10K reports in 05
+ITT does not have 10K reports in 04
+ITT does not have 10K reports in 03
+UTHR does not have 10K reports in 01
+TOKUY  does not have 10K reports in the selected timeframe
+GNTX does not have 10K reports in 08
+GNTX does not have 10K reports in 07
+GNTX does not have 10K reports in 06
+GNTX does not have 10K reports in 05
+GNTX does not have 10K reports in 04
+GNTX does not have 10K reports in 03
+GNTX does not have 10K reports in 02
+GNTX does not have 10K reports in 01
+File Error: data/07-ALV-report.txt
+File Error: data/06-ALV-report.txt
+File Error: data/05-ALV-report.txt
+File Error: data/04-ALV-report.txt
+File Error: data/03-ALV-report.txt
+AER  does not have 10K reports in the selected timeframe
+Skipping filing detail download for '0000914475-01-000010' due to network error: 404 Client Error: Not Found for url: https://www.sec.gov/Archives/edgar/data/0000914475/000091447501000010/0001.txt.
+NBIX does not have 10K reports in 02
+NBIX does not have 10K reports in 01
+BSAC  does not have 10K reports in the selected timeframe
+MKSI does not have 10K reports in 05
+MKSI does not have 10K reports in 04
+MKSI does not have 10K reports in 03
+MKSI does not have 10K reports in 02
+WRTBY  does not have 10K reports in the selected timeframe
+FSV  does not have 10K reports in the selected timeframe
+ASND  does not have 10K reports in the selected timeframe
+PVH does not have 10K reports in 03
+AQN  does not have 10K reports in the selected timeframe
+GLPEY  does not have 10K reports in the selected timeframe
+BSMX  does not have 10K reports in the selected timeframe
+ATR does not have 10K reports in 02
+CFR does not have 10K reports in 02
+NRG does not have 10K reports in 03
+VNO does not have 10K reports in 03
+PHYS  does not have 10K reports in the selected timeframe
+BMRRY  does not have 10K reports in the selected timeframe
+CIB does not have 10K reports in 05
+CIB does not have 10K reports in 03
+TSP  does not have 10K reports in the selected timeframe
+AHEXY  does not have 10K reports in the selected timeframe
+SOMMY  does not have 10K reports in the selected timeframe
+Skipping filing detail download for '0000899243-00-002691' due to network error: 404 Client Error: Not Found for url: https://www.sec.gov/Archives/edgar/data/0000864328/000089924300002691/0001.txt.
+BJ does not have 10K reports in 02
+BJ does not have 10K reports in 00
+DSEEY  does not have 10K reports in the selected timeframe
+Skipping filing detail download for '0000928385-01-000963' due to network error: 404 Client Error: Not Found for url: https://www.sec.gov/Archives/edgar/data/0001046311/000092838501000963/0001.txt.
+CHH does not have 10K reports in 02
+CHH does not have 10K reports in 01
+GGMC  does not have 10K reports in the selected timeframe
+MSTR does not have 10K reports in 04
+MSTR does not have 10K reports in 01
+MIUFY  does not have 10K reports in the selected timeframe
+Skipping filing detail download for '0001021408-01-001755' due to network error: 404 Client Error: Not Found for url: https://www.sec.gov/Archives/edgar/data/0000798941/000102140801001755/0001.txt.
+FCNCA does not have 10K reports in 02
+FCNCA does not have 10K reports in 01
+Skipping filing detail download for '0000898430-01-001074' due to network error: 404 Client Error: Not Found for url: https://www.sec.gov/Archives/edgar/data/0001025996/000089843001001074/0001.txt.
+KRC does not have 10K reports in 01
+HWDJY  does not have 10K reports in the selected timeframe
+CHPT  does not have 10K reports in the selected timeframe
+DNB does not have 10K reports in 04
+DNB does not have 10K reports in 03
+ZLIOY  does not have 10K reports in the selected timeframe
+RTMVY  does not have 10K reports in the selected timeframe
+MEGGY  does not have 10K reports in the selected timeframe
+OLED does not have 10K reports in 05
+OLED does not have 10K reports in 04
+OLED does not have 10K reports in 03
+OLED does not have 10K reports in 02
+HMTLY  does not have 10K reports in the selected timeframe
+GGDVY  does not have 10K reports in the selected timeframe
+GIL  does not have 10K reports in the selected timeframe
+BAK does not have 10K reports in 02
+WF does not have 10K reports in 05
+WF does not have 10K reports in 03
+Skipping filing detail download for '0000908141-00-000014' due to network error: 404 Client Error: Not Found for url: https://www.sec.gov/Archives/edgar/data/0001059697/000090814100000014/0001.txt.
+SF does not have 10K reports in 04
+SF does not have 10K reports in 03
+SF does not have 10K reports in 01
+SF does not have 10K reports in 00
+SEPJY  does not have 10K reports in the selected timeframe
+FUTU  does not have 10K reports in the selected timeframe
+WH does not have 10K reports in 03
+HLLGY  does not have 10K reports in the selected timeframe
+MBT does not have 10K reports in 08
+MBT does not have 10K reports in 07
+MBT does not have 10K reports in 06
+MBT does not have 10K reports in 05
+MBT does not have 10K reports in 04
+MBT does not have 10K reports in 03
+MBT does not have 10K reports in 02
+Skipping filing detail download for '0000049600-01-000006' due to network error: 404 Client Error: Not Found for url: https://www.sec.gov/Archives/edgar/data/0000049600/000004960001000006/0001.txt.
+EGP does not have 10K reports in 09
+EGP does not have 10K reports in 08
+EGP does not have 10K reports in 07
+EGP does not have 10K reports in 06
+EGP does not have 10K reports in 05
+EGP does not have 10K reports in 04
+EGP does not have 10K reports in 03
+EGP does not have 10K reports in 02
+EGP does not have 10K reports in 01
+GLBE  does not have 10K reports in the selected timeframe
+Skipping filing detail download for '0000926236-01-000035' due to network error: 404 Client Error: Not Found for url: https://www.sec.gov/Archives/edgar/data/0000718007/000092623601000035/0001.txt.
+Skipping filing detail download for '0000895810-01-000006' due to network error: 404 Client Error: Not Found for url: https://www.sec.gov/Archives/edgar/data/0000895810/000089581001000006/0001.txt.
+Skipping filing detail download for '0000930661-01-000820' due to network error: 404 Client Error: Not Found for url: https://www.sec.gov/Archives/edgar/data/0000745344/000093066101000820/0001.txt.
+Skipping filing detail download for '0000930661-01-000603' due to network error: 404 Client Error: Not Found for url: https://www.sec.gov/Archives/edgar/data/0001014552/000093066101000603/0001.txt.
+Skipping filing detail download for '0000828916-01-000004' due to network error: 404 Client Error: Not Found for url: https://www.sec.gov/Archives/edgar/data/0000828916/000082891601000004/0001.txt.
+Skipping filing detail download for '0000899243-01-000088' due to network error: 404 Client Error: Not Found for url: https://www.sec.gov/Archives/edgar/data/0000913614/000089924301000088/0001.txt.
+Skipping filing detail download for '0001108017-00-000063' due to network error: 404 Client Error: Not Found for url: https://www.sec.gov/Archives/edgar/data/0000835909/000110801700000063/0001.txt.
+Skipping filing detail download for '0000849116-00-000011' due to network error: 404 Client Error: Not Found for url: https://www.sec.gov/Archives/edgar/data/0000849116/000084911600000011/0001.txt.
+TX does not have 10K reports in 07
+TX does not have 10K reports in 06
+TX does not have 10K reports in 06
+TX does not have 10K reports in 05
+TX does not have 10K reports in 05
+TX does not have 10K reports in 04
+TX does not have 10K reports in 04
+TX does not have 10K reports in 04
+TX does not have 10K reports in 04
+TX does not have 10K reports in 04
+TX does not have 10K reports in 04
+TX does not have 10K reports in 03
+TX does not have 10K reports in 03
+TX does not have 10K reports in 03
+TX does not have 10K reports in 03
+TX does not have 10K reports in 03
+TX does not have 10K reports in 03
+TX does not have 10K reports in 03
+TX does not have 10K reports in 03
+TX does not have 10K reports in 03
+TX does not have 10K reports in 03
+TX does not have 10K reports in 03
+TX does not have 10K reports in 02
+TX does not have 10K reports in 02
+TX does not have 10K reports in 02
+TX does not have 10K reports in 02
+TX does not have 10K reports in 02
+TX does not have 10K reports in 01
+TX does not have 10K reports in 01
+TX does not have 10K reports in 01
+TX does not have 10K reports in 01
+TX does not have 10K reports in 01
+TX does not have 10K reports in 01
+TX does not have 10K reports in 01
+TX does not have 10K reports in 01
+TX does not have 10K reports in 01
+TX does not have 10K reports in 01
+TX does not have 10K reports in 01
+TX does not have 10K reports in 00
+TX does not have 10K reports in 00
+TX does not have 10K reports in 00
+TX does not have 10K reports in 00
+CHE does not have 10K reports in 06
+CHE does not have 10K reports in 05
+CHE does not have 10K reports in 04
+CHE does not have 10K reports in 03
+CHE does not have 10K reports in 02
+OSK does not have 10K reports in 02
+OSK does not have 10K reports in 01
+ORI does not have 10K reports in 06
+ORI does not have 10K reports in 05
+ORI does not have 10K reports in 04
+ORI does not have 10K reports in 03
+ATDRY  does not have 10K reports in the selected timeframe
+KGC  does not have 10K reports in the selected timeframe
+RNR does not have 10K reports in 04
+RNR does not have 10K reports in 03
+RNR does not have 10K reports in 02
+Skipping filing detail download for '0000950131-01-001498' due to network error: 404 Client Error: Not Found for url: https://www.sec.gov/Archives/edgar/data/0000014930/000095013101001498/0001.txt.
+BC does not have 10K reports in 05
+BC does not have 10K reports in 04
+BC does not have 10K reports in 03
+BC does not have 10K reports in 03
+BC does not have 10K reports in 01
+AU  does not have 10K reports in the selected timeframe
+FYBR  does not have 10K reports in the selected timeframe
+MAT does not have 10K reports in 02
+LFUS does not have 10K reports in 08
+LFUS does not have 10K reports in 07
+LFUS does not have 10K reports in 06
+LFUS does not have 10K reports in 05
+LFUS does not have 10K reports in 04
+LFUS does not have 10K reports in 03
+PAA does not have 10K reports in 02
+SGMS does not have 10K reports in 01
+VIPS  does not have 10K reports in the selected timeframe
+FR does not have 10K reports in 06
+FR does not have 10K reports in 06
+FR does not have 10K reports in 05
+FR does not have 10K reports in 05
+FR does not have 10K reports in 04
+FR does not have 10K reports in 04
+FR does not have 10K reports in 04
+FR does not have 10K reports in 03
+FR does not have 10K reports in 03
+FR does not have 10K reports in 02
+FR does not have 10K reports in 02
+FR does not have 10K reports in 02
+FR does not have 10K reports in 01
+FR does not have 10K reports in 01
+DNFGY  does not have 10K reports in the selected timeframe
+RGA does not have 10K reports in 06
+RGA does not have 10K reports in 05
+RGA does not have 10K reports in 04
+RGA does not have 10K reports in 03
+RGA does not have 10K reports in 01
+Skipping filing detail download for '0000794170-01-000002' due to network error: 404 Client Error: Not Found for url: https://www.sec.gov/Archives/edgar/data/0000794170/000079417001000002/0001.txt.
+TOL does not have 10K reports in 05
+TOL does not have 10K reports in 04
+TOL does not have 10K reports in 03
+TOL does not have 10K reports in 02
+TOL does not have 10K reports in 01
+DCI does not have 10K reports in 02
+CYBR  does not have 10K reports in the selected timeframe
+FFIN does not have 10K reports in 06
+FFIN does not have 10K reports in 05
+FFIN does not have 10K reports in 04
+FFIN does not have 10K reports in 03
+FFIN does not have 10K reports in 02
+FFIN does not have 10K reports in 01
+AMG does not have 10K reports in 02
+AMG does not have 10K reports in 01
+AMG does not have 10K reports in 01
+Skipping filing detail download for '0000875357-01-000002' due to network error: 404 Client Error: Not Found for url: https://www.sec.gov/Archives/edgar/data/0000875357/000087535701000002/0001.txt.
+BOKF does not have 10K reports in 10
+BOKF does not have 10K reports in 09
+BOKF does not have 10K reports in 08
+BOKF does not have 10K reports in 07
+BOKF does not have 10K reports in 06
+BOKF does not have 10K reports in 05
+BOKF does not have 10K reports in 04
+BOKF does not have 10K reports in 03
+BOKF does not have 10K reports in 02
+BOKF does not have 10K reports in 01
+DOOO  does not have 10K reports in the selected timeframe
+FURCF  does not have 10K reports in the selected timeframe
+CURLF  does not have 10K reports in the selected timeframe
+HNP  does not have 10K reports in the selected timeframe
+ACSAY  does not have 10K reports in the selected timeframe
+KLYCY  does not have 10K reports in the selected timeframe
+SLFPY  does not have 10K reports in the selected timeframe
+Skipping filing detail download for '0000863785-01-000003' due to network error: 404 Client Error: Not Found for url: https://www.sec.gov/Archives/edgar/data/0000863785/000086378501000003/0001.txt.
+Skipping filing detail download for '0000926044-01-000067' due to network error: 404 Client Error: Not Found for url: https://www.sec.gov/Archives/edgar/data/0000790818/000092604401000067/0001.txt.
+Skipping filing detail download for '0000792989-01-000001' due to network error: 404 Client Error: Not Found for url: https://www.sec.gov/Archives/edgar/data/0000792989/000079298901000001/0001.txt.
+Skipping filing detail download for '0000931763-01-000553' due to network error: 404 Client Error: Not Found for url: https://www.sec.gov/Archives/edgar/data/0001018215/000093176301000553/0001.txt.
+X does not have 10K reports in 12
+X does not have 10K reports in 11
+X does not have 10K reports in 10
+X does not have 10K reports in 09
+X does not have 10K reports in 07
+X does not have 10K reports in 06
+X does not have 10K reports in 06
+X does not have 10K reports in 06
+X does not have 10K reports in 06
+X does not have 10K reports in 06
+X does not have 10K reports in 06
+X does not have 10K reports in 05
+X does not have 10K reports in 05
+X does not have 10K reports in 05
+X does not have 10K reports in 05
+X does not have 10K reports in 05
+X does not have 10K reports in 05
+X does not have 10K reports in 05
+X does not have 10K reports in 05
+X does not have 10K reports in 04
+X does not have 10K reports in 04
+X does not have 10K reports in 04
+X does not have 10K reports in 04
+X does not have 10K reports in 04
+X does not have 10K reports in 04
+X does not have 10K reports in 04
+X does not have 10K reports in 04
+X does not have 10K reports in 04
+X does not have 10K reports in 04
+X does not have 10K reports in 04
+X does not have 10K reports in 03
+X does not have 10K reports in 03
+X does not have 10K reports in 03
+X does not have 10K reports in 03
+X does not have 10K reports in 03
+X does not have 10K reports in 03
+X does not have 10K reports in 03
+X does not have 10K reports in 03
+X does not have 10K reports in 03
+X does not have 10K reports in 03
+X does not have 10K reports in 02
+X does not have 10K reports in 02
+X does not have 10K reports in 02
+X does not have 10K reports in 02
+X does not have 10K reports in 02
+X does not have 10K reports in 02
+X does not have 10K reports in 02
+X does not have 10K reports in 02
+X does not have 10K reports in 02
+X does not have 10K reports in 01
+X does not have 10K reports in 01
+X does not have 10K reports in 01
+X does not have 10K reports in 01
+X does not have 10K reports in 01
+X does not have 10K reports in 01
+X does not have 10K reports in 01
+X does not have 10K reports in 01
+X does not have 10K reports in 01
+X does not have 10K reports in 01
+JSGRY  does not have 10K reports in the selected timeframe
+ACC does not have 10K reports in 06
+ACC does not have 10K reports in 05
+ACC does not have 10K reports in 05
+ACC does not have 10K reports in 05
+ACC does not have 10K reports in 05
+ACC does not have 10K reports in 05
+ACC does not have 10K reports in 04
+ACC does not have 10K reports in 04
+ACC does not have 10K reports in 04
+ACC does not have 10K reports in 03
+ACC does not have 10K reports in 03
+ACC does not have 10K reports in 02
+ACC does not have 10K reports in 02
+ACC does not have 10K reports in 02
+ACC does not have 10K reports in 02
+ACC does not have 10K reports in 02
+ASAI  does not have 10K reports in the selected timeframe

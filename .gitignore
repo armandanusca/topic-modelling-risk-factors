@@ -130,3 +130,6 @@ dmypy.json
 
 playground.ipynb
 playground.ipynb
+all_years_df.csv
+burstvectors_500.p
+collab_test.csv
