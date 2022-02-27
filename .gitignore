@@ -136,3 +136,4 @@ collab_test.csv
 sec-edgar-filings/
 data/*
 collab/collab_dataset_*
+model/*
