@@ -137,3 +137,8 @@ sec-edgar-filings/
 data/*
 collab/collab_dataset_*
 model/*
+collab_dataset_07_22__220000.csv
+collab_dataset_07_22.csv
+collab_dataset_small_07_22__220000.csv
+DTM_collab_dataset_small_07_22__220000_manual_sentence-transformers_default.csv
+output/DTM_local_manual_use_manual_10_(1, 2)_100_.csv
