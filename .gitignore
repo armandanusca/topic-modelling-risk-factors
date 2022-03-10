@@ -56,7 +56,6 @@ coverage.xml
 *.pot
 
 # Django stuff:
-*.log
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
@@ -142,3 +141,8 @@ collab_dataset_07_22.csv
 collab_dataset_small_07_22__220000.csv
 DTM_collab_dataset_small_07_22__220000_manual_sentence-transformers_default.csv
 output/DTM_local_manual_use_manual_10_(1, 2)_100_.csv
+models/BERTopic_model_local_custom_spacy_custom_10_(1, 2)_100
+models/BERTopic_model_local_manual_flair_manual_10_(1, 2)_100_
+models/BERTopic_model_local_manual_use_manual_10_(1, 3)_100_
+output/DTM_local_custom_spacy_custom_10_(1, 2)_100.csv
+models/BERTopic_model_local_custom_flair_default_local_dataset
