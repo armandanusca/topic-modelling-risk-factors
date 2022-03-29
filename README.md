@@ -28,7 +28,27 @@ Spasic, Irena et al., 2013, FlexiTerm: a flexible term recognition method, Journ
 * Extract risk factors section from SEC EDGAR and store them into a MongoDB instance
 * Dataset analysis for the extracted documents
 * BERTopic model - utilises DTM to generate a view over the evolution of topics throughout time
-* Burstiness model - utilises Emma Tattershal work to detect bursty terms https://github.com/etattershall/burst-detection
 * Regression model - forecast topic evolution
-* Classifier model - evaluate the burstiness of a term
+* Classifier model - evaluate the burstiness of a topic
+* Timeseries model - forecast topic evolution
 
+### Collab version with models, datasets and pretrained BERTopic can be found [here](https://drive.google.com/drive/folders/1IryUzW8f0Y2pSrlabYnRX-mS_E6lmSya?usp=sharing)
+
+#### User guide:
+(It is recommended to be used in a powerful environment comparable to the ones provided by [Google Colab Pro+](https://colab.research.google.com/signup))
+
+Prerequirements:
+- Git
+- (optional) Git LFS
+- Python 3.8
+- (optional) MongoDB
+
+1. Create a MongoDB instance locally - or restore the one provided [here](https://drive.google.com/drive/folders/1_zNuddgjzKGUmRq-m8qtTHsqMnJ5aez7?usp=sharing)
+2. Clone the repository
+3. (optional) Create a virtual environment
+4. Get the data - either by running data_gathering.ipynb or by downloading the datasets provided on [Google Drive](https://drive.google.com/drive/folders/1HymSyqCKMx73t9PHm2iGMdD72PWMSIpr?usp=sharing)
+5. Run BERTopic_Model (Dynamic Topic Modelling) in order to transform document data into topics based timeseries
+6. Run Increasing_Classifier: if you want to determine if a keyword is part of a topic which is going to increase in importance
+7. Run Regression_Model: if you want to predict evolution of topics past their limit in the dataset (or on future timestamps)
+
+## [Report]()

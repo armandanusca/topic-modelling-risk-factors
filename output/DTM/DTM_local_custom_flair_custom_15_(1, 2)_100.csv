@@ -1,3 +1,1567 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1c4fb61d0606e809383ebddb2eaa5fff23eb973741f3cf40ef02b4306ab9faa8
-size 117419
+,Topic,Words,Frequency,Timestamp
+0,-1,"financial, products, operations, company, results",82,2007-01-01
+1,0,"products, customers, results, sales, software",25,2007-01-01
+2,1,"clinical, product, candidates, drug, trials",14,2007-01-01
+3,2,"loans, bank, loan, financial, interest",20,2007-01-01
+4,3,"smaller reporting, statements, smaller, reporting company, report",2,2007-01-01
+5,4,"gas, oil, natural gas, natural, oil natural",7,2007-01-01
+6,5,"properties, reit, tenants, property, income",9,2007-01-01
+7,6,"investment, investments, portfolio, securities, income",5,2007-01-01
+8,7,"carmax, vehicle, vehicles, sales, carmaxs",5,2007-01-01
+9,8,"buy fiscal, contentspart i4item, i4item 4item, fiscal form, i4item",1,2007-01-01
+10,9,"enable, vitas, cash, operations, gas",6,2007-01-01
+11,11,"hotel, hotels, properties, reit, franchise",3,2007-01-01
+12,12,"healthcare, health, solutions, nrc health, services",3,2007-01-01
+13,16,"insurance, mortgage insurance, financial guaranty, mortgage, reinsurance",1,2007-01-01
+14,17,"met coal, coal, mining, met, mineral",1,2007-01-01
+15,18,"tds, wireless, spectrum, fcc, services",3,2007-01-01
+16,19,"factorsinformation, pages, factors21cautionary, factors21cautionary affect, factorsinformation companys",4,2007-01-01
+17,20,"president, clients, vice, vice president, cognizant",1,2007-01-01
+18,21,"video, programming, services, service, cable",2,2007-01-01
+19,22,"semiconductor, customers, products, manufacturing, semiconductor industry",2,2007-01-01
+20,23,"freight, fuel, carriers, transportation, drivers",5,2007-01-01
+21,25,"government, contracts, contract, government contracts, uas",7,2007-01-01
+22,29,"gold, custodian, trust, trustee, trusts gold",1,2007-01-01
+23,31,"television, programming, stations, performers, mcmahon",2,2007-01-01
+24,32,"aircraft, airline, government, contracts, parts",2,2007-01-01
+25,33,"water, wastewater, water wastewater, lowry, lowry range",3,2007-01-01
+26,34,"peoples united, peoples, united financial, dnb, stop shop",1,2007-01-01
+27,35,"ncm, ncm llc, founding, llc, founding members",1,2007-01-01
+28,37,"insurance, reinsurance, rli, rli ins, losses",1,2007-01-01
+29,39,", , , , ",2,2007-01-01
+30,40,"ppg, materials, raw, coatings, raw materials",1,2007-01-01
+31,42,"uso, futures, uscf, oil futures, oil",1,2007-01-01
+32,43,"lumber, treated lumber, lumber market, treated, lumber products",1,2007-01-01
+33,44,"solar, modules, solar modules, photovoltaic, energy",1,2007-01-01
+34,45,"avocados, avocado, calavo, fresh, fruit",1,2007-01-01
+35,46,"aircraft, companys, ethanol, fuel, airtran",3,2007-01-01
+36,47,"title insurance, title, fis, remy, investment",1,2007-01-01
+37,48,"value line, line, eam, value, line investment",1,2007-01-01
+38,50,"semiconductor, customers, products, wafer, packaging",4,2007-01-01
+39,51,"refined, refineries, refined products, crude, crude oil",1,2007-01-01
+40,54,"paper, piumpf, 2021 senior, pulp, fine paper",1,2007-01-01
+41,55,"mge, energy, electric, power, mge energy",1,2007-01-01
+42,56,"chemical, operations, raw, principal stockholder, stockholder affiliates",1,2007-01-01
+43,57,"products, food, snack, foods, brands",3,2007-01-01
+44,59,"game, games, video game, titles, video",3,2007-01-01
+45,61,"company, watches, jewelry, watch, smart",1,2007-01-01
+46,63,"homes, homebuilding, mortgage, land, home",2,2007-01-01
+47,64,"fuel cell, power, fuel, nep, energy",1,2007-01-01
+48,65,"evercore, lp, clients, advisory, evercore lp",2,2007-01-01
+49,66,"cruise, ships, cruises, vacation, guests",1,2007-01-01
+50,67,"equipment, rental, construction, credit, rental fleet",2,2007-01-01
+51,73,"government, aerospace, aircraft, discussion, statements",1,2007-01-01
+52,75,"home, financial position, position, operations financial, products",2,2007-01-01
+53,77,"vistaprint, websites, united states, united, states",2,2007-01-01
+54,78,"certain scaled, elected comply, scaled disclosure, therefore provide, obligations therefore",1,2007-01-01
+55,79,"filings exchange, act part, report described, company filings, described company",1,2007-01-01
+56,83,"kaplan, title iv, ed, iv, title",1,2007-01-01
+57,84,"products, animal, veterinary, product, veterinarians",1,2007-01-01
+58,85,"mortgage, insurance, mgic, mortgage insurance, gses",2,2007-01-01
+59,89,"pharmacy, pharmaceutical, health, generic, products",2,2007-01-01
+60,90,"financial measures, report form, annual report, details derivation, detail 3table",1,2007-01-01
+61,92,"electronic trading, trading, trading platform, electronic, platform",1,2007-01-01
+62,94,"grainger, pet, stock class, graingers, class common",2,2007-01-01
+63,95,"oem suppliers, oem, mitac, operating results, operating",1,2007-01-01
+64,97,"statements made, report relate, statements, contentspagepart, relate events",1,2007-01-01
+65,99,"kcs, rail, railroads, railroad, mexican",3,2007-01-01
+66,102,"window, doors, windows, impact resistant, newsouth",1,2007-01-01
+67,103,"tobacco, leaf, leaf tobacco, tobacco products, farmers",1,2007-01-01
+68,104,"cequent, cequent businesses, spin, businesses, material",1,2007-01-01
+69,108,"florida, real, real estate, estate, northwest florida",1,2007-01-01
+70,109,"boat, marine, sea ray, brunswick, dealers",1,2007-01-01
+71,112,"company, company financial, affect company, company ability, company common",1,2007-01-01
+72,113,"products, spine, scientx, share purchase, tissue",1,2007-01-01
+73,118,"mortgage insurance, mortgage, insurance, care insurance, term care",1,2007-01-01
+74,119,"fuel, aviation, customers, aviation marine, marine land",1,2007-01-01
+75,120,"railcar, railcars, portland, backlog, abilityto",1,2007-01-01
+76,126,"leases, term note, self storage, note securitizations, cp",1,2007-01-01
+77,131,"southern, traditional operating, operating companies, traditional, southern company",1,2007-01-01
+78,133,"beryllium, products, cts, sales, customers",1,2007-01-01
+79,134,"steel, iron ore, ore, iron, merger",2,2007-01-01
+80,136,"fpl, fpl group, group fpl, group, duke",1,2007-01-01
+81,-1,"company, financial, operations, products, results",123,2008-01-01
+82,0,"products, customers, software, sales, results",33,2008-01-01
+83,1,"clinical, product, candidates, drug, trials",21,2008-01-01
+84,2,"bank, loans, loan, financial, capital",20,2008-01-01
+85,3,"smaller reporting, smaller, statements, reporting company, reporting",6,2008-01-01
+86,4,"gas, oil, natural gas, natural, oil natural",14,2008-01-01
+87,5,"properties, reit, tenants, real, real estate",12,2008-01-01
+88,6,"investment, investments, securities, portfolio, income",8,2008-01-01
+89,7,"vehicle, vehicles, dealerships, dealership, automotive",10,2008-01-01
+90,8,"mortgage, fannie, mae, fannie mae, loans",14,2008-01-01
+91,9,"vitas, debt, hotels, gas, hospice",7,2008-01-01
+92,10,"combination, initial, initial combination, warrants, target",5,2008-01-01
+93,11,"hotel, hotels, travel, reit, tax",4,2008-01-01
+94,12,"healthcare, health, medicare, care, services",4,2008-01-01
+95,13,"medicare, health, asset sale, notes, pharmacy",3,2008-01-01
+96,15,"restaurants, restaurant, franchisees, food, fuddruckers",3,2008-01-01
+97,16,"insurance, reinsurance, company, premiums, insurance company",2,2008-01-01
+98,17,"mining, exploration, mineral, mine, gold",2,2008-01-01
+99,18,"wireless, services, new services, suppliers vendors, new",1,2008-01-01
+100,19,"pages document, factors20forward statements30, factorsrisk pages, statements30, factors20forward",2,2008-01-01
+101,20,"president, vice, vice president, mr, licensees",4,2008-01-01
+102,21,"services, service, content, subscribers, video",4,2008-01-01
+103,22,"semiconductor, semiconductor equipment, equipment, test, products",1,2008-01-01
+104,24,"rule 12b, 12b, defined rule, 12b exchange, provide information",1,2008-01-01
+105,25,"government, contracts, contract, costs, us",2,2008-01-01
+106,26,"southern, southern company, gas, spire, power",3,2008-01-01
+107,27,"unitholders, units, general partner, partner, common units",3,2008-01-01
+108,29,"ishares, gold, trust, custodian, trustee",1,2008-01-01
+109,31,"programming, wwe, television, stations, fcc",2,2008-01-01
+110,32,"aircraft, company, max, airline, faa",1,2008-01-01
+111,33,"water, wastewater, water wastewater, water supply, costs",1,2008-01-01
+112,34,"interest, interest rates, rates, changes interest, loans",1,2008-01-01
+113,35,"theatre, hotels resorts, film, movie, films",1,2008-01-01
+114,36,"homes, home, land, homebuilding, mortgage",1,2008-01-01
+115,37,"puerto rico, rico, puerto, insurance, corporation",1,2008-01-01
+116,38,"search, users, advertising, services, homeadvisor",1,2008-01-01
+117,39,", , , , ",2,2008-01-01
+118,40,"software, aspenone, products, raw, process",3,2008-01-01
+119,41,"qvc, group, liberty, xm, programming",2,2008-01-01
+120,42,"ung, futures, uscf, contracts, us12of",2,2008-01-01
+121,43,"timber, timberlands, zealand, new zealand, timberland",2,2008-01-01
+122,45,"fruit, vegetables, vegetable, food, fruit vegetable",3,2008-01-01
+123,47,"title, title insurance, insurance, stewart, investment",1,2008-01-01
+124,48,"viad, viads, ges, viads businesses, exhibitgroup",1,2008-01-01
+125,49,"revise result, common stock32, stock32, related business17risks, factors17risks",2,2008-01-01
+126,51,"refined, refineries, crude, refined products, crude oil",1,2008-01-01
+127,54,"paper, pulp, million, credit, debt",3,2008-01-01
+128,56,"navy, chinese, operations, results, results operations",1,2008-01-01
+129,57,"products, food, snack, foodservice, sales",2,2008-01-01
+130,58,"ctg, gsci, clients, revenue, gsci er",2,2008-01-01
+131,59,"games, game, titles, entertainment, revenue",3,2008-01-01
+132,60,"euro, trust, depository, price euro, deposit",1,2008-01-01
+133,61,"jewelry, moissanite, finished jewelry, jewels, insurance",2,2008-01-01
+134,62,"engagements, consultants, clients, client, employee",2,2008-01-01
+135,66,"cruise, ships, cruises, vacation, guests",2,2008-01-01
+136,69,"sears, members customers, craftsman, sears canada, merchandise",1,2008-01-01
+137,72,"satellites, satellite, merger, radios, sirius radios",1,2008-01-01
+138,73,"government, aerospace, aerospace businesses, aircraft, businesses",1,2008-01-01
+139,74,"nea, njea, power, power purchase, energy",1,2008-01-01
+140,75,"home improvement, home, improvement, sales, stores",1,2008-01-01
+141,76,"mv, mv partners, trust, underlying properties, profits interest",1,2008-01-01
+142,77,"fulfillment, services, websites, commerce, inventory",1,2008-01-01
+143,78,"reinsurance, rga, insurance, life, company",2,2008-01-01
+144,81,"footwear, companys, apparel, footwear apparel, company",1,2008-01-01
+145,85,"insurance, title, title insurance, mortgage, dividends insurance",1,2008-01-01
+146,87,"printers, printing, products, materials, printer",1,2008-01-01
+147,92,"siebert, trading, securities, broker, brokerage",1,2008-01-01
+148,97,"reliance statements, iitem business1item, undue reliance, business1item, place undue",2,2008-01-01
+149,100,"laboratory, cdd, company, laboratories, testing",2,2008-01-01
+150,105,"salons, beauty, products, company, products corporation",2,2008-01-01
+151,106,"industry62, relating industry62, factors43risks, factors43risks relating, relating business44risks",1,2008-01-01
+152,108,"florida, real, estate, real estate, northwest florida",3,2008-01-01
+153,110,"properties, tenants, megaplex, entertainment, asset liquidation",2,2008-01-01
+154,111,"independent associates, associates, independent, company, network marketing",2,2008-01-01
+155,112,"company, rio rancho, media services, rancho, rio",1,2008-01-01
+156,113,"products, spine, device, fda, surgeons",1,2008-01-01
+157,114,"clients, client, advertising marketing, agencies, financial position",1,2008-01-01
+158,116,"guaranty, fair value, fair, value, losses",1,2008-01-01
+159,124,"telesat, satellite, satellites, loral, xtar",1,2008-01-01
+160,125,"companys, companys products, materials, affect companys, raw",1,2008-01-01
+161,128,"seed, mosaic, cargill, crop, phosphate",1,2008-01-01
+162,130,"mmc, mercer, consulting, insurance, marsh",2,2008-01-01
+163,131,"southern, traditional operating, southern company, operating companies, traditional",2,2008-01-01
+164,135,"advisors, advisors clients, clients, secured credit, service",1,2008-01-01
+165,136,"nuclear, duke, fuel, power, duke energy",1,2008-01-01
+166,-1,"financial, products, operations, us, results",125,2009-01-01
+167,0,"products, customers, results, operations, financial",47,2009-01-01
+168,1,"product, clinical, candidates, product candidates, trials",24,2009-01-01
+169,2,"bank, loans, loan, financial, interest",29,2009-01-01
+170,3,"smaller reporting, smaller, reporting company, provide information, reporting",15,2009-01-01
+171,4,"gas, oil, natural gas, natural, oil natural",12,2009-01-01
+172,5,"properties, reit, tenants, income, property",13,2009-01-01
+173,6,"investment, investments, portfolio, securities, debt",8,2009-01-01
+174,7,"vehicle, vehicles, dealerships, automotive, operations",12,2009-01-01
+175,8,"mortgage, mae, fannie, loans, fannie mae",11,2009-01-01
+176,9,"stock, feedstock, series, preferred, preferred stock",2,2009-01-01
+177,10,"combination, initial, initial combination, kcs, warrants",2,2009-01-01
+178,11,"hotel, hotels, reit, company, properties",9,2009-01-01
+179,12,"healthcare, services, health, company, vips",7,2009-01-01
+180,13,"medicare, medicaid, care, health, rico",4,2009-01-01
+181,14,"fund, futures, funds, vix, benchmark",7,2009-01-01
+182,15,"restaurants, franchisees, restaurant, food, franchise",3,2009-01-01
+183,16,"aig, insurance, reinsurance, subsidiaries, aig parent",1,2009-01-01
+184,17,"exploration, mineral, mining, gold, company",5,2009-01-01
+185,18,"wireless, spectrum, fcc, tds, services",4,2009-01-01
+186,19,"factorsinformation, applicable registrant, pages, factorsnot, companys included",4,2009-01-01
+187,20,"president, vice, vice president, mr, served",3,2009-01-01
+188,21,"content, subscribers, sky, video, services",2,2009-01-01
+189,22,"semiconductor, products, manufacturing, customers, sales",4,2009-01-01
+190,23,"fuel, freight, carriers, transportation, drivers",3,2009-01-01
+191,24,"factorswe smaller, rule 12b, 12b, defined rule, 12b exchange",1,2009-01-01
+192,25,"leidos, contracts, government, contract, lockheed martin",1,2009-01-01
+193,26,"southern, southern company, gas, spire, power",2,2009-01-01
+194,27,"general partner, unitholders, partner, units, common units",3,2009-01-01
+195,28,"companys, beer, breweries, company, hops",1,2009-01-01
+196,29,"ishares, gold, trust, custodian, trustee",1,2009-01-01
+197,30,"farmer, farmer mac, agricultural, mac, stores",3,2009-01-01
+198,31,"programming, television, stations, content, fcc",1,2009-01-01
+199,32,"aircraft, contracts, airline, government, program",1,2009-01-01
+200,33,"water, rangeview, wastewater, rangeview district, lowry",4,2009-01-01
+201,34,"company, dnb, fhlb, interest, bank",1,2009-01-01
+202,35,"theatre, cinema, film, ncm, films",2,2009-01-01
+203,36,"homes, land, homebuilding, home, homebuilders",2,2009-01-01
+204,37,"insurance, reinsurance, company, catastrophe, claims",5,2009-01-01
+205,40,"bway, pik notes, raw, pik, products",4,2009-01-01
+206,42,"usl, futures, uscf, contracts, futures contracts",1,2009-01-01
+207,43,"carpet, floorcovering, lumber, timber, masland",2,2009-01-01
+208,44,"solar, modules, pv, energy, solar modules",3,2009-01-01
+209,45,"avocados, sale transaction, fresh, fruit, calavo",3,2009-01-01
+210,46,"ethanol, biodiesel, fuel, national fuels, fuels",2,2009-01-01
+211,49,"factors13risks related, common stock30, factors13risks, business13risks, business13risks related",1,2009-01-01
+212,51,"holly, unitholders, refined, general partner, partner",1,2009-01-01
+213,52,"payroll, clients, paychex, services, workers",2,2009-01-01
+214,53,"snap, franchisees, snap ons, ons, pension",1,2009-01-01
+215,54,"paper, coated, paper products, indebtedness, raw",1,2009-01-01
+216,55,"mge, energy, electric, generation, power",1,2009-01-01
+217,56,"nalco, consolidated results, position cash, operations, consolidated",1,2009-01-01
+218,57,"products, food, nut, flowers, foods",3,2009-01-01
+219,58,"gsci, investing pool, cerfs, gsci er, investing",2,2009-01-01
+220,59,"game, video game, video, games, game products",2,2009-01-01
+221,62,"engagements, employee, consultants, employee consultants, clients",1,2009-01-01
+222,65,"evercore, evercore lp, lp, clients, advisory",1,2009-01-01
+223,67,"equipment, construction, rod, pc strand, strand",2,2009-01-01
+224,68,"furniture, sc transport, transport inc, office furniture, raw",1,2009-01-01
+225,69,"contract professionals, clients, contract, professionals, staffing",2,2009-01-01
+226,71,"class common, class, lived, tax, shares class",1,2009-01-01
+227,72,"spacecraft, aso, satellite, satellites, space",1,2009-01-01
+228,73,"government, aerospace, percent, aircraft, percent total",1,2009-01-01
+229,75,"home, home improvement, financial position, sales, products",2,2009-01-01
+230,76,"mv, mv partners, trust, underlying properties, profits interest",1,2009-01-01
+231,78,"reinsurance, rga, insurance, life, ceding",2,2009-01-01
+232,79,"filings exchange, act part, report described, company filings, described company",3,2009-01-01
+233,80,"gaming, casino, casinos, colorado, slot",1,2009-01-01
+234,81,"footwear, ugg, products, brands, sales",1,2009-01-01
+235,82,"factorssee managements, factorssee, factorsdisclosure, factorsdisclosure regarding, performance set",2,2009-01-01
+236,83,"title iv, education, students, iv, title",1,2009-01-01
+237,85,"mortgage, loans, mgic, insurance, mortgage insurance",1,2009-01-01
+238,88,"coal, mining, coke, cokemaking, mine",2,2009-01-01
+239,91,"drilling, rigs, drilling contracts, rig, offshore",1,2009-01-01
+240,92,"brokerage, trading, electronic, markets, broker",1,2009-01-01
+241,94,"grainger, position assumed, pandemic, grainger ability, products",1,2009-01-01
+242,95,"oem suppliers, mitac, oem, mitac international, operating results",1,2009-01-01
+243,98,"dte, registrants, dte energy, energy, gas",1,2009-01-01
+244,103,"tobacco, cigarette, tobacco products, swm, lip",1,2009-01-01
+245,104,"material, heartland, future, arconics, union",1,2009-01-01
+246,105,"salons, salon, franchisees, company, franchise",1,2009-01-01
+247,108,"bay, bay holdings, real, estate, real estate",1,2009-01-01
+248,111,"sales force, force, company, direct consumer, consumer companies",1,2009-01-01
+249,112,"company, nrg, furniture, within, markets",1,2009-01-01
+250,113,"products, spine, surgeons, fda, distributors",1,2009-01-01
+251,114,"motorola, motorola mobility, clients, motorola marks, mobility",1,2009-01-01
+252,116,"guaranty, fair value, fair, value, losses",2,2009-01-01
+253,123,"hetnets, wireless, shared wireless, wireless infrastructure, shared",2,2009-01-01
+254,124,"content, services, content delivery, customers, telesat",1,2009-01-01
+255,127,"income, reit, assets, mortgage, tax",1,2009-01-01
+256,129,"factorssmaller, factorssmaller reporting, reporting companies, companies required, required provide",2,2009-01-01
+257,130,"mmc, consulting, mercer, putnam, insurance",3,2009-01-01
+258,131,"southern, traditional operating, southern company, operating companies, traditional",1,2009-01-01
+259,132,"varex, auto, state auto, auto mutual, president",1,2009-01-01
+260,133,"beryllium, sales, products solutions, products, solutions services",1,2009-01-01
+261,134,"steel, iron, iron ore, ore, building",2,2009-01-01
+262,136,"fpl, fpl group, group fpl, group, duke",1,2009-01-01
+263,-1,"operations, financial, products, us, results",130,2010-01-01
+264,0,"products, customers, results, operations, sales",48,2010-01-01
+265,1,"clinical, product, candidates, product candidates, approval",28,2010-01-01
+266,2,"bank, loans, loan, interest, financial",30,2010-01-01
+267,3,"smaller reporting, smaller, reporting company, provide information, reporting",9,2010-01-01
+268,4,"gas, oil, natural gas, natural, oil natural",18,2010-01-01
+269,5,"properties, reit, tenants, income, real",11,2010-01-01
+270,6,"investment, investments, portfolio, securities, value",11,2010-01-01
+271,7,"ntic, vehicle, vehicles, sales, automotive",10,2010-01-01
+272,8,"mortgage, fannie, mae, fannie mae, fhfa",9,2010-01-01
+273,9,"twc, bright house, bright, charter, twc transaction",7,2010-01-01
+274,10,"combination, initial, initial combination, stock, shares",2,2010-01-01
+275,11,"hotel, hotels, reit, hotel properties, properties",7,2010-01-01
+276,12,"healthcare, care, medicare, health, services",5,2010-01-01
+277,13,"medicare, care, health, reit, medicaid",5,2010-01-01
+278,14,"fund, funds, futures, vix, benchmark",3,2010-01-01
+279,15,"restaurants, restaurant, franchisees, food, franchise",4,2010-01-01
+280,16,"argo, reinsurance, insurance, argo group, argo groups",2,2010-01-01
+281,18,"wireless, products, tds, customers, services",5,2010-01-01
+282,19,"pages, report pages, statementspages, factors11general risks, risks uncertainties11",4,2010-01-01
+283,20,"ibm, company, president, notes, vice",4,2010-01-01
+284,21,"services, ticketmaster, company, content, service",3,2010-01-01
+285,22,"semiconductor, manufacturing, customers, wafer, products",4,2010-01-01
+286,23,"fuel, freight, carriers, drivers, equipment",1,2010-01-01
+287,24,"rule 12b, 12b, defined rule, 12b exchange, provide information",2,2010-01-01
+288,25,"contracts, government, contract, dredging, federal government",4,2010-01-01
+289,26,"southern, southern company, power, company gas, traditional electric",1,2010-01-01
+290,28,"companys, wine, brands, beverage, products",2,2010-01-01
+291,29,"gold, custodian, trust, trustee, sub",2,2010-01-01
+292,30,"agricultural, agricultural equipment, farmer, farmer mac, agricultural industry",1,2010-01-01
+293,31,"television, stations, programming, fcc, station",1,2010-01-01
+294,32,"boeing, aircraft, b787, spirit, airbus",1,2010-01-01
+295,33,"water, desalination, wastewater, px, water supply",3,2010-01-01
+296,34,"dnb, bank, interest, loans, financial",3,2010-01-01
+297,35,"ncm, cotter, founding, ncm llc, founding members",2,2010-01-01
+298,36,"homes, land, homebuilding, home, construction",1,2010-01-01
+299,37,"insurance subsidiaries, insurance, subsidiaries, donegal, company",3,2010-01-01
+300,38,"iac, search, interval, users, advertising",1,2010-01-01
+301,39,", , , , ",2,2010-01-01
+302,41,"4kids, television, 4kids tv, programming, broadcast",1,2010-01-01
+303,42,"ung, uso, futures, uscf, contracts",2,2010-01-01
+304,43,"lumber, timber, sales, growth, lumber market",2,2010-01-01
+305,44,"solar, modules, pv, pv modules, quality assurance",2,2010-01-01
+306,45,"senior secured, secured, senior, notes debentures, secured credit",1,2010-01-01
+307,47,"title, title insurance, fgl, insurance, investment",1,2010-01-01
+308,49,"revise result, contentstable, update revise, iitem, events otherwise",4,2010-01-01
+309,50,"semiconductor, manufacturing, products, china, customers",2,2010-01-01
+310,51,"biodiesel, nitrogen, fertilizer, biofuels, nitrogen fertilizer",1,2010-01-01
+311,53,"snap, franchisees, snap ons, ons, operations cash",2,2010-01-01
+312,54,"pulp, paper, papers, kimberly, kimberly clark",3,2010-01-01
+313,55,"avista, mge, energy, avista utilities, utilities",2,2010-01-01
+314,57,"kraft foods, foods, kraft, president, food",1,2010-01-01
+315,59,"game, games, titles, products, video game",2,2010-01-01
+316,60,"earnings, trust, clients, northern, negatively",1,2010-01-01
+317,61,"jewelry, moissanite, insurance, financial, effect",3,2010-01-01
+318,62,"clients, client, consultants, engagements, employee",3,2010-01-01
+319,63,"homebuilding, homes, mortgage, profitability stock, stock performance",1,2010-01-01
+320,64,"power, energy, generation, nep, facilities",1,2010-01-01
+321,65,"evercore, investment, advisory, jmp, clients",2,2010-01-01
+322,66,"cruise, ships, cruises, vacation, guests",1,2010-01-01
+323,67,"equipment, rental, construction, credit, rental fleet",2,2010-01-01
+324,68,"furniture, virco, raw, price list, school",1,2010-01-01
+325,69,"claims, insurance, claim, losses, claim adjustment",1,2010-01-01
+326,71,"class common, products, results, class, lived",2,2010-01-01
+327,73,"government, aerospace, percent, aircraft, percent total",1,2010-01-01
+328,74,"nstar, electric, gas, psnh, eversource",1,2010-01-01
+329,77,"fulfillment, services, fulfillment network, inventory, content",1,2010-01-01
+330,83,"education, strayer, title iv, strayer university, programs",1,2010-01-01
+331,84,"animal, animal health, health, patterson, dental",1,2010-01-01
+332,85,"mortgage, loans, mgic, insurance, mortgage insurance",1,2010-01-01
+333,86,"uranium, mining, exploration, nuclear, new mexico",1,2010-01-01
+334,87,"vistaprint, printing, websites, products, customers",1,2010-01-01
+335,88,"coal, mining, nsp, psco, energy",3,2010-01-01
+336,90,"contentsregis corporationform, 2table contentsregis, contentsregis, business4executive officers, 14a 2table",1,2010-01-01
+337,92,"electronic trading, trading, trading platform, broker, electronic",1,2010-01-01
+338,94,"grainger, fiscal, pet, garden, stock class",2,2010-01-01
+339,95,"oem, products, oem customers, customers, operating results",2,2010-01-01
+340,96,"distributors, products, herbalife, dietary, oxide",2,2010-01-01
+341,100,"laboratory, laboratories, testing, clinical laboratory, clinical",1,2010-01-01
+342,102,"cranes, manitowoc, crane, boom, products",1,2010-01-01
+343,104,"raw, nickel, raw materials, materials, material",1,2010-01-01
+344,105,"salons, condition profitability, salon, products, profitability cash",2,2010-01-01
+345,108,"bay, bay holdings, real, convertible notes, convertible",1,2010-01-01
+346,110,"trust, best buy, unit holders, stores, properties",2,2010-01-01
+347,115,"qvc, group, institution, tracking stock, title iv",5,2010-01-01
+348,118,"notes, senior credit, senior, subsidiaries, guarantors",1,2010-01-01
+349,119,"amak, extraordinary, extraordinary transactions, investment amak, transactions",1,2010-01-01
+350,121,"equipment, seismic, seismic equipment, lease pool, lease",1,2010-01-01
+351,126,"cp conduit, cp, conduit warehouse, term note, conduit",1,2010-01-01
+352,133,"beryllium, sales, beryllium containing, alloys, products",1,2010-01-01
+353,134,"steel, iron ore, ore, iron, mining",2,2010-01-01
+354,135,"advisors, advisors clients, clients, trading, secured credit",2,2010-01-01
+355,-1,"financial, company, operations, products, us",150,2011-01-01
+356,0,"products, customers, results, operations, financial",50,2011-01-01
+357,1,"clinical, product, candidates, product candidates, trials",27,2011-01-01
+358,2,"bank, loans, loan, financial, interest",35,2011-01-01
+359,3,"smaller reporting, smaller, reporting company, required smaller, provide information",20,2011-01-01
+360,4,"gas, oil, natural gas, natural, oil natural",15,2011-01-01
+361,5,"properties, reit, tenants, company, income",13,2011-01-01
+362,6,"investment, investments, portfolio, securities, company",7,2011-01-01
+363,7,"vehicle, vehicles, automotive, operations, sales",12,2011-01-01
+364,8,"mortgage, mae, fannie, loans, fannie mae",20,2011-01-01
+365,9,"stations, debt, operations, tax, reit",7,2011-01-01
+366,10,"combination, initial, stock, initial combination, pegintron",2,2011-01-01
+367,11,"hotel, hotels, reit, properties, income",10,2011-01-01
+368,12,"clients, customer care, healthcare, client, customer",3,2011-01-01
+369,13,"care, medicare, health, medicaid, hospitals",3,2011-01-01
+370,14,"fund, funds, futures, vix, commodity",7,2011-01-01
+371,15,"restaurants, restaurant, food, franchisees, franchise",3,2011-01-01
+372,16,"argo, insurance, reinsurance, argo group, subsidiaries",3,2011-01-01
+373,17,"exploration, mining, mineral, tetlin, minerals",2,2011-01-01
+374,18,"uscellular, tds, tdss, wireless, spectrum",3,2011-01-01
+375,19,"pages, report pages, information incorporated, factorsinformation, factorsinformation response",3,2011-01-01
+376,20,"vice, company, president, financial, guaranty",3,2011-01-01
+377,21,"cable, programming, video, services, content",2,2011-01-01
+378,22,"semiconductor, test, wafer, customers, products",3,2011-01-01
+379,23,"fuel, freight, hpt, carriers, hospitality trust",5,2011-01-01
+380,24,"factorswe smaller, rule 12b, 12b, defined rule, 12b exchange",1,2011-01-01
+381,25,"government, contracts, contract, uas, government contracts",4,2011-01-01
+382,26,"southern, southern company, power, traditional operating, operating companies",3,2011-01-01
+383,27,"progold, members, units, corn, cargill",1,2011-01-01
+384,28,"wine, alcohol, companys, wines, beverage",1,2011-01-01
+385,29,"custodian, gold, trust, ishares, sub",4,2011-01-01
+386,31,"stations, radio, fcc, programming, station",1,2011-01-01
+387,32,"aircraft, parts, airline, oems, replacement parts",2,2011-01-01
+388,33,"water, lowry, lowry range, wastewater, district",2,2011-01-01
+389,34,"peoples united, peoples, dnb, united financial, interest",3,2011-01-01
+390,35,"imax, theater, film, films, ncm",2,2011-01-01
+391,36,"homes, land, home, homebuilding, construction",1,2011-01-01
+392,37,"insurance subsidiaries, donegal mutual, donegal, insurance, mutual",1,2011-01-01
+393,38,"users, google, angi, homeservices, angi homeservices",1,2011-01-01
+394,39,", , , , ",2,2011-01-01
+395,40,"metals, metals usa, raw, results, operations",3,2011-01-01
+396,41,"xm, sirius xm, sirius, bahama, tommy bahama",2,2011-01-01
+397,42,"futures, uscf, bno, uso, ung",5,2011-01-01
+398,43,"flooring, timber, floorcovering, carpet, lumber",3,2011-01-01
+399,44,"solar, pv, modules, energy, solar energy",5,2011-01-01
+400,46,"isobutanol, ethanol, convertible notes, convertible, production",1,2011-01-01
+401,47,"fair value, fair, value, balance, gaap",1,2011-01-01
+402,48,"philly, exchange agreement, hunter, nidus, ms hunter",1,2011-01-01
+403,49,"revise result, contentspart 4item, 4item business4item, important furthermore, law 2table",2,2011-01-01
+404,50,"semiconductor, customers, notes, products, customer",1,2011-01-01
+405,51,"biodiesel, nitrogen, fertilizer, biofuels, nitrogen fertilizer",1,2011-01-01
+406,53,"snap, franchisees, snap ons, ons, operations cash",1,2011-01-01
+407,54,"paper, fiber, products, pcc, costs",3,2011-01-01
+408,55,"enable, electric, centerpoint energy, energy, centerpoint",1,2011-01-01
+409,56,"company, operations, oil, results, oil natural",2,2011-01-01
+410,57,"food, products, branded, sales, foods",1,2011-01-01
+411,58,"ctg, gsci, solutions, revenue, services",2,2011-01-01
+412,59,"games, game, products, platforms, content",2,2011-01-01
+413,60,"earnings, trust, northern, clients, northern trusts",1,2011-01-01
+414,61,"jewelry, company, moissanite, watches, jewels",2,2011-01-01
+415,62,"engagements, consultants, clients, client, employee",2,2011-01-01
+416,63,"homebuilding, homes, mortgage, profitability stock, mortgage banking",1,2011-01-01
+417,64,"waste, energy, energy waste, nep, projects",3,2011-01-01
+418,65,"evercore, mbia corp, mbia, lp, corp",3,2011-01-01
+419,66,"cruise, ships, cruises, guests, ship",2,2011-01-01
+420,68,"furniture, office furniture, tax, dealers, raw",1,2011-01-01
+421,72,"satellite, satellites, services, ss, spectrum",1,2011-01-01
+422,73,"aerospace, aircraft, government, military, aviation",3,2011-01-01
+423,74,"nstar, electric, psnh, cl, transmission",1,2011-01-01
+424,75,"net sales, hardwood, flooring, stores, store",1,2011-01-01
+425,77,"fulfillment, services, websites, inventory, content",1,2011-01-01
+426,78,"certain scaled, elected comply, scaled disclosure, therefore provide, obligations therefore",1,2011-01-01
+427,80,"gaming, macau, wynn, casino, resorts",2,2011-01-01
+428,83,"title iv, students, education, iv, title",2,2011-01-01
+429,85,"bkfs, group, fnf, group common, fnfv group",1,2011-01-01
+430,88,"coal, mining, coal supply, mine, mining operations",2,2011-01-01
+431,89,"pharmacy, pbm, health, medicare part, medicare",1,2011-01-01
+432,90,"statements, international incform, incform, incform ktable, qualified foregoing",1,2011-01-01
+433,91,"drilling, rigs, drilling contracts, rig, offshore",1,2011-01-01
+434,92,"trading, electronic trading, trading platform, electronic, platform",2,2011-01-01
+435,93,"prc, paper, paper hb, hb, orient paper",1,2011-01-01
+436,94,"grainger, grainger reputation, affect grainger, grainger ability, grainger sales",1,2011-01-01
+437,95,"company, oem, results, company internal, products",1,2011-01-01
+438,97,"statements, reliance statements, undue reliance, place undue, undue",3,2011-01-01
+439,98,"dte, registrants, dte energy, energy, gas",1,2011-01-01
+440,99,"rail, year quarter, liquidity particular, particular year, kcs",1,2011-01-01
+441,104,"raw, lifo, materials, raw materials, lifo method",1,2011-01-01
+442,106,"industry62, relating industry62, factors43risks, factors43risks relating, relating business44risks",3,2011-01-01
+443,107,"de conversion, fep, de, conversion, fluoride",1,2011-01-01
+444,110,"trust, unit holders, brog, royalties, unit",1,2011-01-01
+445,111,"company, sgrp common, sgrp, sbs, independent associates",2,2011-01-01
+446,114,"clients, client, media, advertising marketing, advertising",1,2011-01-01
+447,115,"operations cash, water transmission, cash flows, flows, tubular products",1,2011-01-01
+448,116,"guaranty, fair value, fair, value, losses",1,2011-01-01
+449,118,"notes, senior credit, subsidiaries, credit, senior",3,2011-01-01
+450,120,"railcar, railcars, greenbrier, greenbrier companies, portland",1,2011-01-01
+451,121,"equipment, seismic, seismic equipment, lease pool, lease",1,2011-01-01
+452,124,"content, services, content delivery, customers, telesat",2,2011-01-01
+453,128,"seed, phosphate, alfalfa, crop, potash",2,2011-01-01
+454,131,"southern, traditional operating, southern company, operating companies, traditional",1,2011-01-01
+455,134,"steel, iron, scrap, iron ore, steel products",1,2011-01-01
+456,-1,"products, company, operations, financial, results",158,2012-01-01
+457,0,"products, customers, sales, results, operations",47,2012-01-01
+458,1,"clinical, product, candidates, product candidates, trials",33,2012-01-01
+459,2,"bank, loans, loan, financial, capital",29,2012-01-01
+460,3,"smaller reporting, reporting company, smaller, provide information, required provide",9,2012-01-01
+461,4,"gas, oil, natural gas, natural, oil natural",19,2012-01-01
+462,5,"properties, tenants, reit, real, property",10,2012-01-01
+463,6,"investment, investments, portfolio, securities, value",11,2012-01-01
+464,7,"vehicle, automotive, vehicles, parts, sales",8,2012-01-01
+465,8,"mortgage, mae, fannie, loans, fannie mae",10,2012-01-01
+466,9,"vitas, debt, stock, us, ability",7,2012-01-01
+467,10,"combination, initial, initial combination, target, warrants",3,2012-01-01
+468,11,"hotel, hotels, reit, properties, tax",6,2012-01-01
+469,12,"concentra, health, care, healthcare, hillrom",3,2012-01-01
+470,13,"medicare, care, healthcare, medicaid, health",6,2012-01-01
+471,14,"fund, funds, futures, vix, benchmark",7,2012-01-01
+472,15,"restaurants, restaurant, arbys, arg, food",3,2012-01-01
+473,16,"insurance, reinsurance, company, claims, bermuda",9,2012-01-01
+474,17,"exploration, mining, mineral, gold, properties",4,2012-01-01
+475,18,"wireless, tds, customers, products, idt",2,2012-01-01
+476,19,"factorsinformation, report pages, applicable registrant, factorsinformation response, response found",3,2012-01-01
+477,20,"ibm, hereby incorporated, company, hereby, president",2,2012-01-01
+478,21,"video, services, cable, service, programming",6,2012-01-01
+479,22,"semiconductor, customers, products, manufacturing, stock",2,2012-01-01
+480,23,"equipment, carriers, freight, drivers, freight rates",1,2012-01-01
+481,24,"rule 12b, 12b, defined rule, company defined, smaller reporting",5,2012-01-01
+482,25,"government, contracts, contract, revenues, government contracts",3,2012-01-01
+483,26,"southern, southern company, power, gas, electric",4,2012-01-01
+484,27,"unitholders, general partner, units, partner, common units",2,2012-01-01
+485,28,"coffee, store, food, wine, quality",1,2012-01-01
+486,29,"gold, custodian, trust, palladium, sub",4,2012-01-01
+487,30,"farmer mac, farmer, mac, agricultural, agvantage",2,2012-01-01
+488,31,"programming, television, programming networks, networks, content",2,2012-01-01
+489,32,"aircraft, contracts, airline, government, boeing",3,2012-01-01
+490,33,"water, wastewater, utility, water supply, water wastewater",2,2012-01-01
+491,34,"peoples united, peoples, united financial, dnb, stop shop",2,2012-01-01
+492,37,"insurance, company, reinsurance, crusader, financial",2,2012-01-01
+493,38,"iac, interval, users, advertising, mobile",2,2012-01-01
+494,40,"metals, metals usa, abl facility, abl, raw",2,2012-01-01
+495,42,"bno, futures, ung, uscf, contracts",2,2012-01-01
+496,43,"carpet, floorcovering, lumber, yarn, residential",2,2012-01-01
+497,44,"solar, solar energy, energy systems, energy, gaiam",1,2012-01-01
+498,45,"avocados, avocado, fresh, fruit, food",4,2012-01-01
+499,46,"isobutanol, ethanol, fuel, lng, production",3,2012-01-01
+500,47,"company, title, companys, bank, investment",2,2012-01-01
+501,48,"tournament, players, player, mineral, tournaments",2,2012-01-01
+502,49,"revise result, contentspart 4item, 4item business4item, important furthermore, law 2table",1,2012-01-01
+503,51,"fertilizer, nitrogen fertilizer, nitrogen, partnership, crude",3,2012-01-01
+504,52,"engagements, client, transportation industry, manufacturers owners, liability demand",1,2012-01-01
+505,53,"snap, franchisees, snap ons, sara, ons",2,2012-01-01
+506,54,"pcc, paper, company, results, expected results",1,2012-01-01
+507,58,"investing pool, cerfs, investing, gsci, pool",1,2012-01-01
+508,59,"games, game, content, entertainment, products",1,2012-01-01
+509,60,"trust, euro, depository, investment, assets management",2,2012-01-01
+510,61,"jewelry, moissanite, jewels, finished jewelry, moissanite jewels",1,2012-01-01
+511,62,"engagements, employee consultants, consultants, employee, debentures",1,2012-01-01
+512,63,"homebuilding, homes, mortgage, profitability stock, stock performance",1,2012-01-01
+513,65,"firms, firm, jpmorgan, affect firms, chases",1,2012-01-01
+514,66,"cruise, ships, cruises, guests, carnival",1,2012-01-01
+515,67,"properties, equipment, operating partnership, distributions, stockholders",1,2012-01-01
+516,68,"furniture, virco, products, sales, raw",2,2012-01-01
+517,69,"oxford, oxford square, clo, square management, investment",2,2012-01-01
+518,71,"product liability, raw, results, operations, liability",2,2012-01-01
+519,73,"tethered, aerospace, government, aircraft, wasp",2,2012-01-01
+520,74,"psnh, cl, electric, transmission, nstar",3,2012-01-01
+521,75,"griffon, home, telephonics, products, financial position",2,2012-01-01
+522,76,"voc, voc brazos, brazos, trust, underlying properties",1,2012-01-01
+523,77,"companys, educational, book fairs, book clubs, school book",1,2012-01-01
+524,78,"reinsurance, rga, insurance, life, premiums",2,2012-01-01
+525,79,"filings exchange, act part, report described, company filings, described company",1,2012-01-01
+526,80,"gaming, casino, stock, playtech, company",1,2012-01-01
+527,81,"footwear, athletic footwear, athletic, products, sales",1,2012-01-01
+528,83,"title iv, education, students, iv, title",1,2012-01-01
+529,85,"mortgage, mgic, insurance, loans, mortgage insurance",1,2012-01-01
+530,86,"uranium, extraction, mining, exploration, mine",2,2012-01-01
+531,87,"quad graphics, quad, graphics, company, printing",1,2012-01-01
+532,89,"probuphine, pharmacy, prescription, drug, prescription drug",2,2012-01-01
+533,90,"statements, international incform, incform, incform ktable, qualified foregoing",1,2012-01-01
+534,91,"drilling, rigs, percent, company, approximately percent",1,2012-01-01
+535,92,"trading, electronic trading, clients, electronic, broker",1,2012-01-01
+536,93,"solar, encapsulant, encapsulants, china, module",1,2012-01-01
+537,96,"oxide, products, epa, ethylene oxide, ethylene",1,2012-01-01
+538,97,"statements made, report relate, statements, contentspagepart, relate events",1,2012-01-01
+539,98,"dte, registrants, dte energy, energy, gas",1,2012-01-01
+540,102,"window, vinyl, spacer, quanex, fenestration",1,2012-01-01
+541,106,"industry62, factors43risks relating, relating business44risks, relating industry62, factors43risks",1,2012-01-01
+542,111,"independent associates, associates, independent, network marketing, associate",1,2012-01-01
+543,114,"clients, client, agencies, advertising marketing, marketing",1,2012-01-01
+544,123,"hetnets, wireless, position results, adverse affect, financial position",1,2012-01-01
+545,124,"content, services, content delivery, customers, delivery",1,2012-01-01
+546,125,"water avr, avr, avr product, products, dupont",1,2012-01-01
+547,126,"self storage, storage facilities, reit, self, storage",2,2012-01-01
+548,127,"reit, income, assets, mortgage, tax",1,2012-01-01
+549,129,"factorssmaller, factorssmaller reporting, reporting companies, companies required, required provide",2,2012-01-01
+550,130,"mercer, marsh, insurance, consulting, services",1,2012-01-01
+551,133,"beryllium, sales, products, beryllium containing, precious",2,2012-01-01
+552,135,"advisors, advisors clients, clients, service, secured credit",2,2012-01-01
+553,-1,"operations, financial, products, company, results",176,2013-01-01
+554,0,"products, sales, results, customers, product",47,2013-01-01
+555,1,"product, clinical, candidates, product candidates, trials",28,2013-01-01
+556,2,"bank, loans, loan, financial, interest",31,2013-01-01
+557,3,"smaller reporting, smaller, reporting company, provide information, required provide",23,2013-01-01
+558,4,"gas, oil, natural gas, natural, oil natural",22,2013-01-01
+559,5,"properties, reit, income, tenants, tax",13,2013-01-01
+560,6,"investment, portfolio, investments, securities, value",13,2013-01-01
+561,7,"vehicle, vehicles, dealerships, automotive, dealership",11,2013-01-01
+562,8,"golf, mortgage, company, mae, loans",7,2013-01-01
+563,9,"stock, operations, common, common stock, debt",8,2013-01-01
+564,10,"combination, initial combination, initial, warrants, target",3,2013-01-01
+565,11,"hotel, hotels, travel, tax, reit",2,2013-01-01
+566,12,"care, health, company, medicare, home health",3,2013-01-01
+567,13,"living, medicare, senior living, living communities, communities",6,2013-01-01
+568,14,"fund, futures, funds, vix, commodity",10,2013-01-01
+569,15,"restaurants, franchisees, food, restaurant, franchise",4,2013-01-01
+570,16,"insurance, reinsurance, argo, argo group, underwriting",3,2013-01-01
+571,17,"mining, mineral, stock, counter bulletin, common",1,2013-01-01
+572,19,"report pages, applicable registrant, pages, factorsnot, factorsnot applicable",5,2013-01-01
+573,20,"company, president, ibm, watches, vice",4,2013-01-01
+574,21,"services, magicjack, service, napster, cable",3,2013-01-01
+575,22,"semiconductor, customers, products, manufacturing, sales",6,2013-01-01
+576,23,"fuel, freight, carriers, equipment, truck",6,2013-01-01
+577,24,"factorswe smaller, rule 12b, 12b, defined rule, provide information",3,2013-01-01
+578,25,"contracts, government, contract, government contracts, us",2,2013-01-01
+579,26,"southern, southern company, power, electric, gas",4,2013-01-01
+580,27,"general partner, unitholders, partner, units, common units",3,2013-01-01
+581,28,"wine, beverage, coffee, wines, vineyards",2,2013-01-01
+582,29,"custodian, gold, trust, palladium, sub",4,2013-01-01
+583,30,"farmer, farmer mac, mac, agricultural, bunge",2,2013-01-01
+584,31,"stations, television, programming, fcc, d2",5,2013-01-01
+585,32,"factors11risks, related jetblue11risks, jetblue11risks, jetblue11risks associated, factors11risks related",1,2013-01-01
+586,33,"water, rangeview, rangeview district, wastewater, lowry",4,2013-01-01
+587,34,"people united, people, stop shop, dnb, loan",1,2013-01-01
+588,35,"ncm, founding, ncm llc, ncm llcs, llcs",3,2013-01-01
+589,36,"homes, home, homebuilding, land, mortgage",3,2013-01-01
+590,38,"search, users, iac, advertising, websites",1,2013-01-01
+591,39,", , , , ",3,2013-01-01
+592,40,"raw, pension, tdcc, results, costs",2,2013-01-01
+593,41,"xm, sirius xm, sirius, liberty, programming",2,2013-01-01
+594,42,"uso, futures, uscf, oil, contracts",1,2013-01-01
+595,43,"flooring, timber, carpet, hardwood, lumber",3,2013-01-01
+596,44,"solar, solar energy, gaiam, energy, energy systems",2,2013-01-01
+597,45,"kaanapali, coffee, hawaii, maui, land",1,2013-01-01
+598,46,"ethanol, fuel, tenant, costs, prior tenant",1,2013-01-01
+599,47,"invesco, investment, aum, clients, investment management",2,2013-01-01
+600,48,"script, consultant, shmuel, scripts, film",1,2013-01-01
+601,49,"revise result, contentspart 4item, 4item business4item, important furthermore, law 2table",1,2013-01-01
+602,51,"fertilizer, nitrogen fertilizer, nitrogen, partnership, refining",2,2013-01-01
+603,52,"payroll, clients, paychex, hr, services",2,2013-01-01
+604,53,"snap, franchisees, snap ons, ons, user customers",1,2013-01-01
+605,55,"consumers, cms, mge, energy, cms energy",2,2013-01-01
+606,56,"chemical, westlake partners, westlake, raw, principal stockholder",1,2013-01-01
+607,58,"investing pool, cerfs, gsci, investing, gsci er",2,2013-01-01
+608,59,"titles, games, game, software, products",1,2013-01-01
+609,60,"earnings, trust, clients, affect earnings, negatively",1,2013-01-01
+610,63,"homes, land, home, homebuyers, financial performance",3,2013-01-01
+611,64,"tegal, energy, sequel, sequel power, solar",2,2013-01-01
+612,66,"ships, cruise, cruises, nclh, ship",1,2013-01-01
+613,67,"equipment, goodwill, indebtedness, rental, acquisitions",1,2013-01-01
+614,68,"furniture, office furniture, dealers, raw, furniture industry",1,2013-01-01
+615,69,"residential, affect residential, family rental, incentive management, generate incentive",1,2013-01-01
+616,70,"lae, losses lae, workers, workers compensation, insurance",3,2013-01-01
+617,71,"class common, class, lived, shares class, indefinite lived",1,2013-01-01
+618,72,"space, spacecraft, space shuttle, satellite, shuttle",1,2013-01-01
+619,74,"electric, nstar, psnh, gas, wmeco",1,2013-01-01
+620,75,"lowes companies, depot lowes, residential construction, improvement residential, risks uncertainties",1,2013-01-01
+621,76,"trust, underlying properties, mv, mv partners, net profits",2,2013-01-01
+622,78,"reinsurance, rga, insurance, life, premiums",1,2013-01-01
+623,79,"filings exchange, act part, report described, company filings, described company",1,2013-01-01
+624,80,"gaming, wynn, casino, wynn resorts, resorts",2,2013-01-01
+625,81,"footwear, nike, products, athletic, apparel",1,2013-01-01
+626,83,"title iv, education, title, iv, strayer",1,2013-01-01
+627,84,"animal, pfizer, animal health, health, products",1,2013-01-01
+628,90,"forth exhibit, factorssome important, factorssome, report set, differ companys",1,2013-01-01
+629,91,"drilling, approximately percent, rigs, percent, percent fiscal",1,2013-01-01
+630,92,"trading, brokerage, electronic, broker, markets",2,2013-01-01
+631,93,"prc, orient paper, orient, paper, paper hb",1,2013-01-01
+632,94,"grainger, fiscal, pet, stock class, garden",1,2013-01-01
+633,95,"mitac, oem suppliers, oem, mitac international, operating results",1,2013-01-01
+634,96,"dietary, supplements, dietary supplements, nutritional, products",1,2013-01-01
+635,97,"reliance statements, iitem business1item, undue reliance, place undue, itable contentsinformation",1,2013-01-01
+636,98,"dte, registrants, gas, energy, dte energy",2,2013-01-01
+637,100,"laboratory, tests, testing, laboratories, clinical laboratory",1,2013-01-01
+638,104,"arconics, arconic, alcoa corporation, alcoa, affect arconics",2,2013-01-01
+639,105,"condition profitability, profitability cash, beauty, ulta, salon",1,2013-01-01
+640,106,"related industry12, industry12, risks related, related, risks",1,2013-01-01
+641,108,"florida, real, real estate, estate, northwest florida",1,2013-01-01
+642,109,"boat, sea ray, marine, dealers, boats",1,2013-01-01
+643,111,"company, independent associates, independent, associates, sgrp",3,2013-01-01
+644,113,"products, spine, surgeons, tissue, fda",1,2013-01-01
+645,114,"clients, client, media, advertising marketing, advertising",1,2013-01-01
+646,117,"cannabis, dea, schedule, controlled substances, substances",1,2013-01-01
+647,118,"american express, express, american, insurance, annuity",1,2013-01-01
+648,120,"railcar, railcars, railcar components, backlog, components",1,2013-01-01
+649,121,"equipment, seismic, seismic equipment, lease pool, lease",1,2013-01-01
+650,123,"hetnets, wireless, products, customers, shared wireless",1,2013-01-01
+651,126,"self storage, storage facilities, self, storage, reit",1,2013-01-01
+652,130,"mercer, marsh, insurance, consulting, services",1,2013-01-01
+653,131,"southern, traditional operating, operating companies, southern company, traditional",1,2013-01-01
+654,136,"southern, southern company, duke, power, electric",1,2013-01-01
+655,-1,"financial, products, company, operations, us",193,2014-01-01
+656,0,"products, customers, results, operations, sales",63,2014-01-01
+657,1,"clinical, product, candidates, product candidates, trials",49,2014-01-01
+658,2,"bank, loans, loan, financial, interest",46,2014-01-01
+659,3,"smaller reporting, smaller, reporting company, provide information, required smaller",26,2014-01-01
+660,4,"gas, natural gas, oil, natural, oil natural",18,2014-01-01
+661,5,"properties, reit, income, tenants, real",14,2014-01-01
+662,6,"investment, portfolio, investments, securities, value",21,2014-01-01
+663,7,"vehicle, vehicles, dealerships, automotive, sales",8,2014-01-01
+664,8,"mortgage, fannie, mae, fannie mae, loans",19,2014-01-01
+665,9,"vitas, chicken, operations, us, stock",13,2014-01-01
+666,10,"combination, initial, initial combination, target, hertz",6,2014-01-01
+667,11,"hotel, hotels, travel, properties, reit",11,2014-01-01
+668,12,"companys, healthcare, company, carefusion, care",2,2014-01-01
+669,13,"medicare, health, care, medicaid, healthcare",5,2014-01-01
+670,14,"fund, futures, funds, vix, benchmark",6,2014-01-01
+671,15,"restaurants, restaurant, franchisees, food, franchise",5,2014-01-01
+672,16,"insurance, reinsurance, company, subsidiaries, claims",7,2014-01-01
+673,17,"mineral, mining, exploration, gold, mine",5,2014-01-01
+674,18,"cellular, wireless, cellular financial, effect cellular, tds",1,2014-01-01
+675,19,"applicable registrant, factorsnot applicable, factorsnot, registrant, applicable",1,2014-01-01
+676,20,"president, vice, vice president, ibm, company",4,2014-01-01
+677,21,"services, fcc, service, telephone, cable",1,2014-01-01
+678,22,"semiconductor, manufacturing, products, customers, semiconductor industry",1,2014-01-01
+679,23,"fuel, hospitality trust, freight, hospitality, reit management",2,2014-01-01
+680,24,"rule 12b, 12b, defined rule, company defined, smaller reporting",2,2014-01-01
+681,25,"government, contracts, contract, revenues, government contracts",5,2014-01-01
+682,26,"southern, southern company, power, gas, company gas",3,2014-01-01
+683,27,"general partner, unitholders, units, partner, common units",3,2014-01-01
+684,28,"wine, beer, alcohol, brands, companys",8,2014-01-01
+685,29,"custodian, gold, trust, palladium, bullion",3,2014-01-01
+686,30,"farmer, farmer mac, prc, chen, mr chen",1,2014-01-01
+687,31,"programming, television, stations, fcc, networks",8,2014-01-01
+688,32,"aircraft, contracts, airline, government, costs",1,2014-01-01
+689,33,"water, lowry, lowry range, wastewater, land board",1,2014-01-01
+690,34,"dnb, loans, bank, interest, loan",2,2014-01-01
+691,35,"cotter, theatre, film, ncm, cinema",3,2014-01-01
+692,36,"homes, homebuilding, home, consumer mortgage, residential consumer",2,2014-01-01
+693,37,"insurance, reinsurance, company, claims, losses",1,2014-01-01
+694,38,"users, user, mobile, advertising, facebook",2,2014-01-01
+695,39,", , , , ",4,2014-01-01
+696,40,"raw, chlor, chlor alkali, pension, alkali",3,2014-01-01
+697,41,"xm, sirius xm, sirius, live, satellite",2,2014-01-01
+698,42,"bno, futures, uscf, contracts, futures contracts",1,2014-01-01
+699,43,"timber, timberlands, performance fibers, fibers, reit",1,2014-01-01
+700,44,"solar, pv, modules, pv modules, solar energy",2,2014-01-01
+701,45,"acp, hlb, estate development, real estate, land",1,2014-01-01
+702,47,"fair value, fair, value, invesco, investment",2,2014-01-01
+703,48,"trust, mv, trustee, mv oil, oil trust",3,2014-01-01
+704,50,"semiconductor, products, customers, manufacturing, customer",4,2014-01-01
+705,51,"biodiesel, unitholders, crude, crude oil, oil",2,2014-01-01
+706,52,"clients, payroll, paychex, hr, services",3,2014-01-01
+707,54,"containerboard, fiber, recycled fiber, corrugated, pca",1,2014-01-01
+708,55,"consumers, cms, cms energy, energy, energy consumers",1,2014-01-01
+709,56,"nalco, operations, results, results operations, energy",2,2014-01-01
+710,57,"flowers, bakery, products, foods, sales",1,2014-01-01
+711,58,"investing pool, gsci, cerfs, gsci er, er",2,2014-01-01
+712,60,"earnings, trust, clients, affect earnings, negatively",1,2014-01-01
+713,61,"jewelry, moissanite, jewels, finished jewelry, moissanite jewels",1,2014-01-01
+714,62,"engagements, consultants, clients, client, employee",2,2014-01-01
+715,63,"homes, front yard, yard, front, home",2,2014-01-01
+716,64,"energy, waste, covanta, projects, energy waste",2,2014-01-01
+717,65,"evercore, advisory, senior managing, managing directors, clients",1,2014-01-01
+718,66,"cruise, ships, cruises, guests, carnival",1,2014-01-01
+719,67,"equipment, rental, construction, senior, indebtedness",2,2014-01-01
+720,68,"virco, furniture, sales, season, raw",3,2014-01-01
+721,69,"clients, services, client, cis, us",1,2014-01-01
+722,70,"workers compensation, workers, insurance, compensation, claims",3,2014-01-01
+723,71,"products, operations, results, product liability, results operations",2,2014-01-01
+724,72,"ss, satellite, telesat, satellites, telesats",2,2014-01-01
+725,75,"flows financial, former parent, operations cash, home, parent",1,2014-01-01
+726,76,"trust, underlying properties, enduro, underlying, net profits",1,2014-01-01
+727,77,"vistaprint, websites, united states, united, states",1,2014-01-01
+728,78,"rga, reinsurance, insurance, life, premiums",1,2014-01-01
+729,79,"filings exchange, act part, report described, company filings, described company",1,2014-01-01
+730,81,"footwear, products, sales, ugg, independent manufacturers",2,2014-01-01
+731,82,"factorssee managements, factorssee, analysis financial, managements discussions, discussions analysis",2,2014-01-01
+732,83,"title iv, iv, title, students, iv programs",1,2014-01-01
+733,84,"theme, parks, theme parks, animal, park",1,2014-01-01
+734,85,"mortgage, mgic, insurance, gses, mortgage insurance",2,2014-01-01
+735,86,"uranium, raml, mining, de conversion, nuclear",3,2014-01-01
+736,88,"coal, mining, mine, coal supply, mining operations",1,2014-01-01
+737,89,"pharmacy, pbm, health, pharmacies, retail",1,2014-01-01
+738,90,"statements, international incform, incform, incform ktable, qualified foregoing",1,2014-01-01
+739,91,"drilling, rigs, drilling contracts, rig, offshore",3,2014-01-01
+740,93,"prc, china, dongfang, dongfang paper, paper",3,2014-01-01
+741,94,"pet, garden, grainger, lawn garden, products",2,2014-01-01
+742,95,"oem, oem suppliers, operating results, mitac, suppliers",2,2014-01-01
+743,96,"products, dietary, nutritional, oxide, supplements",2,2014-01-01
+744,97,"statements made, statements, report relate, contentspagepart, relate events",1,2014-01-01
+745,98,"dte, registrants, dte energy, energy, gas",1,2014-01-01
+746,99,"rail, kcs, railcars, railroads, railroad",2,2014-01-01
+747,100,"laboratory, cdd, lcd, testing, laboratories",1,2014-01-01
+748,101,"mobile, services, video, telephony, broadband",1,2014-01-01
+749,102,"building systems, building, steel, metal, engineered building",1,2014-01-01
+750,103,"tobacco, cigarette, tobacco products, ams, swm",2,2014-01-01
+751,105,"beauty, condition profitability, profitability cash, salon, ulta",2,2014-01-01
+752,106,"industry62, relating industry62, factors43risks, factors43risks relating, relating business44risks",1,2014-01-01
+753,109,"marine products, marine, boat, products, dealers",1,2014-01-01
+754,112,"company, nrg, company class, company ability, class common",2,2014-01-01
+755,113,"products, spine, fda, product, alphatec",2,2014-01-01
+756,114,"clients, marketing, media, advertising, agencies",2,2014-01-01
+757,116,"guaranty, fair value, fair, value, losses",2,2014-01-01
+758,117,"cannabis, marijuana, medical, medical marijuana, company",1,2014-01-01
+759,119,"fuel, cristal, soda ash, soda, ash",2,2014-01-01
+760,123,"wireless, hetnets, products, customers, shared wireless",1,2014-01-01
+761,125,"companys, materials, raw materials, raw, matters",1,2014-01-01
+762,126,"self storage, storage facilities, self, storage, reit",1,2014-01-01
+763,127,"income, reit, assets, mortgage, tax",1,2014-01-01
+764,129,"factorssmaller, factorssmaller reporting, reporting companies, companies required, information required",1,2014-01-01
+765,130,"mercer, marsh, insurance, consulting, services",1,2014-01-01
+766,132,"varex, auto, state auto, insurance, auto mutual",1,2014-01-01
+767,133,"beryllium, sales, products, cts, beryllium containing",2,2014-01-01
+768,135,"advisors, advisors clients, clients, secured credit, regulatory",1,2014-01-01
+769,136,"duke, duke energys, energys, duke energy, energy",1,2014-01-01
+770,-1,"company, financial, products, operations, us",205,2015-01-01
+771,0,"products, customers, results, operations, us",80,2015-01-01
+772,1,"product, clinical, candidates, product candidates, trials",52,2015-01-01
+773,2,"loans, bank, loan, interest, financial",38,2015-01-01
+774,3,"smaller reporting, smaller, reporting company, provide information, required provide",28,2015-01-01
+775,4,"gas, oil, natural gas, natural, oil natural",28,2015-01-01
+776,5,"properties, reit, tenants, income, real",18,2015-01-01
+777,6,"investment, investments, portfolio, securities, debt",9,2015-01-01
+778,7,"vehicle, vehicles, automotive, dealerships, operations",17,2015-01-01
+779,8,"mortgage, fannie, mae, fannie mae, loans",10,2015-01-01
+780,9,"tripadvisor, vitas, debt, notes, stock",8,2015-01-01
+781,10,"combination, initial, initial combination, mict, target",5,2015-01-01
+782,11,"hotels, hotel, travel, reit, ashford",5,2015-01-01
+783,12,"healthcare, health, solutions, care, company",10,2015-01-01
+784,13,"medicare, care, medicaid, health, healthcare",8,2015-01-01
+785,14,"fund, futures, funds, vix, commodity",8,2015-01-01
+786,15,"restaurants, restaurant, franchisees, food, franchise",8,2015-01-01
+787,16,"insurance, reinsurance, company, subsidiaries, claims",4,2015-01-01
+788,17,"mining, exploration, mineral, gold, mine",10,2015-01-01
+789,18,"wireless, tds, cellular, cellulars, services",9,2015-01-01
+790,19,"registrant cautionary, regarding statements3, statements3, applicable registrant, factorsnot applicable",2,2015-01-01
+791,20,"president, vice, vice president, imation, products",2,2015-01-01
+792,21,"services, service, content, video, fcc",3,2015-01-01
+793,22,"semiconductor, packaging test, customers, packaging, semiconductor industry",2,2015-01-01
+794,23,"fuel, company, equipment, snow, transportation",4,2015-01-01
+795,24,"rule 12b, 12b, defined rule, provide information, company defined",6,2015-01-01
+796,25,"government, contracts, contract, federal government, government contracts",2,2015-01-01
+797,26,"southern, southern company, power, traditional operating, operating companies",3,2015-01-01
+798,27,"general partner, partner, unitholders, units, common units",3,2015-01-01
+799,28,"alcohol, wine, brands, beverage, beer",4,2015-01-01
+800,29,"custodian, platinum, trust, gold, bullion",2,2015-01-01
+801,30,"farmer mac, farmer, mac, agricultural, participating preferred",3,2015-01-01
+802,31,"programming, television, stations, fcc, station",3,2015-01-01
+803,32,"aircraft, replacement parts, parts, jet engine, overhaul",3,2015-01-01
+804,33,"water, jose water, water company, jose, san jose",2,2015-01-01
+805,34,"bank, dnb, loans, interest, loan",4,2015-01-01
+806,35,"theatre, film, theatres, films, ncm",2,2015-01-01
+807,36,"homes, homebuilding, home, land, mortgage",3,2015-01-01
+808,37,"insurance, company, claims, crusader, reinsurance",2,2015-01-01
+809,38,"users, user, mobile, advertising, advertisers",3,2015-01-01
+810,39,", , , , ",1,2015-01-01
+811,40,"pension, chlor alkali, chlor, alkali, raw",2,2015-01-01
+812,41,"xm, sirius xm, sirius, starz, liberty",2,2015-01-01
+813,42,"usl, futures, unl, uscf, contracts",2,2015-01-01
+814,43,"lumber, treated lumber, lumber market, preservative, lumber products",1,2015-01-01
+815,44,"solar, energy, pv, modules, solar energy",2,2015-01-01
+816,45,"avocados, fresh, orchards, avocado, calavo",2,2015-01-01
+817,47,"fair value, fair, value, invesco, investment",2,2015-01-01
+818,48,"shack, shacks, shake, shake shack, square",4,2015-01-01
+819,49,"revise result, contentspart 4item, 4item business4item, important furthermore, law 2table",1,2015-01-01
+820,50,"cyberdisplay, transistor, semiconductor, hbt, hbt transistor",2,2015-01-01
+821,51,"biodiesel, refined, crude, crude oil, refined products",4,2015-01-01
+822,52,"clients, wses, hr, payroll, workers",2,2015-01-01
+823,53,"snap, franchisees, pension, operations cash, operations",2,2015-01-01
+824,55,"mge, energy, electric, power, generation",1,2015-01-01
+825,56,"operations, results, results operations, chinese, energy",1,2015-01-01
+826,57,"nut, products, food, snack, nuts",3,2015-01-01
+827,58,"ctg, gsci, revenue, gsci er, services",1,2015-01-01
+828,60,"trust, holdings, company, contentsstr holdings, contentsstr",3,2015-01-01
+829,61,"company, insurance, watches, financial, statutory",3,2015-01-01
+830,62,"engagements, consultants, clients, employee, client",2,2015-01-01
+831,64,"nep, projects, energy, nep opco, nee",2,2015-01-01
+832,66,"cruise, ships, cruises, vacation, guests",1,2015-01-01
+833,67,"rod, wire rod, companys, wire, facility",1,2015-01-01
+834,69,"viads, viad, viads businesses, marketing events, events",1,2015-01-01
+835,71,"hvac, asbjornson, product liability, raw materials, price contracts",1,2015-01-01
+836,72,"ss, satellite, telesat, satellites, ls",2,2015-01-01
+837,73,"government, aerospace, aircraft, aerospace businesses, businesses",1,2015-01-01
+838,75,"fiscal, home depot, depot, home, depot inc",2,2015-01-01
+839,76,"trust, underlying properties, voc, brazos, voc brazos",2,2015-01-01
+840,77,"cpgs, cpgs retailers, coupons, retailers, digital coupons",2,2015-01-01
+841,78,"rga, reinsurance, insurance, life, ceding",1,2015-01-01
+842,79,"12b exchange, rule 12b, 12b, act company, defined rule",1,2015-01-01
+843,80,"gaming, casino, casinos, slot, cash access",4,2015-01-01
+844,81,"footwear, athletic footwear, athletic, products, sales",1,2015-01-01
+845,82,"discussion affecting, thecautionary, regarding statementsincluded, statementsincluded management, refer thecautionary",1,2015-01-01
+846,84,"veterinary, pet, animal, veterinarians, animal health",2,2015-01-01
+847,85,"mi, mortgage, insurance, gses, nmic",1,2015-01-01
+848,86,"uranium, leu, nuclear, russian, swu",3,2015-01-01
+849,87,"printing, 3d, printers, 3d printing, materials",2,2015-01-01
+850,89,"pharmacy, pbm, health, prescription, pharmacies",3,2015-01-01
+851,90,"statements, international incform, incform, incform ktable, qualified foregoing",1,2015-01-01
+852,91,"drilling, rigs, rig, oil, drilling rigs",1,2015-01-01
+853,92,"trading, electronic trading, trading platform, electronic, platform",1,2015-01-01
+854,93,"afe, china, chinese, bfr, prc",1,2015-01-01
+855,94,"fiscal, grainger, stock class, class common, common stock",1,2015-01-01
+856,95,"oem, products, oem customers, operating results, tsmc",1,2015-01-01
+857,96,"oxide, ethylene oxide, ethylene, epa, products",1,2015-01-01
+858,97,"statements, contentspagepart, reliance statements, undue reliance, place undue",2,2015-01-01
+859,98,"dte, registrants, dte energy, energy, gas",1,2015-01-01
+860,99,"rail, railroads, kcs, railroad, transportation",1,2015-01-01
+861,102,"cranes, manitowoc, crane, boom, telescopic",1,2015-01-01
+862,103,"tobacco, leaf, leaf tobacco, tobacco products, cigarette",3,2015-01-01
+863,104,"million, sought million, material, future, sought",1,2015-01-01
+864,105,"products corporation, company, revlon, corporation, revlon inc",1,2015-01-01
+865,107,"fep, de conversion, de, conversion, fluoride",1,2015-01-01
+866,109,"marine products, marine, boat, products, dealers",1,2015-01-01
+867,110,"dow, styrene, rubber, arkema, segment",1,2015-01-01
+868,112,"company, company financial, affect company, company ability, company products",1,2015-01-01
+869,114,"clients, marketing, agencies, media, ipg",1,2015-01-01
+870,116,"guaranty, fair value, fair, value, losses",2,2015-01-01
+871,117,"cannabis, medical cannabis, medical, cannabis industry, company",2,2015-01-01
+872,118,"mortgage insurance, insurance, mortgage, care insurance, term care",1,2015-01-01
+873,120,"railcar, railcars, components, greenbrier, backlog",3,2015-01-01
+874,121,"equipment, seismic, seismic equipment, lease pool, lease",2,2015-01-01
+875,123,"hetnets, wireless, spectrum, network, stock",1,2015-01-01
+876,125,"dupont, tio2pigment, chemours, fluoroproducts, separation",1,2015-01-01
+877,126,"self storage, storage facilities, reit, self, storage",2,2015-01-01
+878,127,"income, reit, assets, mortgage, tax",1,2015-01-01
+879,128,"seed, alfalfa, dupont pioneer, alfalfa seed, pioneer",1,2015-01-01
+880,131,"southern, traditional operating, southern company, operating companies, traditional",1,2015-01-01
+881,135,"trading, fund, advisors, trading advisor, mlpf",1,2015-01-01
+882,136,"duke, power, duke energy, nuclear, energy",1,2015-01-01
+883,-1,"financial, company, operations, products, us",198,2016-01-01
+884,0,"products, customers, results, sales, us",83,2016-01-01
+885,1,"product, clinical, candidates, product candidates, trials",53,2016-01-01
+886,2,"bank, loans, loan, interest, financial",43,2016-01-01
+887,3,"smaller reporting, smaller, reporting company, provide information, reporting",35,2016-01-01
+888,4,"gas, oil, natural gas, natural, oil natural",24,2016-01-01
+889,5,"properties, reit, tenants, property, real",23,2016-01-01
+890,6,"investment, investments, portfolio, securities, value",22,2016-01-01
+891,7,"adient, vehicle, automotive, vehicles, operations",8,2016-01-01
+892,8,"mortgage, mae, fannie, fannie mae, loans",8,2016-01-01
+893,9,"tripadvisor, charter, stock, operations, debt",10,2016-01-01
+894,10,"combination, initial, initial combination, stock, company",2,2016-01-01
+895,11,"hotel, hotels, reit, properties, income",9,2016-01-01
+896,12,"healthcare, health, services, solutions, care",9,2016-01-01
+897,13,"medicare, facilities, concentra, care, medicaid",3,2016-01-01
+898,14,"fund, futures, funds, vix, index",9,2016-01-01
+899,15,"restaurants, restaurant, franchisees, food, diners",9,2016-01-01
+900,16,"insurance, reinsurance, company, argo, claims",12,2016-01-01
+901,17,"mining, mineral, exploration, mine, met coal",8,2016-01-01
+902,18,"tds, wireless, lilac, services, spectrum",6,2016-01-01
+903,19,"factorsnot, applicable registrant, factors21cautionary, factors21cautionary affect, contentspart continued",5,2016-01-01
+904,20,"ntic, president, vice, vice president, joint",3,2016-01-01
+905,21,"cable, services, service, content, alaska",4,2016-01-01
+906,22,"semiconductor, products, customers, manufacturing, capital equipment",1,2016-01-01
+907,23,"transportation, company, carriers, fuel, freight",4,2016-01-01
+908,24,"factorswe smaller, rule 12b, 12b, defined rule, provide information",2,2016-01-01
+909,25,"government, contracts, contract, uas, government contracts",3,2016-01-01
+910,26,"southern, southern company, power, southern power, operating companies",2,2016-01-01
+911,27,"general partner, partner, units, unitholders, common units",5,2016-01-01
+912,28,"wine, wines, grapes, vineyards, oregon",4,2016-01-01
+913,29,"gold, custodian, trust, sub, bullion",4,2016-01-01
+914,30,"farmer, farmer mac, mac, agricultural, partnership",2,2016-01-01
+915,32,"aircraft, airline, boeing, airline partners, airlines",2,2016-01-01
+916,33,"water, sky ranch, ranch, sky, wastewater",1,2016-01-01
+917,34,"dnb, interest, people united, loans, bank",2,2016-01-01
+918,35,"imax, theater, film, films, ncm",4,2016-01-01
+919,36,"homes, land, homebuilding, home, homebuyers",4,2016-01-01
+920,38,"users, user, advertising, iac, products services",4,2016-01-01
+921,39,", , , , ",3,2016-01-01
+922,40,"ppg, materials, raw, raw materials, results",1,2016-01-01
+923,41,"tripadvisor, qvc, xm, sirius xm, sirius",3,2016-01-01
+924,43,"flooring, timber, timberlands, lumber, hardwood",3,2016-01-01
+925,44,"solar, pv, cigs, modules, technologies",2,2016-01-01
+926,45,"citrus, fruit, gmol, vegetable, vegetables",2,2016-01-01
+927,47,"afgs, afg, investment, invesco, aum",2,2016-01-01
+928,49,"4item, revise result, 2table, contentspart, contentspart 4item",3,2016-01-01
+929,50,"semiconductor, wafer, customers, products, metrology",2,2016-01-01
+930,52,"peo, hr, wsees, clients, payroll",1,2016-01-01
+931,53,"snap, franchisees, snap ons, ons, pension",1,2016-01-01
+932,54,"paper, pulp, raw, products, fiber",2,2016-01-01
+933,55,"energy, electric, nrg, cecony, utilities",3,2016-01-01
+934,56,"kbr, contracts, operations, projects, government",2,2016-01-01
+935,57,"products, food, bakery, snack, beverage",2,2016-01-01
+936,58,"investing pool, cerfs, gsci, investing, gsci er",2,2016-01-01
+937,60,"euro, trust, depository, deposit, deposit accounts",1,2016-01-01
+938,61,"operations liquidity, insurance, liquidity, financial, statutory",1,2016-01-01
+939,62,"black medium, engagements, medium small, clients, consultants",2,2016-01-01
+940,63,"homes, land, starwood, home, front yard",2,2016-01-01
+941,64,"lighting, nep, energy, lighting products, sales",1,2016-01-01
+942,65,"lp, moelis, group lp, evercore, clients",2,2016-01-01
+943,66,"ships, cruise, cruises, ship, guests",2,2016-01-01
+944,67,"heavy civil, construction, civil construction, heavy, equipment",1,2016-01-01
+945,68,"furniture, virco, raw, price list, education",1,2016-01-01
+946,69,"staar, products, staars, icl, sales",1,2016-01-01
+947,70,"esop, contentsadvanced drainage, products, contentsadvanced, drainage systems",1,2016-01-01
+948,71,"allegion, irish, tax, results, operations",2,2016-01-01
+949,72,"satellite, satellites, ss, services, spectrum",2,2016-01-01
+950,73,"aerospace, aircraft, government, aviation, military",3,2016-01-01
+951,74,"electric, nstar, psnh, gas, energy",3,2016-01-01
+952,75,"home, products, home improvement, home construction, new home",1,2016-01-01
+953,77,"websites, vistaprint, customers, dutch, services",1,2016-01-01
+954,78,"certain scaled, elected comply, scaled disclosure, therefore provide, obligations therefore",1,2016-01-01
+955,79,"filings exchange, act part, report described, company filings, described company",2,2016-01-01
+956,80,"gaming, casino, stock, playtech, company",1,2016-01-01
+957,81,"footwear, sporting goods, sporting, stores, goods",2,2016-01-01
+958,82,"discussion affecting, thecautionary, regarding statementsincluded, statementsincluded management, refer thecautionary",1,2016-01-01
+959,83,"title iv, students, education, iv, title",1,2016-01-01
+960,84,"pet, ourpet, products, animal, manticus",1,2016-01-01
+961,86,"uranium, mining, nuclear, lost creek, mineral",1,2016-01-01
+962,87,"printing, 3d printing, 3d, machines, quad graphics",3,2016-01-01
+963,88,"coal, mining, coal supply, mining operations, supply agreements",1,2016-01-01
+964,89,"pharmacy, sunlink, pbm, health, sunlinks",2,2016-01-01
+965,91,"drilling, rigs, offshore, oil, drilling contracts",1,2016-01-01
+966,92,"electronic trading, trading platform, trading, electronic, platform",1,2016-01-01
+967,93,"prc, china, people republic, republic china, insurance",3,2016-01-01
+968,94,"grainger, pet, stock class, class common, common stock",2,2016-01-01
+969,95,"mro, oem, products, acquisitions, customers",1,2016-01-01
+970,96,"dietary, supplements, dietary supplements, nutritional, products",1,2016-01-01
+971,98,"dte, registrants, dte energy, energy, gas",1,2016-01-01
+972,99,"kcs, rail, mexican, kcsm, kcs consolidated",2,2016-01-01
+973,100,"testing, laboratory, laboratories, tests, services",1,2016-01-01
+974,102,"cranes, manitowoc, products, building, customers",2,2016-01-01
+975,104,"raw, materials, raw materials, critical raw, costs",1,2016-01-01
+976,105,"products corporation, company, arden, elizabeth arden, elizabeth",1,2016-01-01
+977,106,"industry62, relating industry62, factors43risks, factors43risks relating, relating business44risks",1,2016-01-01
+978,107,"aquarefining, lead, labs, aquarefining process, asbestos",2,2016-01-01
+979,108,"real, estate, real estate, hawaii, financial",2,2016-01-01
+980,109,"boat, yacht, marine, sea ray, brunswick",1,2016-01-01
+981,111,"independent associates, associates, independent, network marketing, ambrotose",1,2016-01-01
+982,112,"company, company financial, affect company, company ability, company products",1,2016-01-01
+983,113,"products, spine, fda, medical, surgeons",1,2016-01-01
+984,114,"clients, client, advertising marketing, agencies, financial position",1,2016-01-01
+985,116,"guaranty, fair value, fair, value, losses",1,2016-01-01
+986,118,"card, diners club, credit, cards, network",1,2016-01-01
+987,120,"railcar, railcars, investment funds, investment, icahn",2,2016-01-01
+988,121,"equipment, seismic, seismic equipment, lease pool, lease",1,2016-01-01
+989,123,"hetnets, wireless, shared wireless, wireless infrastructure, shared",1,2016-01-01
+990,124,"million, revenue, telesat, consulting, services",1,2016-01-01
+991,127,"income, assets, reit, mortgage, rmbs",1,2016-01-01
+992,128,"seed, alfalfa, stevia, alfalfa seed, phosphate",3,2016-01-01
+993,130,"insurance, life, annuity, american equity, equity life",1,2016-01-01
+994,132,"varex, restaurants, restaurant, dish, dish network",2,2016-01-01
+995,135,"advisors, partnership, trading, advisors clients, mlpf",2,2016-01-01
+996,136,"duke, duke energys, duke energy, energys, energy",1,2016-01-01
+997,-1,"products, financial, operations, us, results",216,2017-01-01
+998,0,"products, customers, us, results, operations",85,2017-01-01
+999,1,"clinical, product, candidates, product candidates, drug",62,2017-01-01
+1000,2,"loans, bank, loan, financial, interest",36,2017-01-01
+1001,3,"smaller reporting, smaller, reporting company, provide information, required provide",30,2017-01-01
+1002,4,"gas, natural gas, oil, natural, oil natural",26,2017-01-01
+1003,5,"properties, reit, tenants, income, paa",13,2017-01-01
+1004,6,"investment, investments, portfolio, securities, value",20,2017-01-01
+1005,7,"vehicle, rental, car, vehicles, cars",15,2017-01-01
+1006,8,"mortgage, mae, fannie, fhfa, loans",10,2017-01-01
+1007,9,"charter, twc, isobutanol, bright house, bright",9,2017-01-01
+1008,10,"combination, initial, initial combination, target, warrants",3,2017-01-01
+1009,11,"hotel, hotels, reit, travel, properties",9,2017-01-01
+1010,12,"healthcare, zio, services, zio service, care",6,2017-01-01
+1011,13,"care, medicare, health, medicaid, services",11,2017-01-01
+1012,14,"fund, futures, vix, funds, commodity",7,2017-01-01
+1013,15,"restaurants, restaurant, franchisees, food, franchise",12,2017-01-01
+1014,16,"insurance, reinsurance, argo, bermuda, insurer",6,2017-01-01
+1015,17,"mineral, exploration, mining, gold, mineral properties",5,2017-01-01
+1016,18,"tds, wireless, spectrum, services, fcc",3,2017-01-01
+1017,19,"pages, factorsinformation, factorsnot, factorsnot applicable, report pages",7,2017-01-01
+1018,20,"president, vice, vice president, mr, company",7,2017-01-01
+1019,21,"cable, programming, services, video, content",6,2017-01-01
+1020,22,"semiconductor, customers, products, manufacturing, equipment",5,2017-01-01
+1021,23,"company, fuel, transportation, truck, equipment",4,2017-01-01
+1022,24,"rule 12b, 12b, defined rule, factorswe smaller, company defined",8,2017-01-01
+1023,25,"contracts, government, contract, dredging, government contracts",3,2017-01-01
+1024,26,"southern, southern company, power, operating companies, southern power",3,2017-01-01
+1025,27,"general partner, unitholders, partner, units, common units",3,2017-01-01
+1026,28,"wine, alcohol, beverage, brands, beverage alcohol",5,2017-01-01
+1027,29,"gold, venture company, ishares, custodian, trust",2,2017-01-01
+1028,30,"farmer mac, farmer, mac, agricultural, common",6,2017-01-01
+1029,31,"stations, radio, programming, fcc, advertising",1,2017-01-01
+1030,32,"aircraft, boeing, infinitus, airline, spirit",4,2017-01-01
+1031,33,"water, jose water, water company, jose, san jose",3,2017-01-01
+1032,34,"company, dnb, interest, financial, loans",2,2017-01-01
+1033,35,"ncm, ncm llc, theatre, theatres, founding",5,2017-01-01
+1034,36,"homes, land, home, housing, homebuilding",3,2017-01-01
+1035,38,"users, user, advertising, products services, mobile",3,2017-01-01
+1036,39,", , , , ",1,2017-01-01
+1037,40,"raw, metals segment, products, chemicals segment, specialty",2,2017-01-01
+1038,41,"xm, qvc, sirius xm, sirius, liberty",2,2017-01-01
+1039,42,"unl, futures, uscf, usof, contracts",2,2017-01-01
+1040,43,"floorcovering, carpet, flooring, masland, residential",1,2017-01-01
+1041,44,"solar, solar energy, energy, solar service, pv",3,2017-01-01
+1042,45,"vegetable, fruit, vegetables, fruit vegetable, food",2,2017-01-01
+1043,46,"ethanol, fuel, parent, green plains, plains",4,2017-01-01
+1044,47,"fair value, fair, value, company, investment",3,2017-01-01
+1045,48,"wright, investment, tournament, company, players",5,2017-01-01
+1046,49,"revise result, update revise, events otherwise, except required, information future",3,2017-01-01
+1047,50,"semiconductor, customers, gainshare performance, gainshare, performance incentives",1,2017-01-01
+1048,51,"refined, refinery, crude, refined products, oil",2,2017-01-01
+1049,52,"cars, car, workers, rental, ford",4,2017-01-01
+1050,53,"snap, franchisees, pension, operations cash, operations",2,2017-01-01
+1051,54,"honeywell, spin, operations, paper, condition results",1,2017-01-01
+1052,55,"energy, consumers, cms, mge, electric",3,2017-01-01
+1053,56,"company, operations, oil, products, company products",3,2017-01-01
+1054,57,"food, products, nuts, nut, snack",4,2017-01-01
+1055,58,"ctg, gsci, services, company, gsci er",1,2017-01-01
+1056,59,"games, game, products, gaming, platforms",2,2017-01-01
+1057,60,"trust, swiss, euro, depository, swiss francs",3,2017-01-01
+1058,61,"insurance, liquidity, financial, statutory, operations liquidity",2,2017-01-01
+1059,63,"homes, land, homebuyers, financial performance, home",2,2017-01-01
+1060,64,"energy, covanta, covanta energy, projects, waste",3,2017-01-01
+1061,65,"clients, investment, advisory, investment banking, class",2,2017-01-01
+1062,66,"ships, cruise, cruises, ship, guests",2,2017-01-01
+1063,69,"kaplan, title iv, iv, title, khe",1,2017-01-01
+1064,72,"satellite, satellites, spectrum, ss, services",1,2017-01-01
+1065,73,"aerospace, aircraft, military, aviation, triumph",2,2017-01-01
+1066,74,"cl, electric, psnh, transmission, nstar",2,2017-01-01
+1067,75,"flows financial, operations cash, cash flows, flows, home",1,2017-01-01
+1068,76,"trust, underlying properties, net profits, profits interest, voc",3,2017-01-01
+1069,77,"company, school book, continuity, book fairs, book clubs",1,2017-01-01
+1070,79,"filings exchange, act part, report described, company filings, described company",2,2017-01-01
+1071,80,"gaming, racing, smsc, wagering, horse",1,2017-01-01
+1072,82,"factorsinformation relating, relating described, factorsinformation, described managements, operations information",1,2017-01-01
+1073,83,"title iv, students, education, iv, title",2,2017-01-01
+1074,84,"pet, ourpet, products, animal, cat",2,2017-01-01
+1075,85,"mi, mortgage, insurance, gses, nmic",1,2017-01-01
+1076,86,"uranium, extraction, palangana mine, palangana, mining",1,2017-01-01
+1077,88,"coal, mining, mine, mining operations, reserves",1,2017-01-01
+1078,91,"drilling, rigs, oil, offshore, rig",2,2017-01-01
+1079,95,"oem, products, oem customers, operating results, cypress",1,2017-01-01
+1080,96,"oxide, epa, ethylene oxide, ethylene, products",1,2017-01-01
+1081,98,"dte, registrants, dte energy, energy, gas",1,2017-01-01
+1082,99,"csx, rail, kcs, railroad, company",1,2017-01-01
+1083,100,"laboratory, company, testing, laboratories, clinical laboratory",3,2017-01-01
+1084,102,"building, metal, construction, building systems, operations",4,2017-01-01
+1085,103,"tobacco, leaf, leaf tobacco, tobacco products, farmers",1,2017-01-01
+1086,104,"companys, company, xact, introduction xact, sales",1,2017-01-01
+1087,106,"industry11, related industry11, risks related, related, risks",1,2017-01-01
+1088,107,"aquarefining, lead, de conversion, tric, clarios",3,2017-01-01
+1089,110,"trust, unit holders, brog, trustee, unit",1,2017-01-01
+1090,111,"independent associates, associates, independent, network marketing, ambrotose",2,2017-01-01
+1091,116,"guaranty, fair value, fair, value, losses",1,2017-01-01
+1092,119,"bus, school, buses, school bus, school buses",1,2017-01-01
+1093,122,"towers, tower, wireless, sites, ccic",1,2017-01-01
+1094,123,"hetnets, wireless, shared wireless, wireless infrastructure, shared",2,2017-01-01
+1095,124,"clients, solutions, services, data, telesat",1,2017-01-01
+1096,125,"companys, materials, raw materials, raw, environmental",1,2017-01-01
+1097,126,"self storage, reit, storage facilities, self, storage",2,2017-01-01
+1098,127,"income, reit, assets, mortgage, tax",1,2017-01-01
+1099,128,"seed, stevia, alfalfa, alfalfa seed, growers",1,2017-01-01
+1100,129,"factorssmaller, factorssmaller reporting, reporting companies, companies required, information required",1,2017-01-01
+1101,132,"dish, set top, dish network, digital set, varex",1,2017-01-01
+1102,133,"beryllium, electrical, products, position results, conduit",1,2017-01-01
+1103,134,"iron ore, ore, iron, steel, mining",1,2017-01-01
+1104,135,"advisors, advisors clients, clients, service, secured credit",1,2017-01-01
+1105,-1,"financial, operations, us, products, results",233,2018-01-01
+1106,0,"products, customers, us, results, operations",108,2018-01-01
+1107,1,"product, clinical, candidates, product candidates, trials",78,2018-01-01
+1108,2,"loans, bank, loan, interest, financial",43,2018-01-01
+1109,3,"smaller reporting, smaller, reporting company, reporting, provide information",31,2018-01-01
+1110,4,"gas, oil, natural gas, natural, oil natural",25,2018-01-01
+1111,5,"properties, reit, income, property, real",17,2018-01-01
+1112,6,"investment, investments, portfolio, company, securities",17,2018-01-01
+1113,7,"ntic, vehicle, vehicles, dealers, car",14,2018-01-01
+1114,8,"mortgage, mae, loans, fannie, fhfa",13,2018-01-01
+1115,9,"tripadvisor, charter, financial, operations, stock",17,2018-01-01
+1116,10,"combination, initial, initial combination, target, warrants",7,2018-01-01
+1117,11,"hotel, hotels, properties, travel, reit",9,2018-01-01
+1118,12,"healthcare, solutions, services, clients, health",5,2018-01-01
+1119,13,"medicare, care, medicaid, health, facilities",10,2018-01-01
+1120,14,"fund, funds, futures, vix, index",8,2018-01-01
+1121,15,"restaurants, restaurant, franchisees, food, wendy",10,2018-01-01
+1122,16,"insurance, reinsurance, company, claims, underwriting",6,2018-01-01
+1123,17,"mining, exploration, mineral, met coal, coal",8,2018-01-01
+1124,18,"tds, wireless, services, customers, spectrum",3,2018-01-01
+1125,19,"factorsinformation, report pages, factorsinformation response, response found, heading information",4,2018-01-01
+1126,20,"company, vice, president, vice president, watches",5,2018-01-01
+1127,21,"dish, services, programming, dish network, network",3,2018-01-01
+1128,22,"semiconductor, customers, products, equipment, manufacturing",4,2018-01-01
+1129,23,"fuel, moyes, freight, drivers, hospitality trust",5,2018-01-01
+1130,24,"rule 12b, 12b, defined rule, provide information, company defined",5,2018-01-01
+1131,25,"government, contracts, contract, federal government, adversely anticipated",3,2018-01-01
+1132,26,"southern, southern company, power, southern power, operating companies",5,2018-01-01
+1133,27,"eqm, general partner, unitholders, partner, units",6,2018-01-01
+1134,28,"wine, brands, alcohol, beverage, wines",4,2018-01-01
+1135,29,"custodian, gold, trust, sub, palladium",5,2018-01-01
+1136,30,"farmer, farmer mac, common, common unitholders, mac",4,2018-01-01
+1137,31,"programming, stations, television, fcc, radio",3,2018-01-01
+1138,32,"aircraft, airline, company, contracts, boeing",2,2018-01-01
+1139,33,"water, jose water, water company, jose, san jose",3,2018-01-01
+1140,34,"company, dnb, interest, bank, loans",1,2018-01-01
+1141,35,"ncm, founding, ncm llcs, llcs, ncm llc",1,2018-01-01
+1142,36,"homes, land, homebuilding, home, mortgage",4,2018-01-01
+1143,37,"insurance, reinsurance, financial, losses, sirius group",4,2018-01-01
+1144,38,"users, user, facebook, advertising, mobile",3,2018-01-01
+1145,39,", , , , ",3,2018-01-01
+1146,40,"metals segment, segment, raw, products, chemicals segment",1,2018-01-01
+1147,41,"qvc, xm, programming, sirius xm, sirius",3,2018-01-01
+1148,42,"futures, uscf, ung, usbo, us12ng",3,2018-01-01
+1149,43,"timber, timberlands, zealand, new zealand, timberland",2,2018-01-01
+1150,44,"solar, intevac, pv, products, disk",1,2018-01-01
+1151,45,"estate development, water, real estate, estate, land",1,2018-01-01
+1152,46,"fuel, ethanol, dealerships, synthetic fuel, synthetic",4,2018-01-01
+1153,47,"ab, axa, aum, investment, ab holding",2,2018-01-01
+1154,49,"revise result, contentspart 4item, 4item business4item, important furthermore, law 2table",3,2018-01-01
+1155,50,"semiconductor, test, ate, products, wafer",2,2018-01-01
+1156,51,"conocophillips, refined, refined products, crude, feedstocks",1,2018-01-01
+1157,52,"clients, payroll, client, services, employees",4,2018-01-01
+1158,53,"snap, franchisees, on, snap on, franchise",3,2018-01-01
+1159,55,"consumers, energy, cms, cms energy, electric",3,2018-01-01
+1160,56,"energy steel, operations, energy, chinese, intangible assets",2,2018-01-01
+1161,57,"flowers, foods, products, bakery, bakeries",2,2018-01-01
+1162,58,"index, index futures, gsci, trust, gsci er",2,2018-01-01
+1163,59,"titles, game, games, software, platforms",2,2018-01-01
+1164,60,"trust, african rand, depository, rand, south african",3,2018-01-01
+1165,61,"insurance, financial, statutory, adverse effect, effect",1,2018-01-01
+1166,62,"engagements, clients, client, consultants, employee",3,2018-01-01
+1167,64,"reit, nep, energy, tax, income",1,2018-01-01
+1168,65,"lp, evercore, clients, advisory, firm",3,2018-01-01
+1169,66,"ships, cruise, cruises, ship, caribbean",2,2018-01-01
+1170,67,"equipment, lease, lessee, rod, lessees",2,2018-01-01
+1171,68,"prc, china, furniture, nova, virco",1,2018-01-01
+1172,70,"honeywell, operations, advansix, employees, results",3,2018-01-01
+1173,71,"class common, class, lived, shares class, indefinite lived",1,2018-01-01
+1174,72,"satellite, satellites, thermo, spectrum, facility agreement",1,2018-01-01
+1175,74,"electric, nstar, psnh, gas, cl",1,2018-01-01
+1176,76,"trust, underlying properties, net profits, underlying, mv",2,2018-01-01
+1177,77,"fulfillment, services, inventory, websites, content",1,2018-01-01
+1178,78,"certain scaled, elected comply, scaled disclosure, therefore provide, obligations therefore",1,2018-01-01
+1179,79,"filings exchange, act part, report described, company filings, described company",1,2018-01-01
+1180,81,"footwear, ugg, brand, brands, products",1,2018-01-01
+1181,82,"analysis financial, factorssee, analysis, factorssee managements, discussion",3,2018-01-01
+1182,83,"education, title iv, educational, students, iv",1,2018-01-01
+1183,84,"animal, animal health, veterinary, products, health",1,2018-01-01
+1184,85,"mortgage, mgic, insurance, mortgage insurance, loans",2,2018-01-01
+1185,88,"coal, lessees, units, general partner, mining",1,2018-01-01
+1186,90,"statements, qualified foregoing, international incform, incform ktable, incform",1,2018-01-01
+1187,92,"electronic trading, trading, trading platform, electronic, broker",1,2018-01-01
+1188,93,"china, prc, combination, pingtan, initial",2,2018-01-01
+1189,95,"oem, oem suppliers, operating results, products, operating",2,2018-01-01
+1190,97,"statements, contentspagepart, reliance statements, undue reliance, place undue",1,2018-01-01
+1191,98,"dte, gas, registrants, energy, dte energy",2,2018-01-01
+1192,99,"rail, csx, kcs, railroad, company",1,2018-01-01
+1193,100,"laboratory, testing, laboratories, clinical laboratory, clinical",2,2018-01-01
+1194,101,"mobile, services, video, telephony, broadband",5,2018-01-01
+1195,105,"salons, salon, hair, company, guest",1,2018-01-01
+1196,106,"industry62, relating industry62, factors43risks, factors43risks relating, relating business44risks",2,2018-01-01
+1197,107,"aquarefining, lead, clarios, tric, aquarefined lead",2,2018-01-01
+1198,108,"bay, kapalua, maui, kapalua bay, pineapple",1,2018-01-01
+1199,109,"boat, marine, company, dealers, dealer",2,2018-01-01
+1200,110,"vera, bradley, vera bradley, vida, pura vida",1,2018-01-01
+1201,112,"company, laclede, laclede gas, laclede group, ler",3,2018-01-01
+1202,115,"licensees, touch, technologies, products, touch enabling",2,2018-01-01
+1203,116,"guaranty, fair value, fair, value, losses",2,2018-01-01
+1204,117,"cannabis, traits, medical cannabis, hemp, cannabis industry",2,2018-01-01
+1205,118,"notes, senior credit, senior, subsidiaries, guarantors",1,2018-01-01
+1206,119,"bus, school, buses, school bus, school buses",1,2018-01-01
+1207,120,"railcar, railcars, railcar components, components, backlog",1,2018-01-01
+1208,121,"equipment, seismic, seismic equipment, lease pool, lease",1,2018-01-01
+1209,122,"wireless, wireless infrastructure, towers, infrastructure, sites",1,2018-01-01
+1210,124,"sellers, buyers, advertising, telesat, services",3,2018-01-01
+1211,127,"income, reit, assets, mortgage, tax",2,2018-01-01
+1212,128,"seed, alfalfa, alfalfa seed, growers, stevia",1,2018-01-01
+1213,130,"insurance, unitrins, unitrin, fireside, casualty insurance",2,2018-01-01
+1214,132,"varex, dish network, dish, satellite, set top",2,2018-01-01
+1215,-1,"operations, financial, us, products, company",264,2019-01-01
+1216,0,"products, customers, results, us, sales",82,2019-01-01
+1217,1,"product, clinical, candidates, product candidates, trials",74,2019-01-01
+1218,2,"bank, loans, loan, financial, interest",40,2019-01-01
+1219,3,"smaller reporting, smaller, reporting company, reporting, provide information",37,2019-01-01
+1220,4,"gas, oil, natural gas, natural, oil natural",25,2019-01-01
+1221,5,"properties, reit, tenants, real, income",22,2019-01-01
+1222,6,"investment, portfolio, investments, securities, adviser",19,2019-01-01
+1223,7,"vehicle, vehicles, dealers, automotive, company",16,2019-01-01
+1224,8,"mortgage, loans, mae, fannie, fannie mae",11,2019-01-01
+1225,9,"tripadvisor, charter, vitas, skyhook, stock",6,2019-01-01
+1226,10,"combination, initial, initial combination, target, warrants",7,2019-01-01
+1227,11,"hotels, hotel, reit, la quinta, quinta",4,2019-01-01
+1228,12,"healthcare, services, solutions, health, care",11,2019-01-01
+1229,13,"medicare, hcp, living, care, senior living",10,2019-01-01
+1230,14,"fund, futures, funds, vix, benchmark",10,2019-01-01
+1231,15,"restaurants, restaurant, food, franchisees, kura",4,2019-01-01
+1232,16,"insurance, reinsurance, company, claims, losses",7,2019-01-01
+1233,17,"mineral, mining, exploration, gold, mineral properties",7,2019-01-01
+1234,18,"wireless, cellular, cellulars, tds, services",11,2019-01-01
+1235,19,"factors21cautionary, factors21cautionary affect, results31, results18, y2indexpart ipage",8,2019-01-01
+1236,20,"president, vice, vice president, mr, company",5,2019-01-01
+1237,21,"services, service, content, programming, cable",5,2019-01-01
+1238,22,"semiconductor, customers, equipment, products, manufacturing",7,2019-01-01
+1239,23,"fuel, company, transportation, carriers, freight",4,2019-01-01
+1240,24,"rule 12b, 12b, defined rule, provide information, company defined",5,2019-01-01
+1241,25,"contracts, government, contract, dredging, government contracts",3,2019-01-01
+1242,26,"centerpoint houston, southern, cerc, centerpoint, houston",2,2019-01-01
+1243,27,"eqm, general partner, partner, unitholders, units",4,2019-01-01
+1244,28,"companys, brands, alcohol, beer, wine",2,2019-01-01
+1245,29,"gold, custodian, trust, zurich, sub custodian",1,2019-01-01
+1246,30,"farmer, farmer mac, agricultural, mac, farm",5,2019-01-01
+1247,31,"programming, television, stations, fcc, programming networks",3,2019-01-01
+1248,32,"aircraft, airline, boeing, airlines, delta",4,2019-01-01
+1249,33,"water, wastewater, water wastewater, water supply, utility",2,2019-01-01
+1250,34,"dnb, peoples united, peoples, loans, interest",6,2019-01-01
+1251,35,"theatres, theatre, cinema, ncm, film",3,2019-01-01
+1252,36,"homes, homebuilding, home, land, construction",3,2019-01-01
+1253,37,"insurance, company, reinsurance, financial, losses",3,2019-01-01
+1254,38,"advertising, users, user, buyers, mobile",5,2019-01-01
+1255,39,", , , , ",3,2019-01-01
+1256,40,"materials, raw, raw materials, results, demand",1,2019-01-01
+1257,41,"xm, sirius xm, sirius, satellite, live",3,2019-01-01
+1258,42,"futures, uscf, bno, contracts, uga",4,2019-01-01
+1259,43,"timber, timberlands, zealand, new zealand, timberland",1,2019-01-01
+1260,44,"solar, pv, modules, pv modules, solar energy",3,2019-01-01
+1261,46,"ethanol, aircraft, grain, fuel, corn",2,2019-01-01
+1262,47,"ab, investment, aum, invesco, axa",3,2019-01-01
+1263,48,"gldm, gold, gold bullion, bullion, custodian",3,2019-01-01
+1264,49,"revise result, contentspart 4item, 4item business4item, important furthermore, law 2table",2,2019-01-01
+1265,50,"semiconductor, results financial, operating results, products, customers",1,2019-01-01
+1266,51,"unitholders, general partner, partner, units, crude",1,2019-01-01
+1267,52,"workers, workers compensation, compensation, december, clients",2,2019-01-01
+1268,53,"franchisees, franchise, snap, franchisee, receivable agreements",2,2019-01-01
+1269,54,"paper, pulp, companys, coated, papers",2,2019-01-01
+1270,55,"bitcoin, energy, mining, bitcoins, consumers",2,2019-01-01
+1271,56,"operations, products, chinese, results, company",2,2019-01-01
+1272,58,"gsci, gsci er, er, index, trust",2,2019-01-01
+1273,60,"lazard, laz md, laz, md holdings, holdings",1,2019-01-01
+1274,61,"moissanite, jewelry, jewels, operations liquidity, finished jewelry",2,2019-01-01
+1275,62,"client, clients, adp, services, employer services",1,2019-01-01
+1276,64,"projects, energy, nep, project, reit",1,2019-01-01
+1277,65,"advisory, clients, managing directors, class, class common",2,2019-01-01
+1278,66,"ships, cruise, cruises, caribbean, ship",1,2019-01-01
+1279,68,"virco, furniture, raw, price list, sales",1,2019-01-01
+1280,69,"advertising, clients, publishers, advertiser, criteo",1,2019-01-01
+1281,70,"homes, workers compensation, workers, employees, compensation",3,2019-01-01
+1282,71,"seer, hvacr, air conditioning, conditioning, air",1,2019-01-01
+1283,72,"aso, spacecraft, satellite, space, satellites",1,2019-01-01
+1284,73,"government, aerospace, aircraft, businesses, materials",2,2019-01-01
+1285,74,"electric, nstar, gas, energy, psnh",4,2019-01-01
+1286,75,"home, products, home improvement, home construction, results",2,2019-01-01
+1287,76,"trust, underlying properties, mv, mv partners, oil",2,2019-01-01
+1288,77,"fulfillment, services, financial results, websites, results",2,2019-01-01
+1289,78,"reinsurance, rga, insurance, life, premiums",1,2019-01-01
+1290,80,"wynn, gaming, wynn resorts, resorts, casino",2,2019-01-01
+1291,81,"footwear, products, ugg, athletic, sales",3,2019-01-01
+1292,82,"pages, pages critical, rate pages, page impact, inflation incorporated",2,2019-01-01
+1293,83,"title iv, education, educational, students, iv",1,2019-01-01
+1294,84,"animal, animal health, health, products, veterinary",1,2019-01-01
+1295,85,"mortgage, insurance, gses, loans, mgic",2,2019-01-01
+1296,86,"uranium, mining, mineral, nuclear, lost creek",1,2019-01-01
+1297,87,"printing, quad graphics, quad, graphics, 3d",2,2019-01-01
+1298,88,"coal, mining, mine, plants, epa",1,2019-01-01
+1299,89,"pharmacy, pharmaceutical, health, prescription, bulk sales",2,2019-01-01
+1300,90,"statements, report, report form, forth exhibit, december 2014table",2,2019-01-01
+1301,91,"drilling, rigs, drilling contracts, macondo, macondo well",1,2019-01-01
+1302,92,"trading, electronic trading, trading platform, electronic, platform",1,2019-01-01
+1303,93,"prc, china, hong, hong kong, kong",1,2019-01-01
+1304,96,"triferic, products, animal, dialysate, dialysate triferic",3,2019-01-01
+1305,97,"statements made, statements, report relate, contentspagepart, relate events",1,2019-01-01
+1306,99,"rail, csx, kcs, company, railroad",1,2019-01-01
+1307,100,"covance, covance drug, laboratory, company, drug development",1,2019-01-01
+1308,101,"mobile, video, services, telephony, broadband",2,2019-01-01
+1309,102,"building, lumber, customers, products, construction",2,2019-01-01
+1310,104,"raw, material, arconics, products, customers",4,2019-01-01
+1311,105,"salons, salon, franchisees, stylists, walmart",1,2019-01-01
+1312,106,"industry10, related industry10, risks related, related, risks",1,2019-01-01
+1313,107,"aquarefining, lead, aquarefined lead, aquarefined, veolia",2,2019-01-01
+1314,108,"hawaii, real, real estate, estate, florida",2,2019-01-01
+1315,109,"boat, marine, marine products, dealers, boats",2,2019-01-01
+1316,113,"products, spine, fda, device, surgeons",2,2019-01-01
+1317,114,"clients, marketing, media, agencies, advertising",2,2019-01-01
+1318,117,"cannabis, dea, schedule, controlled substances, substances",1,2019-01-01
+1319,118,"notes, senior credit, senior, subsidiaries, guarantors",1,2019-01-01
+1320,119,"bus, school, buses, school bus, school buses",1,2019-01-01
+1321,120,"railcar, railcars, railcar components, wheels, components",1,2019-01-01
+1322,122,"wireless, sites, ccic, sprint, wireless infrastructure",5,2019-01-01
+1323,123,"wireless, hetnets, products, customers, shared wireless",1,2019-01-01
+1324,125,"companys, dupont, raw, products, raw materials",3,2019-01-01
+1325,126,"cp conduit, cp, conduit warehouse, conduit, term note",1,2019-01-01
+1326,127,"mortgage, reit, assets, income, loans",1,2019-01-01
+1327,128,"seed, traits, collaborators, crop, alfalfa",1,2019-01-01
+1328,129,"factorssmaller, factorssmaller reporting, reporting companies, companies required, information required",1,2019-01-01
+1329,131,"southern, traditional operating, operating companies, traditional, southern company",1,2019-01-01
+1330,132,"varex, solutions, solutions services, services, president",1,2019-01-01
+1331,-1,"financial, operations, us, products, results",245,2020-01-01
+1332,0,"products, customers, us, results, sales",100,2020-01-01
+1333,1,"clinical, product, candidates, product candidates, trials",87,2020-01-01
+1334,2,"loans, bank, loan, financial, interest",51,2020-01-01
+1335,3,"smaller reporting, smaller, reporting company, provide information, statements",33,2020-01-01
+1336,4,"gas, oil, natural gas, natural, oil natural",25,2020-01-01
+1337,5,"properties, reit, tenants, income, property",19,2020-01-01
+1338,6,"investment, investments, portfolio, securities, company",20,2020-01-01
+1339,7,"vehicle, vehicles, automotive, car, rental",19,2020-01-01
+1340,8,"mortgage, fannie, mae, loans, fannie mae",14,2020-01-01
+1341,9,"tripadvisor, enable, operations, cash, ability",11,2020-01-01
+1342,10,"combination, initial combination, initial, warrants, target",9,2020-01-01
+1343,11,"hotels, hotel, reit, properties, travel",11,2020-01-01
+1344,12,"healthcare, care, health, zio, medicare",9,2020-01-01
+1345,13,"medicare, care, health, medicaid, services",14,2020-01-01
+1346,14,"fund, futures, funds, vix, index",8,2020-01-01
+1347,15,"restaurants, restaurant, food, franchisees, yum",8,2020-01-01
+1348,16,"insurance, reinsurance, financial, claims, underwriting",4,2020-01-01
+1349,17,"mineral, exploration, mining, kinross, properties",10,2020-01-01
+1350,18,"wireless, tds, services, customers, new",6,2020-01-01
+1351,19,"factorsinformation, report pages, factorsinformation response, response found, heading information",2,2020-01-01
+1352,20,"president, vice, vice president, ibm, company",5,2020-01-01
+1353,21,"cable, services, service, fcc, telephone",3,2020-01-01
+1354,22,"semiconductor, customers, products, test, manufacturing",5,2020-01-01
+1355,23,"fuel, company, freight, transportation, carriers",5,2020-01-01
+1356,24,"rule 12b, 12b, defined rule, company defined, smaller reporting",6,2020-01-01
+1357,25,"contracts, contract, government, estimates, poc method",1,2020-01-01
+1358,26,"southern, power, southern company, dominion, dominion energy",5,2020-01-01
+1359,27,"general partner, partner, unitholders, units, common units",3,2020-01-01
+1360,28,"companys, beer, brewing, company, wine",2,2020-01-01
+1361,29,"gold, custodian, trust, trustee, physical gold",3,2020-01-01
+1362,30,"farmer, farmer mac, agricultural, mac, company",6,2020-01-01
+1363,31,"programming, stations, programming networks, television, networks",2,2020-01-01
+1364,32,"aircraft, boeing, airline, airlines, notes",5,2020-01-01
+1365,33,"water, wastewater, water supply, water wastewater, utility",1,2020-01-01
+1366,34,"dnb, peoples, loans, loan, interest",4,2020-01-01
+1367,35,"cotter, ncm, founding, ncm llc, founding members",3,2020-01-01
+1368,36,"homes, home, land, homebuilding, mortgage",5,2020-01-01
+1369,37,"sirius group, sirius, group, insurance, reinsurance",6,2020-01-01
+1370,38,"users, advertising, user, advertisers, seriously",2,2020-01-01
+1371,39,", , , , ",3,2020-01-01
+1372,40,"containers, container, leasing, leasing company, ccc",2,2020-01-01
+1373,41,"xm, sirius xm, sirius, gci, qvc",6,2020-01-01
+1374,42,"uso, futures, uscf, oil, contracts",1,2020-01-01
+1375,43,"timber, timberlands, zealand, new zealand, rayonier",1,2020-01-01
+1376,45,"fresh, fruit, food, avocados, estate development",2,2020-01-01
+1377,46,"ethanol, corn, distillers, distillers grains, grains",3,2020-01-01
+1378,47,"fgl, fair value, insurance, fair, investment",4,2020-01-01
+1379,48,"company, target company, cui, statements, stores stores",2,2020-01-01
+1380,49,"revise result, common stock36, stock36, business19risks related, business19risks",2,2020-01-01
+1381,50,"applied, semiconductor, products, customers, manufacturing",3,2020-01-01
+1382,51,"refined, crude, refineries, crude oil, refined products",1,2020-01-01
+1383,52,"temporary, staffing, workers, temporary workers, temporary staffing",1,2020-01-01
+1384,53,"snap, franchisees, snap ons, ons, operations cash",2,2020-01-01
+1385,54,"rayonier, paper, pulp, 2021 senior, separation",2,2020-01-01
+1386,55,"consumers, energy, cms, cms energy, electric",2,2020-01-01
+1387,56,"nalco, operations, champion, company, intangible assets",3,2020-01-01
+1388,57,"products, condition results, snack, financial condition, food",1,2020-01-01
+1389,58,"ctg, gsci, revenue, company, services",1,2020-01-01
+1390,59,"game, video game, video, game products, stores",1,2020-01-01
+1391,60,"trust, swiss, african rand, rand, south african",2,2020-01-01
+1392,61,"insurance, jewelry, moissanite, financial, statutory",3,2020-01-01
+1393,62,"engagements, consultants, client, employee consultants, clients",2,2020-01-01
+1394,63,"front yard, yard, front, sfr, homes",2,2020-01-01
+1395,64,"reit, nep, energy, tax, income",2,2020-01-01
+1396,67,"rod, wire rod, wire, construction, equipment",1,2020-01-01
+1397,68,"virco, furniture, school, company, raw",3,2020-01-01
+1398,69,"centre lane, lane facility, lane, centre, tax",2,2020-01-01
+1399,70,"product, products, end customers, zynteglo, end",4,2020-01-01
+1400,71,"class common, products, results, class, costs",2,2020-01-01
+1401,72,"satellite, satellites, telesat, ss, intelsat",3,2020-01-01
+1402,73,"government, aerospace, contracts, rocketdyne, sacramento",1,2020-01-01
+1403,75,"net sales, hardwood, home, flooring, sales",2,2020-01-01
+1404,77,"fulfillment, services, tax, websites, fulfillment network",1,2020-01-01
+1405,78,"certain scaled, elected comply, scaled disclosure, obligations therefore, 12b exchange",1,2020-01-01
+1406,79,"12b exchange, rule 12b, 12b, act company, defined rule",1,2020-01-01
+1407,80,"gaming, casino, casinos, colorado, slot",1,2020-01-01
+1408,81,"footwear, companys, ugg, brand, products",3,2020-01-01
+1409,82,"discussion, analysis financial, discussion analysis, management discussion, analysis",5,2020-01-01
+1410,83,"education, title iv, students, programs, title",1,2020-01-01
+1411,84,"animal, pet, veterinary, animal health, products",3,2020-01-01
+1412,85,"mortgage, mortgage insurance, insurance, underwriting, loan",2,2020-01-01
+1413,86,"uranium, imaging, moly, extraction, mining",2,2020-01-01
+1414,87,"quad graphics, quad, graphics, printing, inkjet",3,2020-01-01
+1415,88,"coal, mining, mine, metallurgical coal, metallurgical",1,2020-01-01
+1416,89,"pharmacy, prescription, amerisourcebergen, pbm, operations",1,2020-01-01
+1417,90,"statements, qualified foregoing, incform ktable, international incform, incform",2,2020-01-01
+1418,91,"drilling, rigs, rig, offshore, drilling contracts",2,2020-01-01
+1419,92,"trading, electronic trading, trading platform, electronic, platform",1,2020-01-01
+1420,93,"insurance, mortgage insurance, prc, mortgage, china",1,2020-01-01
+1421,95,"oem, products, server solutions, customers, ablecom",2,2020-01-01
+1422,96,"dietary, supplements, dietary supplements, nutritional, products",1,2020-01-01
+1423,97,"statements made, report relate, statements, contentspagepart, relate events",1,2020-01-01
+1424,98,"dte, pipeline, registrants, gas, pipeline systems",1,2020-01-01
+1425,99,"kcs, rail, mexican, kcsm, kcs consolidated",1,2020-01-01
+1426,101,"services, mobile, video, telephony, network",4,2020-01-01
+1427,102,"building, metal, building systems, construction, siding",1,2020-01-01
+1428,103,"tobacco, tobacco products, cigarette, newgen, products",1,2020-01-01
+1429,104,"trimas, convertible, black small, small square, spin",1,2020-01-01
+1430,105,"salons, salon, hair, company, stylists",1,2020-01-01
+1431,106,"factors24company, risks24risks relating, risks24risks, relating industry33, factors24company risks24risks",1,2020-01-01
+1432,107,"aquarefining, clarios, lead, tric, aquarefined lead",1,2020-01-01
+1433,108,"real, bay, bay holdings, real estate, estate",1,2020-01-01
+1434,109,"onewater, boat, marine, boats, onewater inc",3,2020-01-01
+1435,110,"dow, mobitec, products, styrene, rubber",3,2020-01-01
+1436,113,"products, spine, fda, surgeons, healthcare",2,2020-01-01
+1437,114,"clients, marketing, ipg, agencies, media",1,2020-01-01
+1438,117,"cannabis, marijuana, cannabis industry, industry, common stock",1,2020-01-01
+1439,118,"tenants, properties, public charter, imagine, debt",1,2020-01-01
+1440,119,"bus, school, oncor, buses, efh corp",4,2020-01-01
+1441,121,"equipment, seismic, seismic equipment, lease pool, lease",1,2020-01-01
+1442,122,"wireless, sites, ccic, wireless infrastructure, sprint",1,2020-01-01
+1443,125,"companys, materials, raw materials, raw, matters",1,2020-01-01
+1444,129,"factorssmaller, factorssmaller reporting, reporting companies, companies required, required provide",3,2020-01-01
+1445,131,"southern, traditional operating, southern company, operating companies, traditional",3,2020-01-01
+1446,133,"materials, beryllium, arlon, products, sales",1,2020-01-01
+1447,134,"iron ore, iron, ore, steel, mining",1,2020-01-01
+1448,136,"duke, duke energys, energys, duke energy, energy",1,2020-01-01
+1449,-1,"financial, operations, us, products, company",285,2021-01-01
+1450,0,"products, customers, us, results, financial",127,2021-01-01
+1451,1,"product, clinical, candidates, product candidates, trials",102,2021-01-01
+1452,2,"loans, bank, loan, financial, interest",62,2021-01-01
+1453,3,"smaller reporting, smaller, reporting company, provide information, required provide",38,2021-01-01
+1454,4,"gas, oil, natural gas, natural, oil natural",23,2021-01-01
+1455,5,"properties, tenants, reit, property, real",18,2021-01-01
+1456,6,"investment, investments, portfolio, adviser, securities",17,2021-01-01
+1457,7,"vehicle, vehicles, automotive, operations, financial",23,2021-01-01
+1458,8,"mortgage, fannie, mae, fannie mae, loans",11,2021-01-01
+1459,9,"combination, initial, initial combination, shares, vitas",14,2021-01-01
+1460,10,"combination, initial, initial combination, warrants, target",58,2021-01-01
+1461,11,"hotels, hotel, reit, travel, properties",10,2021-01-01
+1462,12,"healthcare, health, care, services, medical",19,2021-01-01
+1463,13,"adapthealth, medicare, care, health, medicaid",9,2021-01-01
+1464,14,"fund, futures, funds, vix, commodity",5,2021-01-01
+1465,15,"restaurants, restaurant, food, franchisees, burgerfi",10,2021-01-01
+1466,16,"insurance, reinsurance, bermuda, argo, company",12,2021-01-01
+1467,17,"mining, exploration, mineral, gold, properties",10,2021-01-01
+1468,18,"wireless, uscellular, fcc, services, tds",9,2021-01-01
+1469,19,"factorsinformation, report pages, pages, factorsinformation response, response found",7,2021-01-01
+1470,20,"president, vice, vice president, company, franchisees",4,2021-01-01
+1471,21,"charter, cable, services, video, programming",6,2021-01-01
+1472,22,"semiconductor, products, customers, manufacturing, equipment",6,2021-01-01
+1473,23,"landstar, transportation, carriers, freight, independent contractors",1,2021-01-01
+1474,24,"rule 12b, 12b, defined rule, 12b exchange, provide information",2,2021-01-01
+1475,25,"dredging, contracts, government, contract, dredging contracts",2,2021-01-01
+1476,26,"southern, southern company, power, operating companies, southern power",3,2021-01-01
+1477,27,"unitholders, general partner, partner, units, common units",3,2021-01-01
+1478,28,"wine, vwe, wines, brands, alcohol",5,2021-01-01
+1479,29,"gold, custodian, trust, ishares, silver",3,2021-01-01
+1480,30,"agricultural, farmer, farmer mac, stores, mac",4,2021-01-01
+1481,31,"programming, television, stations, programming networks, networks",4,2021-01-01
+1482,32,"boeing, aircraft, airline, contracts, costs",5,2021-01-01
+1483,33,"water, jose water, jose, water company, san jose",2,2021-01-01
+1484,34,"dnb, loan lease, loan, loans, interest",1,2021-01-01
+1485,35,"imax, theater, companys, theater systems, ncm",2,2021-01-01
+1486,36,"consumer mortgage, homes, residential consumer, home, land",1,2021-01-01
+1487,37,"crusader, insurance, company, reinsurance, losses",3,2021-01-01
+1488,38,"users, user, products services, advertising, services",3,2021-01-01
+1489,39,", , , , ",2,2021-01-01
+1490,40,"software, products, raw, aspenone, materials",4,2021-01-01
+1491,41,"xm, sirius xm, sirius, satellite, live",2,2021-01-01
+1492,42,"usl, bno, futures, uscf, contracts",2,2021-01-01
+1493,43,"wood, floorcovering, carpet, timber, decking railing",3,2021-01-01
+1494,44,"solar, pv, microinverter, energy, solar pv",1,2021-01-01
+1495,45,"estate development, water, real estate, estate, land",5,2021-01-01
+1496,46,"ethanol, fuel, corn, lng, production",4,2021-01-01
+1497,48,"cinemas, cinema, investment funds, icahn, cotter",3,2021-01-01
+1498,50,"semiconductor, packaging, wafer, packaging test, customers",2,2021-01-01
+1499,51,"fertilizer, nitrogen, nitrogen fertilizer, refined, crude",3,2021-01-01
+1500,52,"child care, child, care, centers, services",1,2021-01-01
+1501,53,"snap, franchisees, on, snap on, tools",4,2021-01-01
+1502,54,"pulp, paperboard, potlatch, paper, pulp paperboard",3,2021-01-01
+1503,55,"energy, generation, electricity, power, consumers",1,2021-01-01
+1504,56,"futurefuel, chemical company, futurefuel chemical, chemical, biodiesel",2,2021-01-01
+1505,58,"trust, index, index futures, futures, gsci",2,2021-01-01
+1506,59,"gear, games, game, gaming, titles",3,2021-01-01
+1507,60,"swiss, swiss francs, francs, trust, depository",2,2021-01-01
+1508,63,"homes, land, home, front yard, yard",4,2021-01-01
+1509,64,"energy, fuel cell, fuel, posco, posco energy",1,2021-01-01
+1510,65,"evercore, clients, lp, evercore lp, advisory",1,2021-01-01
+1511,66,"cruise, ships, cruises, guests, ship",2,2021-01-01
+1512,67,"equipment, pipe, construction, infiltrator, infiltrator water",4,2021-01-01
+1513,68,"furniture, virco, china, prc, nova",4,2021-01-01
+1514,69,"clients, criteo, advertising, publishers, advertising inventory",4,2021-01-01
+1515,70,"user, facebook, users, data, products",1,2021-01-01
+1516,71,"class common, products, class, results, lived",3,2021-01-01
+1517,72,"satellite, satellites, echostar, fcc, ss",2,2021-01-01
+1518,74,"power, electric, energy, voltage, nstar",1,2021-01-01
+1519,76,"trust, underlying properties, underlying, properties, whiting",2,2021-01-01
+1520,77,"products, services, customers, products services, sales",2,2021-01-01
+1521,78,"certain scaled, elected comply, scaled disclosure, obligations therefore, 12b exchange",2,2021-01-01
+1522,79,"filings exchange, act part, report described, company filings, described company",3,2021-01-01
+1523,80,"gaming, casino, games, casinos, slot",2,2021-01-01
+1524,81,"footwear, athletic, merchandise, athletic footwear, stores",1,2021-01-01
+1525,83,"title iv, students, kaplan, iv, title",3,2021-01-01
+1526,84,"animal, veterinary, animal health, pet, products",3,2021-01-01
+1527,86,"uranium, mining, nuclear, mineral, pfic",2,2021-01-01
+1528,87,"printer, inkjet, printers, ink, fiery",3,2021-01-01
+1529,88,"coal, mining, mine, mining operations, plants",3,2021-01-01
+1530,89,"pharmacy, pbm, pharmacies, prescription, retail",2,2021-01-01
+1531,90,"statements, report form, annual report, form, report",4,2021-01-01
+1532,91,"drilling, rigs, oil, fiscal, percent",2,2021-01-01
+1533,92,"electronic trading, trading, trading platform, broker, electronic",1,2021-01-01
+1534,93,"prc, china, hong, hong kong, kong",1,2021-01-01
+1535,94,"grainger, eggs, egg, co manufacturers, products",3,2021-01-01
+1536,96,"products, dietary, oxide, supplements, nutritional",2,2021-01-01
+1537,97,"carefully discussed, undertaken update, statements, contentspagepart, statements undertaken",1,2021-01-01
+1538,98,"dte, registrants, dte energy, gas, energy",3,2021-01-01
+1539,99,"kcs, rail, mexican, kcsm, kcs consolidated",2,2021-01-01
+1540,100,"laboratory, laboratories, testing, company, cdd",3,2021-01-01
+1541,101,"mobile, services, telephony, video, broadband",3,2021-01-01
+1542,103,"tobacco, tobacco products, cigarette, cigarettes, products",5,2021-01-01
+1543,105,"products corporation, company, revlon, corporation, revlon inc",1,2021-01-01
+1544,107,"fep, de conversion, de, conversion, fluoride",1,2021-01-01
+1545,109,"boat, boats, sea ray, marine, dealer",1,2021-01-01
+1546,110,"best buy, stores, customer, vendors, products",1,2021-01-01
+1547,112,"company, nrg, laclede, laclede gas, company ability",2,2021-01-01
+1548,113,"products, fda, clinical, inspire study, product",1,2021-01-01
+1549,115,"maiden, reinsurance, maiden reinsurance, bermuda, amtrust",4,2021-01-01
+1550,117,"cannabis, medical cannabis, hemp, medical, adult",4,2021-01-01
+1551,118,"increase, insurance, credit, rates, investments",1,2021-01-01
+1552,119,"bus, school, buses, school bus, school buses",1,2021-01-01
+1553,120,"railcar, railcars, highway products, operations, products",1,2021-01-01
+1554,121,"equipment, seismic, seismic equipment, lease pool, lease",3,2021-01-01
+1555,122,"sites, wireless, ccic, tenant, towers",3,2021-01-01
+1556,123,"wireless, hetnets, products, customers, shared wireless",1,2021-01-01
+1557,124,"acxiom, data, services, clients, telesat",1,2021-01-01
+1558,125,"dupont, tio2pigment, chemours, fluoroproducts, materials",2,2021-01-01
+1559,127,"reit, income, assets, mortgage, rmbs",2,2021-01-01
+1560,128,"seed, stevia, alfalfa, alfalfa seed, growers",1,2021-01-01
+1561,129,"factorssmaller, factorssmaller reporting, reporting companies, companies required, required provide",1,2021-01-01
+1562,132,"varex, butler, dish, dish network, varian",3,2021-01-01
+1563,133,"beryllium, sales, beryllium containing, products, containing products",2,2021-01-01
+1564,134,"steel, iron, iron ore, scrap, ore",1,2021-01-01
+1565,136,"duke, duke energy, southern, energy, southern company",2,2021-01-01

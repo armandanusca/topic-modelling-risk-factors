@@ -1,3 +1,362 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:faac2974b2936aeed01bd0de181850b4c34b483194fb38fd76e275ff277918b1
-size 28083
+,Topic,Words,Frequency,Timestamp
+0,-1,"products, financial, operations, results, us",105,2007-01-01
+1,0,"financial, us, products, operations, results",164,2007-01-01
+2,2,"statements, report, annual report, annual, date",5,2007-01-01
+3,4,"tobacco, leaf, leaf tobacco, farmers, operations",1,2007-01-01
+4,5,"ncm, ncm llc, llc, founding, founding members",1,2007-01-01
+5,6,", , , , ",2,2007-01-01
+6,7,"title iv, education, programs, students, iv",3,2007-01-01
+7,10,"avocados, growers, avocado, calavo, seed",1,2007-01-01
+8,12,"southern, traditional operating, traditional, operating companies, power",1,2007-01-01
+9,14,"coal, met coal, mining, met, operations",1,2007-01-01
+10,20,"hilfiger, jewelry, tommy hilfiger, moissanite, klein",1,2007-01-01
+11,21,"water, wastewater, lowry, district, lowry range",2,2007-01-01
+12,23,"filings exchange, act part, report described, company filings, described company",1,2007-01-01
+13,24,"factorsinformation found, found report, factorsinformation, report caption, caption",1,2007-01-01
+14,25,"poultry, feed, chicken, feed ingredients, poultry industry",1,2007-01-01
+15,29,"dealership, dealerships, manufacturers, vehicle, rush",1,2007-01-01
+16,30,"certain scaled, scaled disclosure, elected comply, obligations therefore, 12b exchange",1,2007-01-01
+17,-1,"financial, products, operations, results, us",142,2008-01-01
+18,0,"financial, us, operations, company, market",226,2008-01-01
+19,1,"smaller reporting, factorsnot, reporting company, smaller, reporting",2,2008-01-01
+20,2,"statements, report, annual report, annual, date",5,2008-01-01
+21,3,"rule 12b, 12b, 12b exchange, defined rule, provide information",1,2008-01-01
+22,4,"craft, craft brands, brands, sales, beer",1,2008-01-01
+23,5,"theatre, hotels resorts, film, movie, hotels",1,2008-01-01
+24,6,", , , , ",2,2008-01-01
+25,7,"vitas, hospice, care, programs, title iv",1,2008-01-01
+26,8,"living, senior living, snh, communities, medicare",1,2008-01-01
+27,9,"relating business44risks, factors43risks, factors43risks relating, relating industry62, industry62",3,2008-01-01
+28,10,"seed, products, vegetable, vegetables, fruit",2,2008-01-01
+29,12,"southern, traditional operating, southern company, traditional, power",2,2008-01-01
+30,13,"advisors, clients, advisors clients, service, financial",1,2008-01-01
+31,15,"charter, cable, services, programming, service",1,2008-01-01
+32,16,"revise result, update revise, otherwise 4table, events otherwise, report place",1,2008-01-01
+33,17,"cruise, ships, cruises, guests, carnival",1,2008-01-01
+34,20,"jewelry, moissanite, finished jewelry, jewels, moissanite jewels",2,2008-01-01
+35,22,"companys, footwear, company, golf, apparel",1,2008-01-01
+36,29,"dealership, rush, dealership agreements, peterbilt, marvin",2,2008-01-01
+37,30,"smaller reporting, reporting company, certain scaled, scaled disclosure, elected comply",1,2008-01-01
+38,-1,"financial, products, operations, results, us",157,2009-01-01
+39,0,"financial, us, operations, market, company",267,2009-01-01
+40,1,"smaller reporting, smaller, provide information, required provide, reporting company",13,2009-01-01
+41,2,"statements, report, cim, contentspagepart, update",4,2009-01-01
+42,3,"rule 12b, 12b, defined rule, 12b exchange, provide information",3,2009-01-01
+43,4,"companys, company, beer, breweries, hops",1,2009-01-01
+44,5,"cinema, theatre, film, films, ncm",2,2009-01-01
+45,7,"education, title iv, students, programs, iv",1,2009-01-01
+46,8,"tenants, medicare, medicaid, living, healthcare",2,2009-01-01
+47,9,"factors18forward, factors18forward statements30, statements30, relating business44risks, industry62",1,2009-01-01
+48,10,"avocados, seed, products, food, growers",3,2009-01-01
+49,11,"hpt, fuel, travel, travel centers, rmr",4,2009-01-01
+50,12,"southern, southern company, traditional operating, traditional, power",1,2009-01-01
+51,13,"advisors, financial, lpl, clients, lpl financial",1,2009-01-01
+52,14,"coal, coke, mining, cokemaking, operations",1,2009-01-01
+53,18,"stock, feedstock, preferred, preferred stock, oil",1,2009-01-01
+54,19,"iac, search, ticketmaster, websites, interval",2,2009-01-01
+55,21,"water, rangeview, rangeview district, lowry, wastewater",2,2009-01-01
+56,23,"filings exchange, act part, report described, company filings, described company",2,2009-01-01
+57,28,"applicable registrant, factorsnot applicable, factorsnot, registrant, applicable",1,2009-01-01
+58,30,"certain scaled, scaled disclosure, elected comply, obligations therefore, 12b exchange",1,2009-01-01
+59,-1,"financial, products, operations, results, us",160,2010-01-01
+60,0,"financial, us, operations, products, market",272,2010-01-01
+61,1,"smaller reporting, smaller, reporting company, reporting, provide information",7,2010-01-01
+62,2,"statements, report, form, annual report, annual",5,2010-01-01
+63,3,"rule 12b, 12b, defined rule, 12b exchange, provide information",2,2010-01-01
+64,5,"ncm, cotter, founding, cinema, ncm llc",2,2010-01-01
+65,6,", , , , ",2,2010-01-01
+66,7,"title iv, students, iv, programs, title",3,2010-01-01
+67,8,"communities, living, senior living, us, merger",1,2010-01-01
+68,11,"hpt, fuel, travel, travel centers, rmr",1,2010-01-01
+69,13,"advisors, clients, advisors clients, service, financial",1,2010-01-01
+70,14,"coal, mining, operations, coal supply, us",2,2010-01-01
+71,15,"charter, twc, bright house, bright, transaction",1,2010-01-01
+72,16,"revise result, business7item, iitem business7item, 5table contentstable, update revise",1,2010-01-01
+73,18,"stock, feedstock, preferred, preferred stock, oil",1,2010-01-01
+74,19,"iac, search, ticketmaster, interval, websites",4,2010-01-01
+75,20,"jewelry, moissanite, jewels, moissanite jewels, finished jewelry",1,2010-01-01
+76,22,"golf, companys, company, products, golf ball",1,2010-01-01
+77,24,"report pages, found report, pages, information incorporated, financial review",1,2010-01-01
+78,25,"poultry, chicken, feed, products, feed ingredients",1,2010-01-01
+79,27,"inventory, assets inventory, engagements, appraisal, valuation",1,2010-01-01
+80,29,"dealership, rush, dealership agreements, peterbilt, dealerships",1,2010-01-01
+81,31,"cautionary regarding, regarding statementspages, capital structure34, factors11general, factors11general risks",3,2010-01-01
+82,-1,"financial, products, operations, results, us",190,2011-01-01
+83,0,"financial, us, operations, market, company",297,2011-01-01
+84,1,"smaller reporting, smaller, reporting company, reporting, required",16,2011-01-01
+85,2,"statements, report, annual report, annual, form",7,2011-01-01
+86,3,"rule 12b, 12b, factorswe smaller, 12b exchange, defined rule",1,2011-01-01
+87,4,"wine, alcohol, companys, brands, beverage",1,2011-01-01
+88,5,"imax, theater, companys, film, films",2,2011-01-01
+89,6,", , , , ",2,2011-01-01
+90,7,"title iv, students, education, programs, iv",2,2011-01-01
+91,8,"living, snh, communities, senior living, medicare",1,2011-01-01
+92,9,"relating business44risks, industry62, factors43risks relating, relating industry62, factors43risks",3,2011-01-01
+93,10,"seed, alfalfa, alfalfa seed, sgi, stevia",1,2011-01-01
+94,11,"fuel, hpt, travel, rmr, travel centers",2,2011-01-01
+95,12,"southern, traditional operating, southern company, power, traditional",2,2011-01-01
+96,14,"coal, mining, operations, coal supply, us",1,2011-01-01
+97,16,"revise result, contentspart 4item, 4item business4item, important furthermore, law 2table",2,2011-01-01
+98,17,"cruise, ships, cruises, guests, ship",1,2011-01-01
+99,20,"jewelry, moissanite, jewels, finished jewelry, moissanite jewels",1,2011-01-01
+100,21,"water, lowry, lowry range, district, wastewater",1,2011-01-01
+101,24,"report pages, pages, information incorporated, report, factorsinformation response",2,2011-01-01
+102,25,"poultry, chicken, feed, feed ingredients, poultry industry",1,2011-01-01
+103,27,"hc, hc realty, realty, stock, asset sale",1,2011-01-01
+104,29,"rush, dealership, dealership agreements, peterbilt, marvin",1,2011-01-01
+105,30,"certain scaled, scaled disclosure, elected comply, obligations therefore, 12b exchange",1,2011-01-01
+106,-1,"financial, products, operations, results, us",167,2012-01-01
+107,0,"financial, us, operations, company, market",306,2012-01-01
+108,1,"smaller reporting, smaller, reporting company, provide information, required provide",10,2012-01-01
+109,2,"statements, report, annual report, annual, business4item",4,2012-01-01
+110,3,"rule 12b, 12b, provide information, smaller reporting, reporting company",4,2012-01-01
+111,4,"alcohol, brands, beverage alcohol, beverage, products",2,2012-01-01
+112,5,"stock, ncm, rights, elvis, stockholder",1,2012-01-01
+113,7,"title iv, students, education, programs, iv",2,2012-01-01
+114,8,"medicaid, medicare, operators, living, us",1,2012-01-01
+115,10,"seed, avocados, growers, alfalfa, products",3,2012-01-01
+116,13,"blackrock, advisors, clients, regulatory, financial",3,2012-01-01
+117,14,"coal, iron ore, iron, ore, mining",1,2012-01-01
+118,16,"business4item, revise result, update revise, events otherwise, except required",2,2012-01-01
+119,17,"cruise, ships, cruises, guests, carnival",1,2012-01-01
+120,19,"iac, ticketmaster, search, interval, diller",3,2012-01-01
+121,20,"jewelry, moissanite, jewels, finished jewelry, moissanite jewels",2,2012-01-01
+122,22,"golf, company, products, sales, companys",1,2012-01-01
+123,23,"filings exchange, act part, report described, company filings, described company",1,2012-01-01
+124,24,"report pages, factorsinformation response, response found, factorsinformation, heading information",1,2012-01-01
+125,27,"inventory, assets inventory, appraisal, valuation, engagements",1,2012-01-01
+126,28,"applicable registrant, factorsnot applicable, factorsnot, registrant, applicable",1,2012-01-01
+127,30,"certain scaled, scaled disclosure, elected comply, obligations therefore, 12b exchange",1,2012-01-01
+128,31,"factors9general risks, factors9general, uncertainties9, risks uncertainties9, risks",1,2012-01-01
+129,-1,"financial, operations, products, results, us",192,2013-01-01
+130,0,"financial, us, operations, company, products",304,2013-01-01
+131,1,"smaller reporting, smaller, reporting company, provide information, required provide",20,2013-01-01
+132,2,"statements, report, update, form, actual results",9,2013-01-01
+133,3,"rule 12b, 12b, defined rule, factorswe smaller, provide information",3,2013-01-01
+134,4,"brands, daniel, alcohol, products, jack",1,2013-01-01
+135,5,"ncm, founding, ncm llc, ncm llcs, llcs",4,2013-01-01
+136,6,", , , , ",3,2013-01-01
+137,7,"education, title iv, title, iv, programs",1,2013-01-01
+138,8,"living, communities, senior living, living communities, medicare",3,2013-01-01
+139,9,"officers registrant32, registrant32, factors12executive, factors12executive officers, officers",1,2013-01-01
+140,11,"hpt, fuel, travel, rmr, travel centers",2,2013-01-01
+141,12,"southern, traditional operating, power, traditional, operating companies",1,2013-01-01
+142,13,"advisors, lpl, clients, financial, capital",1,2013-01-01
+143,14,"coal, costs, mining, operations, adversely",1,2013-01-01
+144,16,"revise result, contentspart 4item, 4item business4item, important furthermore, law 2table",1,2013-01-01
+145,17,"ships, cruise, cruises, nclh, ship",1,2013-01-01
+146,18,"stock, feedstock, oil, preferred stock, preferred",1,2013-01-01
+147,21,"water, rangeview, rangeview district, lowry, district",2,2013-01-01
+148,22,"company, golf, sales, products, companys",3,2013-01-01
+149,23,"filings exchange, act part, report described, company filings, described company",1,2013-01-01
+150,24,"report pages, found report, pages, information incorporated, financial review",1,2013-01-01
+151,25,"poultry, chicken, feed, products, feed ingredients",1,2013-01-01
+152,26,"xm, sirius xm, sirius, satellite, live",1,2013-01-01
+153,28,"applicable registrant, factorsnot applicable, factorsnot, registrant, applicable",2,2013-01-01
+154,31,"industry12, related industry12, risks related, risks, related",1,2013-01-01
+155,-1,"products, financial, operations, results, us",224,2014-01-01
+156,0,"financial, us, operations, company, market",402,2014-01-01
+157,1,"smaller reporting, smaller, reporting company, reporting, provide information",23,2014-01-01
+158,2,"statements, report, update, annual report, form",8,2014-01-01
+159,3,"rule 12b, 12b, defined rule, factorswe smaller, provide information",1,2014-01-01
+160,4,"wine, company, brands, companys, beer",7,2014-01-01
+161,5,"cotter, theatre, film, cinema, ncm",3,2014-01-01
+162,6,", , , , ",4,2014-01-01
+163,7,"title iv, iv, title, programs, students",2,2014-01-01
+164,9,"relating business44risks, industry62, factors43risks relating, relating industry62, factors43risks",1,2014-01-01
+165,11,"fuel, hpt, travel, travel centers, rmr",2,2014-01-01
+166,13,"advisors, advertising, hong, hong kong, kong",3,2014-01-01
+167,14,"coal, mining, operations, us, mine",1,2014-01-01
+168,17,"cruise, ships, cruises, guests, carnival",1,2014-01-01
+169,19,"iac, search, websites, interval, online",2,2014-01-01
+170,20,"jewelry, moissanite, jewels, finished jewelry, moissanite jewels",2,2014-01-01
+171,21,"water, lowry, lowry range, wastewater, range",1,2014-01-01
+172,22,"golf, companys, company, products, ball",1,2014-01-01
+173,23,"filings exchange, act part, report described, company filings, described company",1,2014-01-01
+174,25,"poultry, chicken, feed, merger, products",1,2014-01-01
+175,26,"xm, sirius xm, sirius, satellite, live",2,2014-01-01
+176,27,"inventory, assets inventory, engagements, liquidation, appraisal",3,2014-01-01
+177,28,"applicable registrant, factorsnot applicable, factorsnot, registrant, applicable",1,2014-01-01
+178,-1,"products, financial, operations, results, us",260,2015-01-01
+179,0,"us, financial, operations, company, market",406,2015-01-01
+180,1,"smaller reporting, smaller, reporting company, provide information, reporting",24,2015-01-01
+181,2,"statements, report, annual report, contentspagepart, annual",8,2015-01-01
+182,3,"rule 12b, 12b, defined rule, provide information, smaller reporting",6,2015-01-01
+183,4,"tobacco, alcohol, brands, products, leaf",3,2015-01-01
+184,5,"theatre, film, theatres, films, ncm",2,2015-01-01
+185,6,", , , , ",1,2015-01-01
+186,7,"university, students, vitas, university clients, programs",2,2015-01-01
+187,8,"communities, living, senior living, lease, cash flow",1,2015-01-01
+188,9,"jetblue17risks associated, airline industry24, related jetblue17risks, jetblue17risks, industry24",1,2015-01-01
+189,10,"seed, alfalfa, products, growers, avocados",4,2015-01-01
+190,11,"gaming, hpt, fuel, rmr, travel",3,2015-01-01
+191,12,"southern, traditional operating, power, southern company, traditional",3,2015-01-01
+192,13,"advisors, financial, clients, broker, lpl",2,2015-01-01
+193,15,"charter, twc, broadband, services, liberty",2,2015-01-01
+194,16,"revise result, contentspart 4item, important furthermore, 4item business4item, law 2table",1,2015-01-01
+195,17,"cruise, ships, cruises, vacation, impact",1,2015-01-01
+196,20,"hilfiger, tommy hilfiger, tommy, klein, jewelry",1,2015-01-01
+197,21,"water, jose water, jose, water company, san jose",1,2015-01-01
+198,25,"poultry, feed, chicken, feed ingredients, poultry industry",1,2015-01-01
+199,26,"xm, sirius xm, sirius, satellite, live",1,2015-01-01
+200,28,"applicable registrant, factorsnot applicable, factorsnot, registrant, applicable",1,2015-01-01
+201,31,"statements3, regarding statements3, cautionary regarding, cautionary, regarding",1,2015-01-01
+202,-1,"financial, operations, products, results, us",259,2016-01-01
+203,0,"financial, us, operations, company, products",423,2016-01-01
+204,1,"smaller reporting, smaller, reporting company, reporting, required",27,2016-01-01
+205,2,"statements, report, annual report, form, annual",8,2016-01-01
+206,3,"rule 12b, 12b, defined rule, provide information, company defined",3,2016-01-01
+207,4,"wine, oregon, wines, company, winery",2,2016-01-01
+208,5,"imax, theater, film, films, ncm",4,2016-01-01
+209,6,", , , , ",3,2016-01-01
+210,7,"students, title iv, education, programs, iv",1,2016-01-01
+211,9,"relating business44risks, industry62, factors43risks relating, relating industry62, factors43risks",1,2016-01-01
+212,10,"seed, alfalfa, stevia, alfalfa seed, growers",3,2016-01-01
+213,11,"hpt, fuel, rmr, travel, gaming",1,2016-01-01
+214,12,"southern, traditional operating, power, southern company, traditional",1,2016-01-01
+215,13,"advisors, clients, advisors clients, financial, us",1,2016-01-01
+216,14,"coal, met coal, mining, met, operations",2,2016-01-01
+217,15,"charter, skyhook, cable, services, transactions",2,2016-01-01
+218,16,"revise result, contentspart 4item, 4item business4item, important furthermore, law 2table",1,2016-01-01
+219,17,"ships, cruise, cruises, guests, ship",2,2016-01-01
+220,18,"stock, feedstock, preferred stock, preferred, series",2,2016-01-01
+221,23,"filings exchange, act part, report described, company filings, described company",1,2016-01-01
+222,25,"poultry, feed, chicken, feed ingredients, poultry industry",1,2016-01-01
+223,27,"inventory, assets inventory, appraisal, valuation, engagements",1,2016-01-01
+224,28,"applicable registrant, factorsnot applicable, factorsnot, registrant, applicable",1,2016-01-01
+225,30,"certain scaled, scaled disclosure, elected comply, obligations therefore, 12b exchange",1,2016-01-01
+226,-1,"products, financial, operations, results, us",245,2017-01-01
+227,0,"us, financial, operations, products, market",454,2017-01-01
+228,1,"smaller reporting, smaller, reporting company, provide information, required provide",26,2017-01-01
+229,2,"statements, report, annual report, annual, update",7,2017-01-01
+230,3,"rule 12b, 12b, defined rule, factorswe smaller, provide information",5,2017-01-01
+231,4,"tobacco, alcohol, wine, brands, products",4,2017-01-01
+232,5,"ncm, ncm llc, theatre, theatres, founding",5,2017-01-01
+233,6,", , , , ",1,2017-01-01
+234,7,"title iv, students, iv, title, programs",4,2017-01-01
+235,9,"business18, related business18, related, relating business44risks, relating industry62",1,2017-01-01
+236,10,"seed, products, alfalfa, growers, stevia",5,2017-01-01
+237,12,"southern, traditional operating, power, southern company, traditional",2,2017-01-01
+238,13,"advisors, clients, financial, ability, service",2,2017-01-01
+239,14,"coal, mining, operations, coke, partnership",3,2017-01-01
+240,15,"charter, twc, bright house, bright, transaction",2,2017-01-01
+241,16,"revise result, update revise, events otherwise, except required, information future",2,2017-01-01
+242,17,"ships, cruise, cruises, ship, income",3,2017-01-01
+243,18,"stock, terminal, lng, preferred, preferred stock",2,2017-01-01
+244,19,"iac, search, ticketmaster, websites, interval",2,2017-01-01
+245,21,"water, jose water, water company, jose, san jose",2,2017-01-01
+246,23,"filings exchange, act part, report described, company filings, described company",3,2017-01-01
+247,24,"report pages, factorsinformation response, response found, factorsinformation, heading information",1,2017-01-01
+248,25,"poultry, chicken, feed, avian, avian influenza",1,2017-01-01
+249,26,"xm, sirius xm, sirius, satellite, live",1,2017-01-01
+250,27,"inventory, assets inventory, engagements, liquidation, valuation",2,2017-01-01
+251,28,"factorsnot applicable, factorsnot, applicable registrant, applicable factorsnot, registrant",2,2017-01-01
+252,29,"dealership, dealerships, rush, vehicle, manufacturers",1,2017-01-01
+253,31,"related industry11, industry11, risks related, risks, related",1,2017-01-01
+254,-1,"products, financial, operations, results, us",288,2018-01-01
+255,0,"us, financial, operations, product, market",496,2018-01-01
+256,1,"smaller reporting, smaller, reporting company, reporting, provide information",26,2018-01-01
+257,2,"statements, report, annual report, form, annual",11,2018-01-01
+258,3,"rule 12b, 12b, provide information, defined rule, smaller reporting",6,2018-01-01
+259,4,"wine, brands, alcohol, products, beverage",3,2018-01-01
+260,5,"ncm, founding, ncm llc, ncm llcs, llcs",2,2018-01-01
+261,6,", , , , ",3,2018-01-01
+262,7,"university, university clients, students, programs, student",1,2018-01-01
+263,8,"communities, living, medicare, senior living, tenants",4,2018-01-01
+264,9,"relating business44risks, industry62, factors43risks relating, factors43risks, relating industry62",3,2018-01-01
+265,10,"seed, alfalfa, growers, alfalfa seed, stevia",1,2018-01-01
+266,11,"fuel, hpt, travel, travel centers, rmr",3,2018-01-01
+267,12,"southern, traditional operating, power, southern company, traditional",2,2018-01-01
+268,13,"agents, agents brokers, brokers, estate, real estate",1,2018-01-01
+269,14,"coal, met coal, mining, met, operations",1,2018-01-01
+270,15,"charter, skyhook, cable, time warner, liberty",1,2018-01-01
+271,16,"revise result, contentspart 4item, 4item business4item, important furthermore, law 2table",2,2018-01-01
+272,17,"cruise, ships, cruises, guests, ship",1,2018-01-01
+273,18,"bus, school, stock, buses, school bus",1,2018-01-01
+274,19,"iac, interval, search, diller, mr diller",1,2018-01-01
+275,21,"water, jose water, water company, jose, san jose",1,2018-01-01
+276,22,"golf, company, companys, watches, sales",2,2018-01-01
+277,23,"filings exchange, act part, report described, company filings, described company",1,2018-01-01
+278,24,"report pages, factorsinformation response, response found, factorsinformation, heading information",1,2018-01-01
+279,29,"dealership, rush, dealership agreements, peterbilt, marvin",2,2018-01-01
+280,30,"certain scaled, scaled disclosure, elected comply, obligations therefore, 12b exchange",1,2018-01-01
+281,31,"statements3, regarding statements3, cautionary regarding, cautionary, regarding",1,2018-01-01
+282,-1,"products, financial, operations, results, us",281,2019-01-01
+283,0,"us, financial, operations, product, products",514,2019-01-01
+284,1,"smaller reporting, smaller, reporting company, reporting, required",33,2019-01-01
+285,2,"statements, report, annual report, annual, report form",7,2019-01-01
+286,3,"defined rule, rule 12b, 12b, smaller reporting, company defined",8,2019-01-01
+287,4,"brands, companys, alcohol, company, products",2,2019-01-01
+288,5,"theatres, theatre, cinema, film, ncm",3,2019-01-01
+289,6,", , , , ",3,2019-01-01
+290,7,"vitas, hospice, care, programs, title iv",1,2019-01-01
+291,8,"living, senior living, communities, living communities, senior",4,2019-01-01
+292,9,"executive compensation104, officers registrant39, factors21item executive, factors15executive officers, factors15executive",3,2019-01-01
+293,11,"hpt, fuel, rmr, travel, gaming",2,2019-01-01
+294,12,"southern, traditional operating, traditional, operating companies, power",1,2019-01-01
+295,13,"prc, advisors, peer, regulations, information",2,2019-01-01
+296,15,"charter, skyhook, liberty, services, broadband",2,2019-01-01
+297,16,"revise result, contentspart 4item, important furthermore, 4item business4item, law 2table",1,2019-01-01
+298,17,"ships, cruise, nclh, cruises, income",1,2019-01-01
+299,18,"stock, terminal, lng, operations, common stock",3,2019-01-01
+300,20,"moissanite, jewelry, jewels, finished jewelry, moissanite jewels",1,2019-01-01
+301,24,"pages, report, report pages, information incorporated, incorporated",2,2019-01-01
+302,25,"poultry, feed, chicken, products, feed ingredients",1,2019-01-01
+303,26,"xm, sirius xm, sirius, satellite, live",2,2019-01-01
+304,27,"funds, nav, shares, efrp, trading",1,2019-01-01
+305,28,"applicable, applicable registrant, factorsnot applicable, factorsnot, registrant factorsnot",1,2019-01-01
+306,29,"dealership, rush, dealership agreements, peterbilt, marvin",1,2019-01-01
+307,31,"related industry10, industry10, risks related, risks, related",1,2019-01-01
+308,-1,"financial, products, operations, results, us",284,2020-01-01
+309,0,"us, financial, operations, products, product",549,2020-01-01
+310,1,"smaller reporting, smaller, reporting company, reporting, provide information",29,2020-01-01
+311,2,"statements, report, update, contentspagepart, form",13,2020-01-01
+312,3,"rule 12b, 12b, defined rule, company defined, smaller reporting",7,2020-01-01
+313,4,"companys, company, beer, costs, brands",2,2020-01-01
+314,5,"cotter, ncm, founding, founding members, ncm llc",3,2020-01-01
+315,6,", , , , ",3,2020-01-01
+316,7,"students, programs, title iv, iv, title",2,2020-01-01
+317,8,"living, communities, senior living, living communities, snh",5,2020-01-01
+318,9,"factors24company, industry33, factors24company risks24risks, risks24risks relating, risks24risks",2,2020-01-01
+319,11,"hpt, fuel, rmr, travel, travel centers",2,2020-01-01
+320,12,"southern, traditional operating, southern company, power, traditional",4,2020-01-01
+321,13,"cim, urban, cim urban, pmc, pmc commercial",2,2020-01-01
+322,14,"coal, mining, operations, coke, mine",2,2020-01-01
+323,15,"charter, broadband, services, cable, twc",3,2020-01-01
+324,16,"revise result, update revise, otherwise 4table, events otherwise, report place",1,2020-01-01
+325,20,"jewelry, moissanite, jewels, moissanite jewels, cree",1,2020-01-01
+326,22,"golf, companys, company, footwear, products",2,2020-01-01
+327,24,"report pages, factorsinformation response, response found, factorsinformation, heading information",1,2020-01-01
+328,25,"poultry, chicken, feed, avian, feed ingredients",2,2020-01-01
+329,26,"xm, sirius xm, sirius, satellite, live",2,2020-01-01
+330,29,"dealership, dealership agreements, rush, peterbilt, vehicle",1,2020-01-01
+331,30,"certain scaled, scaled disclosure, elected comply, obligations therefore, 12b exchange",1,2020-01-01
+332,31,"statements3, regarding statements3, cautionary regarding, cautionary, regarding",1,2020-01-01
+333,-1,"financial, products, operations, results, us",368,2021-01-01
+334,0,"us, financial, operations, product, company",627,2021-01-01
+335,1,"smaller reporting, smaller, reporting company, provide information, required provide",34,2021-01-01
+336,2,"statements, report, annual report, contentspagepart, form",19,2021-01-01
+337,3,"rule 12b, 12b, defined rule, 12b exchange, provide information",4,2021-01-01
+338,4,"wine, vwe, wines, brands, products",10,2021-01-01
+339,5,"cinema, cinemas, cotter, theater, imax",3,2021-01-01
+340,6,", , , , ",2,2021-01-01
+341,7,"title iv, students, programs, iv, title",4,2021-01-01
+342,8,"tenants, living, communities, medicare, medicaid",2,2021-01-01
+343,9,"1item, factors20forward, information220, sachs physical, vgoldman",4,2021-01-01
+344,10,"seed, stevia, alfalfa, alfalfa seed, growers",1,2021-01-01
+345,11,"hpt, fuel, rmr, travel, gaming",1,2021-01-01
+346,12,"southern, traditional operating, power, traditional, southern company",1,2021-01-01
+347,14,"coal, mining, mine, operations, mining operations",2,2021-01-01
+348,15,"charter, cable, services, broadband, class",1,2021-01-01
+349,17,"cruise, ships, cruises, guests, ship",2,2021-01-01
+350,18,"stock, preferred stock, preferred, common stock, operations",3,2021-01-01
+351,20,"hilfiger, jewelry, tommy hilfiger, moissanite, klein",1,2021-01-01
+352,21,"water, jose water, jose, water company, san jose",1,2021-01-01
+353,22,"golf, company, products, sales, companys",2,2021-01-01
+354,23,"filings exchange, act part, report described, company filings, described company",2,2021-01-01
+355,24,"report pages, factorsinformation response, response found, factorsinformation, heading information",1,2021-01-01
+356,26,"xm, sirius xm, sirius, satellite, live",2,2021-01-01
+357,27,"inventory, assets inventory, appraisal, valuation, engagements",1,2021-01-01
+358,28,"properties legal, legal proceedings, applicable registrant, factorsnot applicable, proceedings",1,2021-01-01
+359,29,"dealership, rush, dealership agreements, peterbilt, dealerships",1,2021-01-01
+360,30,"scaled disclosure, scaled, certain scaled, elected comply, reporting",3,2021-01-01
