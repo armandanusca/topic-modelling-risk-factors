@@ -28,9 +28,9 @@ Spasic, Irena et al., 2013, FlexiTerm: a flexible term recognition method, Journ
 * Extract risk factors section from SEC EDGAR and store them into a MongoDB instance
 * Dataset analysis for the extracted documents
 * BERTopic model - utilises DTM to generate a view over the evolution of topics throughout time
-* Regression model - forecast topic evolution
-* Classifier model - evaluate the burstiness of a topic
-* Timeseries model - forecast topic evolution
+* Regression model - forecast topic frequency
+* Classifier model - evaluate if a topic is going to increase in importance
+* Timeseries model - forecast topic frequency (utilising a timeseries model)
 
 ### Collab version with models, datasets and pretrained BERTopic can be found [here](https://drive.google.com/drive/folders/1IryUzW8f0Y2pSrlabYnRX-mS_E6lmSya?usp=sharing)
 
@@ -51,4 +51,20 @@ Prerequirements:
 6. Run Increasing_Classifier: if you want to determine if a keyword is part of a topic which is going to increase in importance
 7. Run Regression_Model: if you want to predict evolution of topics past their limit in the dataset (or on future timestamps)
 
-## [Report]()
+#### User guide:
+The analysis was developed on the following platforms:
+
+* AMD Ryzen 5 4600h | 32GB RAM | NVIDIA GeForce® GTX 1650 4GB GDDR6
+  * Windows 11
+  * openSUSE Tumbleweed
+
+* Apple M1 | 16GB RAM
+  * macOS Monterey 12.3
+
+* 1.7GHz quad-core Intel Core i7, Turbo Boost up to 4.5GHz | 16GB RAM | 128MB of eDRAM
+  * macOS BigSur 11.6.5
+
+* Google Colab Pro+ | NVIDIA K80 | 2 x Intel Xeon @ 2.199GHz | 52GB RAM
+  * Ubuntu 18.04.5 LTS
+
+## [Report](https://drive.google.com/file/d/16_msAakQK8Gb70fQCHjNNfCA9kkAxgBq/view?usp=sharing)
