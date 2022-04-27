@@ -131,3 +131,9 @@ dmypy.json
 *.csv
 *.joblib
 *.log
+sec-edgar-filings/*
+.DS_Store
+data/*
+output/.DS_Store
+output/.DS_Store
+output/.DS_Store
