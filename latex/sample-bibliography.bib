@@ -1,0 +1,908 @@
+%%% ====================================================================
+%%%  BibTeX-file{
+%%%     author          = "Gerry Murray",
+%%%     version         = "1.2",
+%%%     date            = "2 April 2012",
+%%%     filename        = "acmsmall-sample-bibfile.bib",
+%%%     address         = "ACM, NY",
+%%%     email           = "murray at hq.acm.org",
+%%%     codetable       = "ISO/ASCII",
+%%%     keywords        = "ACM Reference Format, bibliography, citation, references",
+%%%     supported       = "yes",
+%%%     docstring       = "This BibTeX database file contains 'bibdata' entries
+%%%                        that 'match' the examples provided in the Specifications Document
+%%%                        AND, also, 'legacy'-type bibs. It should assist authors in 
+%%%                        choosing the 'correct' at-bibtype and necessary bib-fields
+%%%                        so as to obtain the appropriate ACM Reference Format output. 
+%%%			   It also contains many 'Standard Abbreviations'. "
+%%%  }
+%%% ====================================================================
+
+% Journals
+
+% First the Full Name is given, then the abbreviation used in the AMS Math
+% Reviews, with an indication if it could not be found there.
+% Note the 2nd overwrites the 1st, so swap them if you want the full name.
+
+ %{AMS}
+ @String{AMSTrans = "American Mathematical Society Translations" }
+ @String{AMSTrans = "Amer. Math. Soc. Transl." }
+ @String{BullAMS = "Bulletin of the American Mathematical Society" }
+ @String{BullAMS = "Bull. Amer. Math. Soc." }
+ @String{ProcAMS = "Proceedings of the American Mathematical Society" }
+ @String{ProcAMS = "Proc. Amer. Math. Soc." }
+ @String{TransAMS = "Transactions of the American Mathematical Society" }
+ @String{TransAMS = "Trans. Amer. Math. Soc." }
+
+ %ACM
+ @String{CACM = "Communications of the {ACM}" }
+ @String{CACM = "Commun. {ACM}" }
+ @String{CompServ = "Comput. Surveys" }
+ @String{JACM = "J. ACM" }
+ @String{ACMMathSoft = "{ACM} Transactions on Mathematical Software" }
+ @String{ACMMathSoft = "{ACM} Trans. Math. Software" }
+ @String{SIGNUM = "{ACM} {SIGNUM} Newsletter" }
+ @String{SIGNUM = "{ACM} {SIGNUM} Newslett." }
+
+ @String{AmerSocio = "American Journal of Sociology" }
+ @String{AmerStatAssoc = "Journal of the American Statistical Association" }
+ @String{AmerStatAssoc = "J. Amer. Statist. Assoc." }
+ @String{ApplMathComp = "Applied Mathematics and Computation" }
+ @String{ApplMathComp = "Appl. Math. Comput." }
+ @String{AmerMathMonthly = "American Mathematical Monthly" }
+ @String{AmerMathMonthly = "Amer. Math. Monthly" }
+ @String{BIT = "{BIT}" }
+ @String{BritStatPsych = "British Journal of Mathematical and Statistical
+          Psychology" }
+ @String{BritStatPsych = "Brit. J. Math. Statist. Psych." }
+ @String{CanMathBull = "Canadian Mathematical Bulletin" }
+ @String{CanMathBull = "Canad. Math. Bull." }
+ @String{CompApplMath = "Journal of Computational and Applied Mathematics" }
+ @String{CompApplMath = "J. Comput. Appl. Math." }
+ @String{CompPhys = "Journal of Computational Physics" }
+ @String{CompPhys = "J. Comput. Phys." }
+ @String{CompStruct = "Computers and Structures" }
+ @String{CompStruct = "Comput. \& Structures" }
+ @String{CompJour = "The Computer Journal" }
+ @String{CompJour = "Comput. J." }
+ @String{CompSysSci = "Journal of Computer and System Sciences" }
+ @String{CompSysSci = "J. Comput. System Sci." }
+ @String{Computing = "Computing" }
+ @String{ContempMath = "Contemporary Mathematics" }
+ @String{ContempMath = "Contemp. Math." }
+ @String{Crelle = "Crelle's Journal" }
+ @String{GiornaleMath = "Giornale di Mathematiche" }
+ @String{GiornaleMath = "Giorn. Mat." } % didn't find in AMS MR., ibid.
+
+ %IEEE
+ @String{Computer = "{IEEE} Computer" }
+ @String{IEEETransComp = "{IEEE} Transactions on Computers" }
+ @String{IEEETransComp = "{IEEE} Trans. Comput." }
+ @String{IEEETransAC = "{IEEE} Transactions on Automatic Control" }
+ @String{IEEETransAC = "{IEEE} Trans. Automat. Control" }
+ @String{IEEESpec = "{IEEE} Spectrum" } % didn't find in AMS MR
+ @String{ProcIEEE = "Proceedings of the {IEEE}" }
+ @String{ProcIEEE = "Proc. {IEEE}" } % didn't find in AMS MR
+ @String{IEEETransAeroElec = "{IEEE} Transactions on Aerospace and Electronic
+     Systems" }
+ @String{IEEETransAeroElec = "{IEEE} Trans. Aerospace Electron. Systems" }
+
+ @String{IMANumerAna = "{IMA} Journal of Numerical Analysis" }
+ @String{IMANumerAna = "{IMA} J. Numer. Anal." }
+ @String{InfProcLet = "Information Processing Letters" }
+ @String{InfProcLet = "Inform. Process. Lett." }
+ @String{InstMathApp = "Journal of the Institute of Mathematics and
+     its Applications" }
+ @String{InstMathApp = "J. Inst. Math. Appl." }
+ @String{IntControl = "International Journal of Control" }
+ @String{IntControl = "Internat. J. Control" }
+ @String{IntNumerEng = "International Journal for Numerical Methods in
+     Engineering" }
+ @String{IntNumerEng = "Internat. J. Numer. Methods Engrg." }
+ @String{IntSuper = "International Journal of Supercomputing Applications" }
+ @String{IntSuper = "Internat. J. Supercomputing Applic." } % didn't find
+%% in AMS MR
+ @String{Kibernetika = "Kibernetika" }
+ @String{JResNatBurStand = "Journal of Research of the National Bureau
+     of Standards" }
+ @String{JResNatBurStand = "J. Res. Nat. Bur. Standards" }
+ @String{LinAlgApp = "Linear Algebra and its Applications" }
+ @String{LinAlgApp = "Linear Algebra Appl." }
+ @String{MathAnaAppl = "Journal of Mathematical Analysis and Applications" }
+ @String{MathAnaAppl = "J. Math. Anal. Appl." }
+ @String{MathAnnalen = "Mathematische Annalen" }
+ @String{MathAnnalen = "Math. Ann." }
+ @String{MathPhys = "Journal of Mathematical Physics" }
+ @String{MathPhys = "J. Math. Phys." }
+ @String{MathComp = "Mathematics of Computation" }
+ @String{MathComp = "Math. Comp." }
+ @String{MathScand = "Mathematica Scandinavica" }
+ @String{MathScand = "Math. Scand." }
+ @String{TablesAidsComp = "Mathematical Tables and Other Aids to Computation" }
+ @String{TablesAidsComp = "Math. Tables Aids Comput." }
+ @String{NumerMath = "Numerische Mathematik" }
+ @String{NumerMath = "Numer. Math." }
+ @String{PacificMath = "Pacific Journal of Mathematics" }
+ @String{PacificMath = "Pacific J. Math." }
+ @String{ParDistComp = "Journal of Parallel and Distributed Computing" }
+ @String{ParDistComp = "J. Parallel and Distrib. Comput." } % didn't find
+%% in AMS MR
+ @String{ParComputing = "Parallel Computing" }
+ @String{ParComputing = "Parallel Comput." }
+ @String{PhilMag = "Philosophical Magazine" }
+ @String{PhilMag = "Philos. Mag." }
+ @String{ProcNAS = "Proceedings of the National Academy of Sciences
+                    of the USA" }
+ @String{ProcNAS = "Proc. Nat. Acad. Sci. U. S. A." }
+ @String{Psychometrika = "Psychometrika" }
+ @String{QuartMath = "Quarterly Journal of Mathematics, Oxford, Series (2)" }
+ @String{QuartMath = "Quart. J. Math. Oxford Ser. (2)" }
+ @String{QuartApplMath = "Quarterly of Applied Mathematics" }
+ @String{QuartApplMath = "Quart. Appl. Math." }
+ @String{RevueInstStat = "Review of the International Statisical Institute" }
+ @String{RevueInstStat = "Rev. Inst. Internat. Statist." }
+
+ %SIAM
+ @String{JSIAM = "Journal of the Society for Industrial and Applied
+     Mathematics" }
+ @String{JSIAM = "J. Soc. Indust. Appl. Math." }
+ @String{JSIAMB = "Journal of the Society for Industrial and Applied
+     Mathematics, Series B, Numerical Analysis" }
+ @String{JSIAMB = "J. Soc. Indust. Appl. Math. Ser. B Numer. Anal." }
+ @String{SIAMAlgMeth = "{SIAM} Journal on Algebraic and Discrete Methods" }
+ @String{SIAMAlgMeth = "{SIAM} J. Algebraic Discrete Methods" }
+ @String{SIAMAppMath = "{SIAM} Journal on Applied Mathematics" }
+ @String{SIAMAppMath = "{SIAM} J. Appl. Math." }
+ @String{SIAMComp = "{SIAM} Journal on Computing" }
+ @String{SIAMComp = "{SIAM} J. Comput." }
+ @String{SIAMMatrix = "{SIAM} Journal on Matrix Analysis and Applications" }
+ @String{SIAMMatrix = "{SIAM} J. Matrix Anal. Appl." }
+ @String{SIAMNumAnal = "{SIAM} Journal on Numerical Analysis" }
+ @String{SIAMNumAnal = "{SIAM} J. Numer. Anal." }
+ @String{SIAMReview = "{SIAM} Review" }
+ @String{SIAMReview = "{SIAM} Rev." }
+ @String{SIAMSciStat = "{SIAM} Journal on Scientific and Statistical
+     Computing" }
+ @String{SIAMSciStat = "{SIAM} J. Sci. Statist. Comput." }
+
+ @String{SoftPracExp = "Software Practice and Experience" }
+ @String{SoftPracExp = "Software Prac. Experience" } % didn't find in AMS MR
+ @String{StatScience = "Statistical Science" }
+ @String{StatScience = "Statist. Sci." }
+ @String{Techno = "Technometrics" }
+ @String{USSRCompMathPhys = "{USSR} Computational Mathematics and Mathematical
+     Physics" }
+ @String{USSRCompMathPhys = "{U. S. S. R.} Comput. Math. and Math. Phys." }
+ @String{VLSICompSys = "Journal of {VLSI} and Computer Systems" }
+ @String{VLSICompSys = "J. {VLSI} Comput. Syst." }
+ @String{ZAngewMathMech = "Zeitschrift fur Angewandte Mathematik und
+     Mechanik" }
+ @String{ZAngewMathMech = "Z. Angew. Math. Mech." }
+ @String{ZAngewMathPhys = "Zeitschrift fur Angewandte Mathematik und Physik" }
+ @String{ZAngewMathPhys = "Z. Angew. Math. Phys." }
+
+% Publishers % ================================================= |
+
+ @String{Academic = "Academic Press" }
+ @String{ACMPress = "{ACM} Press" }
+ @String{AdamHilger = "Adam Hilger" }
+ @String{AddisonWesley = "Addison-Wesley" }
+ @String{AllynBacon = "Allyn and Bacon" }
+ @String{AMS = "American Mathematical Society" }
+ @String{Birkhauser = "Birkha{\"u}ser" }
+ @String{CambridgePress = "Cambridge University Press" }
+ @String{Chelsea = "Chelsea" }
+ @String{ClaredonPress = "Claredon Press" }
+ @String{DoverPub = "Dover Publications" }
+ @String{Eyolles = "Eyolles" }
+ @String{HoltRinehartWinston = "Holt, Rinehart and Winston" }
+ @String{Interscience = "Interscience" }
+ @String{JohnsHopkinsPress = "The Johns Hopkins University Press" }
+ @String{JohnWileySons = "John Wiley and Sons" }
+ @String{Macmillan = "Macmillan" }
+ @String{MathWorks = "The Math Works Inc." }
+ @String{McGrawHill = "McGraw-Hill" }
+ @String{NatBurStd = "National Bureau of Standards" }
+ @String{NorthHolland = "North-Holland" }
+ @String{OxfordPress = "Oxford University Press" }  %address Oxford or London?
+ @String{PergamonPress = "Pergamon Press" }
+ @String{PlenumPress = "Plenum Press" }
+ @String{PrenticeHall = "Prentice-Hall" }
+ @String{SIAMPub = "{SIAM} Publications" }
+ @String{Springer = "Springer-Verlag" }
+ @String{TexasPress = "University of Texas Press" }
+ @String{VanNostrand = "Van Nostrand" }
+ @String{WHFreeman = "W. H. Freeman and Co." }
+
+%Entries
+
+@misc{EDGAR,
+  title = {{About EDGAR}},
+  howpublished = {\url{https://www.sec.gov/edgar/about}},
+  note = {Accessed: 2022-04-28}
+}
+
+@misc{Apple201710K,
+    title = {Apple's 2017 10K report},
+    howpublished = {\url{https://www.sec.gov/Archives/edgar/data/320193/000032019317000070/a10-k20179302017.htm}},
+    month = {November 3,},
+    year = 2017,
+    note = {Accessed: 2022-04-28}
+}
+
+@article{curme_zhuo_moat_preis_2017, title={Quantifying the diversity of news around stock market moves}, volume={3}, DOI={10.21314/jntf.2017.027}, number={1}, journal={The Journal of Network Theory in Finance}, author={Curme, Chester and Zhuo, Ying Daisy and Moat, Helen Susannah and Preis, Tobias}, year={2017}, pages={1–20}} 
+
+@misc{sec-api-docs,
+  title = {{SEC} API documentation},
+  howpublished = {\url{https://www.sec.gov/edgar/sec-api-documentation}},
+  note = {Accessed: 2022-04-28}
+}
+
+@misc{digitalised-report-example,
+  title = {Apple's 10K report},
+  howpublished = {\url{https://www.sec.gov/Archives/edgar/data/0000320193/000032019318000145/0000320193-18-000145-index.html}},
+  month = {November 5,},
+  year = 2018,
+  note = {Accessed: 2022-04-28}
+}
+
+@misc{fortune-500-2021,
+  title = {Fortune 500 ranking},
+  howpublished = {\url{https://fortune.com/global500/2021/search/}},
+  year = 2021,
+  month = {June 7},
+  note = {Accessed: 2022-04-28}
+}
+
+@misc{edgar-search,
+  title = {EDGAR Search Engine},
+  howpublished = {\url{https://www.sec.gov/edgar/search/}},
+  note = {Accessed: 2022-04-28}
+}
+
+@misc{wiki:10k,
+   author = "{Wikipedia contributors}",
+   title = "Form 10-{K} --- {W}ikipedia{,} The Free Encyclopedia",
+   year = 2022,
+   url = "https://en.wikipedia.org/wiki/Form_10-K",
+   note = "[Online; accessed 2022-04-28]"
+ }
+
+@misc{wiki:sec,
+   author = "{Wikipedia contributors}",
+   title = "U.{S}. Securities and Exchange Commission --- {W}ikipedia{,} The Free Encyclopedia",
+   year = 2022,
+   url = "https://en.wikipedia.org/wiki/U.S._Securities_and_Exchange_Commission",
+   note = "[Online; 2022-04-28]"
+ }
+ 
+@misc{10k-general-rules,
+  author="{U.{S}. SEC}",
+  title="FORM 10-K ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 GENERAL INSTRUCTIONS",
+  year= 2022,
+  url = "https://www.sec.gov/files/form10-k_1.pdf",
+  note = "[Online; accessed 2022-04-28]",
+}
+
+@misc{modernisation-ruling,
+  author="{Securities and Exchange Commission}",
+  title="Modernization of Regulation S-K Items 101, 103, and 105",
+  year= 2020,
+  url = "https://www.sec.gov/rules/final/2020/33-10825.pdf",
+  note = "[Online; accessed 2022-04-28]",
+}
+
+@article{DBLP:journals/corr/abs-1810-04805,
+  author    = {Jacob Devlin and
+               Ming{-}Wei Chang and
+               Kenton Lee and
+               Kristina Toutanova},
+  title     = {{BERT:} Pre-training of Deep Bidirectional Transformers for Language
+               Understanding},
+  journal   = {CoRR},
+  volume    = {abs/1810.04805},
+  year      = {2018},
+  url       = {http://arxiv.org/abs/1810.04805},
+  eprinttype = {arXiv},
+  eprint    = {1810.04805},
+  timestamp = {Tue, 30 Oct 2018 20:39:56 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1810-04805.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/VaswaniSPUJGKP17,
+  author    = {Ashish Vaswani and
+               Noam Shazeer and
+               Niki Parmar and
+               Jakob Uszkoreit and
+               Llion Jones and
+               Aidan N. Gomez and
+               Lukasz Kaiser and
+               Illia Polosukhin},
+  title     = {Attention Is All You Need},
+  journal   = {CoRR},
+  volume    = {abs/1706.03762},
+  year      = {2017},
+  url       = {http://arxiv.org/abs/1706.03762},
+  eprinttype = {arXiv},
+  eprint    = {1706.03762},
+  timestamp = {Sat, 23 Jan 2021 01:20:40 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/VaswaniSPUJGKP17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@misc{grootendorst2020bertopic,
+  author       = {Maarten Grootendorst},
+  title        = {BERTopic: Leveraging BERT and c-TF-IDF to create easily interpretable topics.},
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {v0.9.4},
+  doi          = {10.5281/zenodo.4381785},
+  url          = {https://doi.org/10.5281/zenodo.4381785}
+}
+
+@misc{dtm-example,
+  title = {Exploring the UN general debates with Dynamic Topic Models},
+  howpublished = {\url{https://towardsdatascience.com/exploring-the-un-general-debates-with-dynamic-topic-models-72dc0e307696}},
+  note = {Accessed: 2022-04-28}
+}
+
+@misc{umap,
+  doi = {10.48550/ARXIV.1802.03426},
+  url = {https://arxiv.org/abs/1802.03426},
+  author = {McInnes, Leland and Healy, John and Melville, James},
+  keywords = {Machine Learning (stat.ML), Computational Geometry (cs.CG), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction},
+  publisher = {arXiv},
+  year = {2018},
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+
+@article{hdbscan,
+  author    = {Claudia Malzer and
+               Marcus Baum},
+  title     = {HDBSCAN({\(\epsilon\)}{\^}): An Alternative Cluster Extraction Method
+               for {HDBSCAN}},
+  journal   = {CoRR},
+  volume    = {abs/1911.02282},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1911.02282},
+  eprinttype = {arXiv},
+  eprint    = {1911.02282},
+  timestamp = {Mon, 11 Nov 2019 18:38:09 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1911-02282.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@misc{wiki:macd,
+   author = "{Wikipedia contributors}",
+   title = "MACD --- {W}ikipedia{,} The Free Encyclopedia",
+   year = 2021,
+   url = "https://en.wikipedia.org/wiki/MACD",
+   note = "[Online; 2022-04-28]"
+ }
+
+@article{doi:10.1287/mnsc.2014.1930,
+author = {Bao, Yang and Datta, Anindya},
+title = {Simultaneously Discovering and Quantifying Risk Types from Textual Risk Disclosures},
+journal = {Management Science},
+volume = {60},
+number = {6},
+pages = {1371-1391},
+year = {2014},
+doi = {10.1287/mnsc.2014.1930},
+
+URL = { 
+        https://doi.org/10.1287/mnsc.2014.1930
+    
+},
+eprint = { 
+        https://doi.org/10.1287/mnsc.2014.1930
+    
+}
+,
+    abstract = { Managers and researchers alike have long recognized the importance of corporate textual risk disclosures. Yet it is a nontrivial task to discover and quantify variables of interest from unstructured text. In this paper, we develop a variation of the latent Dirichlet allocation topic model and its learning algorithm for simultaneously discovering and quantifying risk types from textual risk disclosures. We conduct comprehensive evaluations in terms of both conventional statistical fit and substantive fit with respect to the quality of discovered information. Experimental results show that our proposed method outperforms all competing methods, and could find more meaningful topics (risk types). By taking advantage of our proposed method for measuring risk types from textual data, we study how risk disclosures in 10-K forms affect the risk perceptions of investors. Different from prior studies, our results provide support for all three competing arguments regarding whether and how risk disclosures affect the risk perceptions of investors, depending on the specific risk types disclosed. We find that around two-thirds of risk types lack informativeness and have no significant influence. Moreover, we find that the informative risk types do not necessarily increase the risk perceptions of investors—the disclosure of three types of systematic and liquidity risks will increase the risk perceptions of investors, whereas the other five types of unsystematic risks will decrease them. Data, as supplemental material, are available at http://dx.doi.org/10.1287/mnsc.2014.1930. This paper was accepted by Alok Gupta, special issue on business analytics. }
+}
+
+@article{Blei2010ProbabilisticTM,
+  title={Probabilistic Topic Models},
+  author={David M. Blei and Lawrence Carin and David B. Dunson},
+  journal={IEEE Signal Processing Magazine},
+  year={2010},
+  volume={27},
+  pages={55-65}
+}
+
+ @article{lafferty_blei_2009, title={Topic models}, DOI={10.1201/9781420059458.ch4}, journal={Text Mining}, author={Lafferty, John and Blei, David}, year={2009}, pages={71–93}} 
+ 
+ @article{Spasi2013FlexiTermAF,
+  title={FlexiTerm: a flexible term recognition method},
+  author={Irena Spasi{\'c} and R. Mark Greenwood and Alun David Preece and Nick Francis and Glyn Elwyn},
+  journal={Journal of Biomedical Semantics},
+  year={2013},
+  volume={4},
+  pages={27 - 27}
+}
+
+@book{ghosh2006introduction,
+  title={An introduction to Bayesian analysis: theory and methods},
+  author={Ghosh, Jayanta K and Delampady, Mohan and Samanta, Tapas},
+  volume={725},
+  year={2006},
+  publisher={Springer}
+}
+
+@article{blei2003latent,
+  title={Latent dirichlet allocation},
+  author={Blei, David M and Ng, Andrew Y and Jordan, Michael I},
+  journal={Journal of machine Learning research},
+  volume={3},
+  number={Jan},
+  pages={993--1022},
+  year={2003}
+}
+
+@misc{bertopic-latest-paper,
+  doi = {10.48550/ARXIV.2203.05794},
+  
+  url = {https://arxiv.org/abs/2203.05794},
+  
+  author = {Grootendorst, Maarten},
+  
+  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {BERTopic: Neural topic modeling with a class-based TF-IDF procedure},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+
+@article{Frantzi2000AutomaticRO,
+  title={Automatic recognition of multi-word terms:. the C-value/NC-value method
+},
+  author={Katerina T. Frantzi and Sophia Ananiadou and Hideki Mima},
+  journal={International Journal on Digital Libraries},
+  year={2000},
+  volume={3},
+  pages={115-130}
+}
+
+@article{DBLP:journals/corr/abs-1908-10063,
+  author    = {Dogu Araci},
+  title     = {FinBERT: Financial Sentiment Analysis with Pre-trained Language Models},
+  journal   = {CoRR},
+  volume    = {abs/1908.10063},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1908.10063},
+  eprinttype = {arXiv},
+  eprint    = {1908.10063},
+  timestamp = {Thu, 29 Aug 2019 16:32:34 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1908-10063.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@report{dhruv,
+author = {Dhruv Segat},
+title = {Emerging Risk Detection using Financial Documents},
+institution = {University of Manchester School of Computer Science},
+year = {2021}}
+
+@article{top2vec,
+  author    = {Dimo Angelov},
+  title     = {Top2Vec: Distributed Representations of Topics},
+  journal   = {CoRR},
+  volume    = {abs/2008.09470},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2008.09470},
+  eprinttype = {arXiv},
+  eprint    = {2008.09470},
+  timestamp = {Fri, 28 Aug 2020 12:11:44 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2008-09470.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{Tattershall2019DetectingBT,
+  title={Detecting bursty terms in computer science research},
+  author={E. Tattershall and G. Nenadic and Robert Stevens},
+  journal={Scientometrics},
+  year={2019},
+  volume={122},
+  pages={681-699}
+}
+
+@article{scikit-learn,
+ title={Scikit-learn: Machine Learning in {P}ython},
+ author={Pedregosa, F. and Varoquaux, G. and Gramfort, A. and Michel, V.
+         and Thirion, B. and Grisel, O. and Blondel, M. and Prettenhofer, P.
+         and Weiss, R. and Dubourg, V. and Vanderplas, J. and Passos, A. and
+         Cournapeau, D. and Brucher, M. and Perrot, M. and Duchesnay, E.},
+ journal={Journal of Machine Learning Research},
+ volume={12},
+ pages={2825--2830},
+ year={2011}
+}
+
+@article{wang2018predicting,
+  title={Predicting stock price trend using MACD optimized by historical volatility},
+  author={Wang, Jian and Kim, Junseok},
+  journal={Mathematical Problems in Engineering},
+  volume={2018},
+  year={2018},
+  publisher={Hindawi}
+}
+
+@misc{wiki:cik,
+   author = "{Wikipedia contributors}",
+   title = "Central Index Key --- {W}ikipedia{,} The Free Encyclopedia",
+   year = 2021,
+   url = "https://en.wikipedia.org/wiki/Central_Index_Key",
+   note = "[Online; 2022-04-28]"
+}
+
+@misc{sec-edgar-downloader,
+  title = {Library for downloading financial documents from EDGAR},
+  howpublished = {\url{https://sec-edgar-downloader.readthedocs.io/en/latest/}},
+  note = {Accessed: 2022-04-28}
+}
+
+@misc{sec-company-tickers,
+  title = {Company tickers index},
+  howpublished = {\url{https://www.sec.gov/files/company_tickers.json}},
+  note = {Accessed: 2022-04-28}
+}
+
+@misc{bs4,
+  title = {Beautiful Soup Library},
+  howpublished = {\url{https://beautiful-soup-4.readthedocs.io/en/latest/}},
+  note = {Accessed: 2022-04-28}
+}
+
+@misc{mongodb,
+  title = {mongoDB},
+  howpublished = {\url{https://www.mongodb.com/}},
+  note = {Accessed: 2022-04-28}
+}
+
+@misc{etl,
+  title = {DataBricks},
+  howpublished = {\url{https://databricks.com/glossary/extract-transform-load}},
+  note = {Accessed: 2022-04-28}
+}
+
+@article{SOUILI2015635,
+title = {Natural Language Processing (NLP) – A Solution for Knowledge Extraction from Patent Unstructured Data},
+journal = {Procedia Engineering},
+volume = {131},
+pages = {635-643},
+year = {2015},
+note = {TRIZ and Knowledge-Based Innovation in Science and Industry},
+issn = {1877-7058},
+doi = {https://doi.org/10.1016/j.proeng.2015.12.457},
+url = {https://www.sciencedirect.com/science/article/pii/S1877705815043490},
+author = {Achille Souili and Denis Cavallucci and François Rousselot},
+keywords = {TRIZ, Inventive Design, Text mining, Patent mining, Knowledge discovery ;},
+abstract = {Patents are valuable source of knowledge and are extremely important for assisting engineers and decisions makers through the inventive process. This paper describes a new approach of automatic extraction of IDM (Inventive Design Method) related knowledge from patent documents. IDM derives from TRIZ, the theory of Inventive problem solving, which is largely based on patent's observation to theorize the act of inventing. Our method mainly consists in using natural language techniques (NLP) to match and extract knowledge relevant to IDM Ontology. The purpose of this paper is to investigate on the contribution of NLP techniques to effective knowledge extraction from patent documents. We propose in this paper to firstly report on progress made so far in data mining before describing our approach.}
+}
+
+@misc{clarity-nlp,
+  title = {ClarityNLP},
+  howpublished = {\url{https://claritynlp.readthedocs.io/en/latest/developer_guide/algorithms/section_tagger.html}},
+  note = {Accessed: 2022-04-28}
+}
+
+@article{DBLP:journals/corr/abs-2109-13890,
+  author    = {Esam Alzahrani and
+               Leon Jololian},
+  title     = {How Different Text-preprocessing Techniques Using The {BERT} Model
+               Affect The Gender Profiling of Authors},
+  journal   = {CoRR},
+  volume    = {abs/2109.13890},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2109.13890},
+  eprinttype = {arXiv},
+  eprint    = {2109.13890},
+  timestamp = {Mon, 04 Oct 2021 17:22:25 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2109-13890.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@misc{bert-clear-data,
+  title = {Does BERT Need Clean Data?},
+  howpublished = {\url{https://bricken.co/nlp_disaster_tweets_2/}},
+  note = {Accessed: 2022-04-28}
+}
+@misc{text-tokenizer-keras,
+  title = {text_to_word_sequence},
+  howpublished = {\url{https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/text_to_word_sequence}},
+  note = {Accessed: 2022-04-28}
+}
+
+@online{chollet2015keras,
+  title={Keras},
+  author={Chollet, Francois and others},
+  year={2015},
+  publisher={GitHub},
+  url={https://github.com/fchollet/keras},
+} 
+
+@book{nltk,
+  title={Natural language processing with Python: analyzing text with the natural language toolkit},
+  author={Bird, Steven and Klein, Ewan and Loper, Edward},
+  year={2009},
+  publisher={" O'Reilly Media, Inc."}
+} 
+
+@unpublished{spacy2,
+    AUTHOR = {Honnibal, Matthew and Montani, Ines},
+    TITLE  = {{spaCy 2}: Natural language understanding with {B}loom embeddings, convolutional neural networks and incremental parsing},
+    YEAR   = {2017},
+} 
+
+@misc{bertopic-embeddings,
+  title = {BERTopic embeddings},
+  howpublished = {\url{https://maartengr.github.io/BERTopic/getting_started/embeddings/embeddings.html}},
+  note = {Accessed: 2022-04-28}
+}
+@misc{huggingface-models,
+  title = {Hugging Face models},
+  howpublished = {\url{https://huggingface.co/models?pipeline_tag=text-classification&sort=downloads}},
+  note = {Accessed: 2022-04-28}
+}
+
+@misc{flair-nlp,
+  title = {Flair NLP Library},
+  howpublished = {\url{https://github.com/flairNLP/flair}},
+  note = {Accessed: 2022-04-28}
+}
+
+@misc{umap-parameters,
+  title = {UMAP parameters},
+  howpublished = {\url{https://umap-learn.readthedocs.io/en/latest/parameters.html}},
+  note = {Accessed: 2022-04-28}
+}
+
+@article{DBLP:journals/corr/abs-2101-10642,
+  author    = {Hyunjin Choi and
+               Judong Kim and
+               Seongho Joe and
+               Youngjune Gwon},
+  title     = {Evaluation of {BERT} and {ALBERT} Sentence Embedding Performance on
+               Downstream {NLP} Tasks},
+  journal   = {CoRR},
+  volume    = {abs/2101.10642},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2101.10642},
+  eprinttype = {arXiv},
+  eprint    = {2101.10642},
+  timestamp = {Sun, 31 Jan 2021 17:23:50 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2101-10642.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@misc{sbert-models,
+  title = {SBERT Pre-trained models},
+  howpublished = {\url{https://www.sbert.net/docs/pretrained_models.html}},
+  note = {Accessed: 2022-04-28}
+}
+
+@misc{topic-modelling-example,
+  title = {Example of use for topic modelling},
+  howpublished = {\url{https://www.reuters.com/article/lummus-cbi-idUSWEN068720070827}},
+  note = {Accessed: 2022-04-28}
+}
+
+@misc{a-guide-to-feature-engineering-time-series-tsfresh,
+  title = {A guide to feature engineering time-series tsfresh},
+  howpublished = {\url{https://analyticsindiamag.com/a-guide-to-feature-engineering-in-time-series-with-tsfresh/}},
+  note = {Accessed: 2022-04-28}
+}
+
+@misc{fea-timeseries,
+  title = {Introduction to feature engineering for time series forecasting},
+  howpublished = {\url{https://medium.com/data-science-at-microsoft/introduction-to-feature-engineering-for-time-series-forecasting-620aa55fcab0}},
+  note = {Accessed: 2022-04-28}
+}
+
+@misc{basic-fea-timeseries,
+  title = {Basic feature engineering time-series},
+  howpublished = {\url{https://machinelearningmastery.com/basic-feature-engineering-time-series-data-python/}},
+  note = {Accessed: 2022-04-28}
+}
+
+@article{Tang2020EnrichingFE,
+  title={Enriching feature engineering for short text samples by language time series analysis},
+  author={Yichen Tang and Kelly Blincoe and A. Kempa-Liehr},
+  journal={EPJ Data Science},
+  year={2020},
+  volume={9},
+  pages={1-59}
+}
+
+@article{JMLR:v18:16-365,
+author  = {Guillaume  Lema{{\^i}}tre and Fernando Nogueira and Christos K. Aridas},
+title   = {Imbalanced-learn: A Python Toolbox to Tackle the Curse of Imbalanced Datasets in Machine Learning},
+journal = {Journal of Machine Learning Research},
+year    = {2017},
+volume  = {18},
+number  = {17},
+pages   = {1-5},
+url     = {http://jmlr.org/papers/v18/16-365.html}
+}
+
+@misc{herzen2021darts,
+      title={Darts: User-Friendly Modern Machine Learning for Time Series},
+      author={Julien Herzen and Francesco Lässig and Samuele Giuliano Piazzetta and Thomas Neuer and Léo Tafti and Guillaume Raille and Tomas Van Pottelbergh and Marek Pasieka and Andrzej Skrodzki and Nicolas Huguenin and Maxime Dumonal and Jan Kościsz and Dennis Bader and Frédérick Gusset and Mounir Benheddi and Camila Williamson and Michal Kosinski and Matej Petrik and Gaël Grosch},
+      year={2021},
+      eprint={2110.03224},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+
+@misc{wiki:mse,
+   author = "{Wikipedia contributors}",
+   title = "Mean squared error --- {W}ikipedia{,} The Free Encyclopedia",
+   year = 2022,
+   url = "https://en.wikipedia.org/wiki/Mean_squared_error",
+   note = "[Online; 2022-04-28]"
+}
+
+@misc{wiki:p&r,
+   author = "{Wikipedia contributors}",
+   title = "Precision and recall --- {W}ikipedia{,} The Free Encyclopedia",
+   year = 2022,
+   url = "https://en.wikipedia.org/wiki/Precision_and_recall",
+   note = "[Online; 2022-04-28]"
+}
+
+@misc{wiki:f-score,
+   author = "{Wikipedia contributors}",
+   title = "F-score --- {W}ikipedia{,} The Free Encyclopedia",
+   year = 2022,
+   url = "https://en.wikipedia.org/wiki/F-score",
+   note = "[Online; 2022-04-28]"
+}
+
+@misc{wiki:mae,
+   author = "{Wikipedia contributors}",
+   title = "Mean absolute error --- {W}ikipedia{,} The Free Encyclopedia",
+   year = 2021,
+   url = "https://en.wikipedia.org/wiki/Mean_absolute_error",
+   note = "[Online; 2022-04-28]"
+}
+
+@misc{wiki:mape,
+   author = "{Wikipedia contributors}",
+   title = "Mean absolute percentage error --- {W}ikipedia{,} The Free Encyclopedia",
+   year = 2022,
+   url = "https://en.wikipedia.org/wiki/Mean_absolute_percentage_error",
+   note = "[Online; 2022-04-28]"
+}
+
+@misc{wiki:r2,
+   author = "{Wikipedia contributors}",
+   title = "Coefficient_of_determination --- {W}ikipedia{,} The Free Encyclopedia",
+   year = 2022,
+   url = "https://en.wikipedia.org/wiki/Coefficient_of_determination",
+   note = "[Online; 2022-04-28]"
+}
+
+@article{Hjrland2002WorkTA,
+  title={Work tasks and socio-cognitive relevance: A specific example},
+  author={Birger Hj{\o}rland and Frank Sejer Christensen},
+  journal={J. Assoc. Inf. Sci. Technol.},
+  year={2002},
+  volume={53},
+  pages={960-965}
+}
+
+@inproceedings{Gogar2016DeepNN,
+  title={Deep Neural Networks for Web Page Information Extraction},
+  author={Tomas Gogar and Ondrej Hub{\'a}cek and Jan Sediv{\'y}},
+  booktitle={AIAI},
+  year={2016}
+}
+
+@inproceedings{qi-etal-2018-pre,
+    title = "When and Why Are Pre-Trained Word Embeddings Useful for Neural Machine Translation?",
+    author = "Qi, Ye  and
+      Sachan, Devendra  and
+      Felix, Matthieu  and
+      Padmanabhan, Sarguna  and
+      Neubig, Graham",
+    booktitle = "Proceedings of the 2018 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers)",
+    month = jun,
+    year = "2018",
+    address = "New Orleans, Louisiana",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/N18-2084",
+    doi = "10.18653/v1/N18-2084",
+    pages = "529--535",
+    abstract = "The performance of Neural Machine Translation (NMT) systems often suffers in low-resource scenarios where sufficiently large-scale parallel corpora cannot be obtained. Pre-trained word embeddings have proven to be invaluable for improving performance in natural language analysis tasks, which often suffer from paucity of data. However, their utility for NMT has not been extensively explored. In this work, we perform five sets of experiments that analyze when we can expect pre-trained word embeddings to help in NMT tasks. We show that such embeddings can be surprisingly effective in some cases {--} providing gains of up to 20 BLEU points in the most favorable setting.",
+}
+
+@inproceedings{Conneau2017SupervisedLO,
+  title={Supervised Learning of Universal Sentence Representations from Natural Language Inference Data},
+  author={Alexis Conneau and Douwe Kiela and Holger Schwenk and Lo{\"i}c Barrault and Antoine Bordes},
+  booktitle={EMNLP},
+  year={2017}
+}
+
+@article{ABUHAY2018193,
+title = {Analysis of publication activity of computational science society in 2001–2017 using topic modelling and graph theory},
+journal = {Journal of Computational Science},
+volume = {26},
+pages = {193-204},
+year = {2018},
+issn = {1877-7503},
+doi = {https://doi.org/10.1016/j.jocs.2018.04.004},
+url = {https://www.sciencedirect.com/science/article/pii/S1877750318302461},
+author = {Tesfamariam M. Abuhay and Sergey V. Kovalchuk and Klavdiya Bochenina and Gali-Ketema Mbogo and Alexander A. Visheratin and George Kampis and Valeria V. Krzhizhanovskaya and Michael H. Lees},
+keywords = {Topic modelling, Natural language processing, ICCS, Computational science, Graph theory, Collaboration networks},
+abstract = {This paper presents the results of topic modelling and analysis of topic networks using the corpus of the International Conference on Computational Science (ICCS), which contains 5982 domain-specific papers over seventeen years 2001–2017. We discuss the topical structures of ICCS, and show how these topics have evolved over time in response to the topicality of various domains, technologies and methods, and how all these topics relate to one another. This analysis illustrates the multidisciplinary research and collaborations among scientific communities, by constructing static and dynamic networks from the topic modelling results and from the authors’ keywords. The results of this study provide insights regarding the past and future trends of core discussion topics in computational science and show how “computational thinking” has propagated across different fields of study. We used the Non-negative Matrix Factorization (NMF) topic modelling algorithm to discover topics. The resulting topics were then manually labelled and grouped hierarchically on three levels. Next, we applied trend analysis and Change Point Analysis (CPA) to study the evolution of topics over seventeen years and to identify the growing and disappearing topics. We used Gephi to examine the static networks of topics, and an R library called DyA to analyse the dynamic networks of topics. We also analysed the conference as a platform for potential collaboration development through the perspective of collaboration networks. The results show that authors of ICCS papers continue to actively collaborate after the conference − on average authors collaborate with three other ICCS authors, − which suggests that ICCS is a valuable platform for collaboration development.}
+}
+
+@article{HalimaBanu2016TrendingTA,
+  title={Trending Topic Analysis using novel sub topic detection model},
+  author={S. Halima Banu and S. Chitrakala},
+  journal={2016 2nd International Conference on Advances in Electrical, Electronics, Information, Communication and Bio-Informatics (AEEICB)},
+  year={2016},
+  pages={157-161}
+}
+
+@misc{wiki:mars,
+   author = "{Wikipedia contributors}",
+   title = "Multivariate adaptive regression spline --- {W}ikipedia{,} The Free Encyclopedia",
+   year = 2022,
+   url = "https://en.wikipedia.org/wiki/Multivariate_adaptive_regression_spline",
+   note = "[Online; 2022-04-28]"
+}
+
+@article{JMLR:demsar13a,
+    author  = {Janez Dem\v{s}ar and Toma\v{z} Curk and Ale\v{s} Erjavec and \v{C}rt Gorup and
+    Toma\v{z} Ho\v{c}evar and Mitar Milutinovi\v{c} and Martin Mo\v{z}ina and Matija Polajnar and
+    Marko Toplak and An\v{z}e Stari\v{c} and Miha \v{S}tajdohar and Lan Umek and
+    Lan \v{Z}agar and Jure \v{Z}bontar and Marinka \v{Z}itnik and Bla\v{z} Zupan},
+    title   = {Orange: Data Mining Toolbox in Python},
+    journal = {Journal of Machine Learning Research},
+    year    = {2013},
+    volume  = {14},
+    pages   = {2349-2353},
+    url     = {http://jmlr.org/papers/v14/demsar13a.html}
+}
+
+
+@misc{sec-data-policy,
+  title = {SEC EDGAR Data policy},
+  howpublished = {\url{https://www.sec.gov/os/accessing-edgar-data}},
+  note = {Accessed: 2022-04-28}
+}
+
+@inproceedings{Aggarwal2001OnTS,
+  title={On the Surprising Behavior of Distance Metrics in High Dimensional Spaces},
+  author={Charu C. Aggarwal and Alexander Hinneburg and Daniel A. Keim},
+  booktitle={ICDT},
+  year={2001}
+}
+
+@article{McInnes2017,
+  doi = {10.21105/joss.00205},
+  url = {https://doi.org/10.21105/joss.00205},
+  year = {2017},
+  publisher = {The Open Journal},
+  volume = {2},
+  number = {11},
+  pages = {205},
+  author = {Leland McInnes and John Healy and Steve Astels},
+  title = {hdbscan: Hierarchical density based clustering},
+  journal = {Journal of Open Source Software}
+}
+
+@misc{bertopic-online,
+  title = {BERTopic model available through Google Colab},
+  howpublished = {\url{https://drive.google.com/file/d/1sSaWKQbK7lEFCb5EgxCxYVbmH5VHhGrk/view}},
+  note = {Accessed: 2022-04-28}
+}
+
